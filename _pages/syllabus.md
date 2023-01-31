@@ -14,57 +14,64 @@ info:
   course_homepage: "https://www.billmongan.com/Ursinus-CSPedagogy/"
   class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS475%20Spring%202021
   ical: files/CS471.ics
-  course_prerequisites: "CS471"
-  course_start_date: "2021/01/18"
-  course_end_date: "2021/05/05"
-  course_description: "Course Description."
+  course_prerequisites: "None.  Students interested in Computer Science and/or Education are encouraged to join!"
+  course_start_date: "2023/01/16"
+  course_end_date: "2023/05/03"
+  course_description: "This course is a collaborative service-learning effort among students with an interest in computing and in education.  The course is intended to prepare pre-service teachers for certification in K-12 Computer Science in Pennsylvania, and to provide students with a research-based background in science communication and pedagogy.  We explore unique aspects of educational design in a computing environment, as well as current challenges, trends, and opportunities in computing education.  Particular emphasis will center upon equitable computing pedagogy and practice, and creating a classroom environment that is inclusive of diverse learning needs, culturally relevant, and learner-centric.  Students will design educational activities according to pedagogical best practices, and work with K-12 teachers at local schools to deliver and assess those educational materials.  Students will collectively create a portfolio of open-source curricular materials for teaching computing in the K-12 classroom for subsequent adoption and revision."
+  questions: |
+    Specifically, we will collectively consider questions like:
+    <ul>
+    <li>How can we teach computing concepts equitably to a class with widely heterogeneous prior experiences?</li>
+    <li>How can we make computing activities culturally relevant?</li>
+    <li>How can we make computing accessible and inclusive?</li>
+    <li>How can we promote social emotional learning (SEL) through computing education?</li>
+    <li>How do we design, present, and assess an effective lesson to achieve understanding through inquiry?</li>
+    <li>How do we model healthy and professional collaboration in a K-12 computing classroom?</li>
+    <li>What strategies promote effective student engagement in a computing class?</li>
+    </ul>    
   welcome_message: "Welcome to CS471!"
   class_meets_days:
     isM: true
     isT: false
     isW: true
     isR: false
-    isF: true 
+    isF: false 
     isS: false
     isU: false
   class_meets_locations:
   - section:
     - day: "M"
       starttime: "10:00 AM"
-      endtime: "10:50 AM"
-      place: "Kaleidoscope"
+      endtime: "11:20 AM"
+      place: "PFA 007"
     - day: "W"
       starttime: "10:00 AM"
-      endtime: "10:50 AM"
-      place: "Kaleidoscope"
-    - day: "F"
-      starttime: "10:00 AM"
-      endtime: "10:50 AM"
-      place: "Kaleidoscope"
+      endtime: "11:20 AM"
+      place: "PFA 007"
   midtermexam: 
-    - mdate: "2021/02/26"
-      mstarttime: "10:00 AM"
-      mendtime: "10:50 AM"
-      mroom: "Regular Class Period"      
+    - mdate: "TBD"
+      mstarttime: "TBD"
+      mendtime: "TBD"
+      mroom: "TBD"      
   finalexam: 
-    - fdate: "2021/05/10"
-      fstarttime: "9:00 AM"
-      fendtime: "12:00 PM"
-      froom: "REMOTE"
-  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 4% per day if submitted before 10:59 PM Eastern Time on the day submitted.  Each student will receive a total of 10 &quot;slack days&quot; for the semester with which to waive these grade reductions; for example, one assignment may be submitted 10 days late, or two assignments may be submitted 5 days late, with no grade reduction.  Should an exemption to this policy be requested and granted, a 5% per day reduction will be applied.  Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
+    - fdate: "TBD"
+      fstarttime: "TBD"
+      fendtime: "TBD"
+      froom: "TBD"
+  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 4% per day if submitted before 10:59 PM Eastern Time on the day submitted.  Each student will receive a total of 10 &quot;slack days&quot; for the semester with which to waive these grade reductions; for example, one assignment may be submitted 10 days late, or two assignments may be submitted 5 days late, with no grade reduction.  Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
   late_penalty_per_period: 4
   late_penalty_period: "day"
   banner: |
     <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
     <div style="width: 100%; display: table-row;">
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="Offnfopt, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:OSI_Model_v1.svg"><img width="100%" style="display:block;" alt="OSI Model v1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/256px-OSI_Model_v1.svg.png"></a>
+            <a title="chestercroff, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Think_Computer_Science_(CS).jpg"><img width="512" alt="Think Computer Science (CS)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Think_Computer_Science_%28CS%29.jpg/512px-Think_Computer_Science_%28CS%29.jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="Rarelibra, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:World_map_of_submarine_cables.png"><img width="100%" style="display:block;" alt="World map of submarine cables" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/World_map_of_submarine_cables.png/512px-World_map_of_submarine_cables.png"></a>
+            <a title="Giulia Forsythe, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"><img width="512" alt="Universal Design for Learning from Center for Applied Special Technology (9101797199)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_%289101797199%29.jpg/512px-Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_%289101797199%29.jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="Shiyu Ji, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:RR_BGP.svg"><img width="100%" style="display:block;" alt="RR BGP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/RR_BGP.svg/512px-RR_BGP.svg.png"></a>
+            <a title="Gareth Halfacree from Bradford, UK, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kitronik_micro_bit_Inventor%27s_Kit_(32952992662).png"><img width="512" alt="Kitronik micro bit Inventor&#039;s Kit (32952992662)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kitronik_micro_bit_Inventor%27s_Kit_%2832952992662%29.png/512px-Kitronik_micro_bit_Inventor%27s_Kit_%2832952992662%29.png"></a>
         </div>
     </div>
     </div>
@@ -79,33 +86,25 @@ instructors:
   picture: /images/profile.png
   officehours:
   - day: "M"
-    starttime: "5:00 PM"
-    endtime: "6:00 PM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"  
-  - day: "T"
-    starttime: "9:00 AM"
-    endtime: "10:50 AM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"   
-  - day: "T"
-    starttime: "2:00 PM"
-    endtime: "3:00 PM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"       
+    starttime: "12:00 PM"
+    endtime: "1:00 PM"
+    location: "Pfahler 101L"        
   - day: "W"
-    starttime: "5:00 PM"
-    endtime: "6:00 PM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"
+    starttime: "12:00 PM"
+    endtime: "1:00 PM"
+    location: "Pfahler 101L" 
   - day: "R"
     starttime: "9:00 AM"
-    endtime: "10:00 AM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"    
+    endtime: "10:00 PM"
+    location: "Pfahler 101L"     
   - day: "R"
     starttime: "11:00 AM"
     endtime: "12:00 PM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"        
+    location: "Pfahler 101L" 
   - day: "F"
-    starttime: "1:30 PM"
-    endtime: "3:30 PM"
-    location: "Virtual Office Hours on Microsoft Teams Help Room"  
+    starttime: "12:00 PM"
+    endtime: "1:00 PM"
+    location: "Pfahler 101L"  
     
 textbooks:
 - title: "An Introduction to Computer Networks"
@@ -133,9 +132,11 @@ textbooks:
   freelyavailable: false  
 
 objectives:
-- objective: "To comprehend the design of a network protocol suitable for implementation"
-- objective: "To select appropriate network protocols at each layer of abstraction"
-- objective: "To write multithreaded code capable of multiplexing simultaneous socket I/O requests"
+- objective: "To develop lessons in computing that engage learners according to pedagogical best practices"
+- objective: "To design educational activites that leverage the unique opportunities for collaboration in a computing classroom"
+- objective: "To engage learners across a diverse set of learning needs"
+- objective: "To construct and maintain an equitible and inclusive computing classroom environment"
+- objective: "To employ multiple modalities and pathways to computing, including kinesthetics, design thinking, and effective group collaboration"
 
 goals:
 - goal: "To articulate network privacy concerns with a global context, and to identify practices and techniques to improve online privacy"
@@ -183,590 +184,245 @@ letter_grades:
   range: "0-59.49"  
 
 schedule:
-- week: "0"
-  date: "1"
-  title: "Course Overview"
-  link: "../Ursinus-CS475-Overview"
-  deliverables:  
-  - dtitle: "Programming Assignment: Warmup Handed Out"
-    dlink: "./Assignments/Warmup"
-    points: 10 
-    submission_types: "noupload"    
-- week: "0"
-  date: "2"
-  title: "Sending Packets"  
-  deliverables:
-  - dtitle: "Participation: Pre-Assessment Handed Out"
-    dlink: "./Assignments/Participation/PreAssessment"
-    points: 10   
-    submission_types: "written"        
-  readings:
-  - rtitle: "Dordal Ch. 1"
-    rlink: false
-  - rtitle: "Kurose and Ross: What is the Internet?"
-    rlink: "https://youtu.be/74sEFYBBRAY"
-  - rtitle: "Kurose and Ross: The Network Edge"
-    rlink: "https://youtu.be/k8NmM-hImBU"  
-  - rtitle: "Kurose and Ross: The Network Core"
-    rlink: "https://youtu.be/f1nUcCdQJ8Y" 
-  - rtitle: "Kurose and Ross: Network Performance"
-    rlink: "https://youtu.be/hm1y4LsphQQ"     
-- week: "1"
-  date: "0"
-  title: "Motivating Examples: nslookup, HTTP, Traceroute"
-  link: "./Activities/MotivatingExamples"  
-  deliverables:
-  - dtitle: "Lab: Wireshark Overview Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v8.0.pdf"
-    points: 10   
-    submission_types: "written"        
-  readings:
-  - rtitle: "Jim Kurose: Wireshark Demo"
-    rlink: "https://www.youtube.com/watch?v=PYoXowOCppc"
-  - rtitle: "Jim Kurose: Traceroute Demo"
-    rlink: "https://www.youtube.com/watch?v=wEWiYLb7pxg" 
-  - rtitle: "Visualizing Traceroute on a Map of the Earth"
-    rlink: "https://www.youtube.com/watch?v=75yKT3OuE44"  
-- week: "1"
-  date: "1"
-  title: "Networking: A Layered Approach"
-  link: "./Activities/Layers"
-  deliverables:
-  - dtitle: "Programming Assignment: Warmup Due"
-    dlink: "./Assignments/Warmup"
-    points: 10  
-    submission_types: "noupload"    
-  readings:
-  - rtitle: "Kurose and Ross: Protocol Layers"
-    rlink: "https://youtu.be/IZ_PnVXtMeY"  
-  - rtitle: "Kurose and Ross: Networks Under Attack"
-    rlink: "https://youtu.be/yukwBqSwAkg"    
-  - rtitle: "Kurose and Ross: History of Computer Networking"
-    rlink: "https://youtu.be/l4q8iuqbuiQ"  
-- week: "1"
-  date: "2" 
-  title: "Socket Programming"
-  link: "./Activities/SocketProgramming"
-  readings:
-  - rtitle: "Redbook Ch. 11"
-    rlink: false  
-  - rtitle: "Kurose and Ross: Socket Programming"
-    rlink: "https://youtu.be/_iHMMo7SDfQ"   
-  deliverables:
-  - dtitle: "Participation: Pre-Assessment Due"
-    dlink: "./Assignments/Participation/PreAssessment"
-    points: 10 
-    submission_types: "written"   
-- week: "2"
-  date: "0" 
-  title: "Socket Programming"  
-- week: "2"
-  date: "1" 
-  title: "Multithreaded Socket Programming"    
-- week: "2"
-  date: "2" 
-  title: "Multithreaded Socket Programming"   
-  deliverables: 
-  - dtitle: "Programming Assignment: Mini Crypto Handed Out"
-    dlink: "./Assignments/MiniCrypto"
-    points: 100    
-- week: "3"
-  date: "0"
-  title: "The Physical Layer: Considerations"
-  link: "./Activities/PhysicalLayer"           
-  readings:
-  - rtitle: "Dordal Ch. 2"
-    rlink: false  
-- week: "3"
-  date: "1"
-  title: "TDMA with CSMA and ALOHA"  
-  deliverables:
-  - dtitle: "Lab: HTTP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf"     
-    points: 10 
-    submission_types: "written"        
-  readings:
-  - rtitle: "Transoceanic Cable Video"
-    rlink: "https://www.youtube.com/watch?v=T96P2d2UVsQ"  
-- week: "3"
-  date: "2"
-  title: "CSMA and ALOHA" 
-  deliverables:
-  - dtitle: "Lab: Wireshark Overview Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v8.0.pdf"  
-    points: 10    
-    submission_types: "written"        
-- week: "4"
-  date: "0"
-  title: "Ethernet"  
-  readings:
-  - rtitle: "The RFC Video"
-    rlink: "https://www.youtube.com/watch?v=8IXLpoN8Xj0"
-  deliverables:
-  - dtitle: "Programming Assignment: Mini Crypto Due"
-    dlink: "./Assignments/MiniCrypto"
-    points: 100   
-  - dtitle: "Programming Assignment: Introduction to the RFC Handed Out"  
-    dlink: "Assignments/RFC"
-    points: 100 
-    submission_types: "written"        
-- week: "4"
-  date: "1"
-  title: "Wi-Fi with FDMA and CDMA Wireless Protocols"
-  readings:
-  - rtitle: "Dordal Ch. 4"
-    rlink: false   
-  deliverables: 
-  - dtitle: "Lab: HTTP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf"   
-    points: 10
-  - dtitle: "Lab: Ethernet with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Ethernet_ARP_v8.0.pdf"     
-    points: 10   
-- week: "4"
-  date: "2"
-  title: "The Link Layer" 
-  link: "./Activities/LinkLayer"  
-  readings:
-  - rtitle: "Dordal Ch. 5"
-    rlink: false   
-- week: "5"
-  date: "0"
-  title: "Switching" 
-  readings:
-  - rtitle: "Dordal Ch. 6"
-    rlink: false  
-  - rtitle: "Kurose and Ross: The Link Layer"
-    rlink: "https://youtu.be/lMGWJZLTulY"
-  - rtitle: "Kurose and Ross: Error Detection and Correction"
-    rlink: "https://youtu.be/x-rQ3RiI7I0"     
-- week: "5"
-  date: "1"
-  title: "From Bits to Packets" 
-  readings:
-  - rtitle: "Dordal Ch. 7"
-    rlink: false    
-  - rtitle: "Kurose and Ross: Multiple Access Links and Protocols"
-    rlink: "https://youtu.be/X2cLpzFRMT4"  
-  deliverables:
-  - dtitle: "Lab: Ethernet with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Ethernet_ARP_v8.0.pdf"   
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: Wi-Fi with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_802.11_v8.0.pdf"   
-    points: 10    
-    submission_types: "written"        
-- week: "5"
-  date: "2"
-  title: "The Network Layer and IPv4"  
-  link: "./Activities/NetworkLayer"
-  readings:
-  - rtitle: "Dordal Ch. 9"
-    rlink: false  
-  - rtitle: "Kurose and Ross: The Network Layer Data Plane"
-    rlink: "https://youtu.be/olbr3WZwrdU"  
-  - rtitle: "Kurose and Ross: The Internet Protocol Part 1"
-    rlink: "https://youtu.be/sdIpLuIR1ZY"   
-  - rtitle: "Kurose and Ross: The Internet Protocol Part 2"
-    rlink: "https://youtu.be/H9DivCEFuUg"       
-- week: "6"
-  date: "0"
-  title: "IPv4 Addressing and Subnets"  
-  readings:
-  - rtitle: "Kurose and Ross: Generalized Forwarding"
-    rlink: "https://youtu.be/HIPVDxTrHqI"       
-  - rtitle: "Kurose and Ross: Middleboxes"
-    rlink: "https://youtu.be/kKZlPeyef0k" 
-  deliverables:
-  - dtitle: "Programming Assignment: Introduction to the RFC Due"  
-    dlink: "Assignments/RFC"
-    points: 100   
-    submission_types: "written"  
-  - dtitle: "Programming Assignment: FSM Handed Out"  
-    dlink: "Assignments/FSM"
-    points: 100    
-- week: "6"
-  date: "2"
-  title: "IPv4 Addressing and Subnets" 
-  deliverables:
-  - dtitle: "Lab: Wi-Fi with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_802.11_v8.0.pdf"  
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: IP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v8.0.pdf"      
-    points: 10
-    submission_types: "written"        
-- week: "7"
-  date: "0"
-  title: "IP Multiplexing with NAT"  
-  deliverables:
-  - dtitle: "Midterm Exam: Midterm Handed Out"
-    dlink: false
-    points: 100  
-    submission_types: "written"            
-- week: "7"
-  date: "1"
-  title: "Outside Address Lookups with DNS" 
-  deliverables:    
-  - dtitle: "Lab: IP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v8.0.pdf"     
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: NAT with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_NAT_v8.0.pdf"      
-    points: 10
-    submission_types: "written"        
-  readings:
-  - rtitle: "Dordal Ch. 10"
-    rlink: false   
-  - rtitle: "Redbook Ch. 12"
-    rlink: false      
-  - rtitle: "Kurose and Ross: DNS"
-    rlink: "https://youtu.be/6lRcMh5Yphg"    
-- week: "7"
-  date: "2"
-  title: "Inside Address Lookups with ARP" 
-  deliverables:
-  - dtitle: "Participation: First Self-Assessment Handed Out"
-    dlink: "./Assignments/Participation/SelfAssessment"
-    points: 10 
-    submission_types: "written"        
-  - dtitle: "Midterm Exam: Midterm Due"
-    dlink: false
-    points: 100    
-    submission_types: "written"        
-- week: "8"
-  date: "0"
-  title: "Dynamic Configuration with DHCP"
-  deliverables:
-  - dtitle: "Lab: NAT with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_NAT_v8.0.pdf"  
-    points: 10    
-    submission_types: "written"        
-  - dtitle: "Lab: DHCP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DHCP_v8.0.pdf"    
-    points: 10
-    submission_types: "written"        
-- week: "8"
-  date: "1"
-  title: "ICMP and Ping" 
-  readings:
-  - rtitle: "Kurose and Ross: The Internet Control Message Protocol (ICMP)"
-    rlink: "https://youtu.be/EHV0Q0R--Ns"  
-  deliverables:
-  - dtitle: "Programming Assignment: FSM Due"  
-    dlink: "Assignments/FSM"
-    points: 100   
-  - dtitle: "Programming Assignment: Traceroute Handed Out"
-    dlink: "./Assignments/Traceroute"  
-- week: "8"
-  date: "2"
-  title: "IPv6"  
-  deliverables:
-    - dtitle: "Participation: First Self-Assessment Due"
-      dlink: "./Assignments/Participation/SelfAssessment"
-      points: 10   
-      submission_types: "written"        
-  readings:
-  - rtitle: "Dordal Ch. 11"
-    rlink: false   
-- week: "9"
-  date: "0"
-  title: "VPN and Tunneling" 
-  deliverables:
-  - dtitle: "Lab: DHCP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DHCP_v8.0.pdf" 
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: ICMP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_ICMP_v8.0.pdf"     
-    points: 10
-    submission_types: "written"        
-- week: "9"
-  date: "1"
-  title: "Routing" 
-  link: "./Activities/Routing"
-  readings:
-  - rtitle: "Dordal Ch. 13"
-    rlink: false 
-  - rtitle: "Kurose and Ross: The Network Layer Control Plane"
-    rlink: "https://youtu.be/Aeb80Q_mJp4"     
-  - rtitle: "Kurose and Ross: Routing Algorithms"
-    rlink: "https://youtu.be/bdh2kfgxVuw"        
-  - rtitle: "Kurose and Ross: What's Inside a Router? Part 1"
-    rlink: "https://youtu.be/NfHR94JAO-s"   
-  - rtitle: "Kurose and Ross: What's Inside a Router? Part 2"
-    rlink: "https://youtu.be/zfzzz9KQOog"     
-- week: "9"
-  date: "2"
-  title: "Distance Vector Algorithms"
-  readings:
-  - rtitle: "Kurose and Ross: Intra-AS Routing"
-    rlink: "https://youtu.be/iUQmn3nNjaI"   
-- week: "10"
-  date: "0"
-  title: "Hierarchical Routing"  
-  deliverables:
-  - dtitle: "Lab: ICMP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_ICMP_v8.0.pdf" 
-    points: 10
-    submission_types: "written"            
-  readings:
-  - rtitle: "Dordal Ch. 14"
-    rlink: false   
-- week: "10"
-  date: "2"
-  title: "Routing at Scale: BGP"
-  readings:
-  - rtitle: "Dordal Ch. 15"
-    rlink: false   
-  - rtitle: "Kurose and Ross: Routing Among the ISPs with BGP"
-    rlink: "https://youtu.be/2rV4tJkP-CQ"   
-  deliverables:
-  - dtitle: "Programming Assignment: Traceroute Due"
-    dlink: "./Assignments/Traceroute"   
-- week: "11"
-  date: "0"
-  title: "The Transport Layer: Considerations"
-  link: "./Activities/TransportLayer"
-  deliverables: 
-  - dtitle: "Programming Assignment: HTTP Client Handed Out"
-    dlink: "Assignments/HTTPClient"
-    points: 100
-  readings:
-  - rtitle: "Dordal Ch. 16"
-    rlink: false   
-  - rtitle: "Kurose and Ross: Introduction to Transport-Layer Services"
-    rlink: "https://youtu.be/lAvhH0XJLNE"      
-  - rtitle: "Kurose and Ross: Multiplexing"
-    rlink: "https://youtu.be/CekW6ipRrGA"        
-- week: "11"
-  date: "2"
-  title: "Basic Transport Services with UDP"
-  readings:
-  - rtitle: "Kurose and Ross: Connectionless Transport with UDP"
-    rlink: "https://youtu.be/VjBDgcNno-Q"    
-  deliverables:
-  - dtitle: "Lab: UDP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.0.pdf" 
-    points: 10  
-    submission_types: "written"       
-- week: "12"
-  date: "0"
-  title: "Coordinating Transport Services with TCP" 
-  readings:
-  - rtitle: "Dordal Ch. 17"
-    rlink: false  
-  - rtitle: "Kurose and Ross: Principles of Reliable Data Transfer Part 1"
-    rlink: "https://youtu.be/nyUHUtmxWg0"      
-  - rtitle: "Kurose and Ross: Principles of Reliable Data Transfer Part 2"
-    rlink: "https://youtu.be/vxgH6r-II2Q"          
-- week: "12"
-  date: "1"
-  title: "TCP" 
-  readings:
-  - rtitle: "Kurose and Ross: Connection Oriented Transport with TCP Part 1"
-    rlink: "https://youtu.be/UYJP-6mhF6E"      
-  - rtitle: "Kurose and Ross: Connection Oriented Transport with TCP Part 2"
-    rlink: "https://youtu.be/E4I6t0mI_is"   
-- week: "12"
-  date: "2"
-  title: "TCP Sliding Window Protocols"   
-  readings:
-  - rtitle: "Dordal Ch. 8"
-    rlink: false 
-  deliverables:
-  - dtitle: "Lab: UDP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_UDP_v8.0.pdf" 
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: TCP with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v8.0.pdf"     
-    points: 10
-    submission_types: "written"    
-- week: "13"
-  date: "0"
-  title: "Congestion Management with TCP"  
-  deliverables: 
-  - dtitle: "Programming Assignment: HTTP Client Due"
-    dlink: "Assignments/HTTPClient"
-    points: 100 
-  - dtitle: "Participation: Second Self-Assessment Handed Out"
-    dlink: "./Assignments/Participation/SelfAssessment"
-    points: 10 
-    submission_types: "written"     
-  readings:
-  - rtitle: "Dordal Ch. 18"
-    rlink: false  
-  - rtitle: "Kurose and Ross: Principles of Congestion Control"
-    rlink: "https://youtu.be/Fm92xvIp6JY"       
-  - rtitle: "Kurose and Ross: TCP Congestion Control"
-    rlink: "https://youtu.be/cIHiSR4j3g4"    
-  - rtitle: "Kurose and Ross: Evolution of Transport Layer Functionality"
-    rlink: "https://youtu.be/oRUIEmpzk0Y" 
-  - rtitle: "Kurose and Ross: Transport Layer Summary"
-    rlink: "https://youtu.be/XPPsub35eNY"      
-- week: "13"
-  date: "1"
-  title: "Application Layer Protocols"  
-  link: "./Activities/ApplicationLayer"
-  deliverables:
-  - dtitle: "Programming Assignment: TFTP Handed Out"  
-    dlink: "Assignments/TFTP"
-    points: 100     
-  readings:
-  - rtitle: "Redbook Ch. 16"
-    rlink: false
-  - rtitle: "Kurose and Ross: Principles of Network Applications"
-    rlink: "https://youtu.be/abeupgK5z48"  
-  - rtitle: "Kurose and Ross: The Web and HTTP Part 1"
-    rlink: "https://youtu.be/S9GEPaQ1lFs"   
-  - rtitle: "Kurose and Ross: The Web and HTTP Part 2"
-    rlink: "https://youtu.be/4M39gEPWPYs"     
-- week: "13"
-  date: "2"
-  title: "HTTP and SMTP"  
-  link: "/Ursinus-WebMobile-HTTP"
-  readings:
-  - rtitle: "Kurose and Ross: Video Streaming and Content Distribution"
-    rlink: "https://youtu.be/ak5bbb-xHLI"    
-  deliverables:
-  - dtitle: "Final Project: Project and Presentation Handed Out"
-    dlink: "Projects/Final"  
-    points: 100   
-  - dtitle: "Lab: TCP with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v8.0.pdf"
-    points: 10
-    submission_types: "written"        
-  - dtitle: "Lab: DNS with Wireshark Handed Out"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v8.0.pdf"     
-    points: 10      
-    submission_types: "written"       
-  readings:
-  - rtitle: "Redbook Ch. 15"
-    rlink: false  
-  - rtitle: "Kurose and Ross: Email"
-    rlink: "https://youtu.be/D3GMrOMR2dk"
-  - rtitle: "Why Files Become Bigger in Emails (Encoding) from Computerphile"
-    rlink: "https://www.youtube.com/watch?v=zV-fR7xA4Hc"       
-- week: "14"
-  date: "0"
-  title: "Security and Privacy"
-  link: "./Activities/SecurityPrivacy"    
-  readings:
-  - rtitle: "Redbook Ch. 22"
-    rlink: false  
-- week: "14"
-  date: "1"
-  title: "Security and Privacy"
-  deliverables:
-    - dtitle: "Lab: DNS with Wireshark Due"
-      dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v8.0.pdf"  
-      points: 10     
-      submission_types: "written"            
-    - dtitle: "Lab: SSL with Wireshark Handed Out"
-      dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_SSL_v8.0.pdf"     
-      points: 10
-      submission_types: "written"               
-- week: "14"
-  date: "2"
-  title: "Security and Privacy with Public Key Cryptosystems"
-  deliverables:   
-    - dtitle: "Participation: Second Self-Assessment Due"
-      dlink: "./Assignments/Participation/SelfAssessment"
-      points: 10   
-      submission_types: "written"        
-    - dtitle: "Programming Assignment: TFTP Due"  
-      dlink: "Assignments/TFTP"
-      points: 100              
-- week: "15"
-  date: "0"
-  title: "Review"
-  deliverables:
-  - dtitle: "Final Project: Project and Presentation Due"
-    dlink: "Projects/Final"
-    points: 100
-  - dtitle: "Lab: SSL with Wireshark Due"
-    dlink: "http://www-net.cs.umass.edu/wireshark-labs/Wireshark_SSL_v8.0.pdf" 
-    points: 10   
-    submission_types: "written"            
+  - week: "0"
+    date: "0"
+    title: "Course Overview"
+    readings:
+      - rtitle: "Hello World: The Big Book of Computing Pedagogy"
+        rlink: "https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723"
+  - week: "0"
+    date: "1"
+    title: "What is Computer Science and Why CS Education?"
+    readings:
+      - rtitle: "CSTA Standards for CS Teachers"
+        rlink: "https://www.csteachers.org/page/standards-for-cs-teachers"
+      - rtitle: "Seven Big Ideas of Computer Science from the AP CS Principles Curriculum Framework"
+        rlink: "https://w3.cs.jmu.edu/cs101/big-ideas.pdf"
+      - rtitle: "CS Principles with code.org"
+        rlink: "https://code.org/educate/facilitator-landing/CSP"
+  - week: "1"
+    date: "0"
+    title: "Pedagogy Background: Understanding by Design"
+    readings:
+      - rtitle: "Understanding by Design"
+        rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+  - week: "1"
+    date: "1"
+    title: "Pedagogy Background: Understanding by Design"
+    readings:
+      - rtitle: "Bloom's Taxonomy"
+        rlink: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
+  - week: "2"
+    date: "0"
+    title: "Assessing Learning: Bloom's Taxonomy"
+    readings:
+      - rtitle: "Maslow's Hierarchy of Needs"
+        rlink: "https://www.simplypsychology.org/maslow.html"
+  - week: "2"
+    date: "1"
+    title: "Assessing Learning: Rubrics and Contract Grading"
+    readings:
+      - rtitle: "A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz"
+        rlink: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
+      - rtitle: "Techniques for Using Specifications Grading in Computer Science"
+        rlink: "https://dl.acm.org/doi/abs/10.5555/3205191.3205226"
+  - week: "3"
+    date: "0"
+    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
+    readings:
+      - rtitle: "UDL Guidelines"
+        rlink: "https://udlguidelines.cast.org/"
+  - week: "3"
+    date: "1"
+    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
+    readings:
+      - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
+        rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
+  - week: "4"
+    date: "0"
+    title: "Unique Challenges in CS Pedagogy"
+    readings:
+      - rtitle: "Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity"
+        rlink: "https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/"
+      - rtitle: "Inclusive CS Teaching"
+        rlink: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
+      - rtitle: "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles (Sentance)"
+        rlink: "https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy"
+  - week: "4"
+    date: "1"
+    title: "Using Kinesthetics: Computer Science Unplugged"
+  - week: "5"
+    date: "0"
+    title: "Preparing for Class: Flipping the Classroom"
+  - week: "5"
+    date: "1"
+    title: "Collaboration in the CS Classroom: Pair Programming and Think-Pair-Share"
+  - week: "6"
+    date: "0"
+    title: "CS4All: UDL for Inclusive Computing Pedagogy"
+    readings:
+      - rtitle: "How Might I Proactively Differentiate my CS Instruction to Reach All Learners?"
+        rlink: "https://blueprint.cs4all.nyc/resources/differentiate-instruction"
+      - rtitle: "Project TACTIC: Teaching All Computational Thinking through Inclusion and Collaboration"
+        rlink: "https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf"
+      - rtitle: "Universal Design for Learning for Computer Science (UDL4CS)"
+        rlink: "https://udl4cs.education.ufl.edu/interactive-table/"
+  - week: "6"
+    date: "1"
+    title: "CS4All: Multiple Means of Representation"
+  - week: "7"
+    date: "0"
+    title: "CS4All: Multiple Means of Action and Expression"
+  - week: "7"
+    date: "1"
+    title: "CS4All: Multiple Means of Engagement"
+  - week: "8"
+    date: "0"
+    title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+    readings:
+      - rtitle: "CS-POGIL"
+        rlink: "https://cspogil.org/Home"
+      - rtitle: "CS-POGIL Roles and Role Cards"
+        rlink: "https://cspogil.org/Roles+and+Role+Cards"
+  - week: "8"
+    date: "1"
+    title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+  - week: "9"
+    date: "0"
+    title: "Learning from Experience: Piaget's Constructionvisit Theory"
+    readings:
+      - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
+        rlink: "http://ispython.com/pedagogy/"
+      - rtitle: "Promoting Effective Computing Pedagogy (TeachComputing)"
+        rlink: "https://teachcomputing.org/pedagogy"
+      - rtitle: "Effective Computing Pedagogy Examples"
+        rlink: "https://blog.teachcomputing.org/tag/pedagogy/"
+  - week: "9"
+    date: "1"
+    title: "Computer Science Lesson Design"
+    readings:
+      - rtitle: "Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education"
+        rlink: "https://ctrl.education.illinois.edu/TACTICal/udl.html"
+      - rtitle: "Project TACTIC: UDL Planning Process Example"
+        rlink: "https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html"
+  - week: "10"
+    date: "0"
+    title: "Computer Science Lesson Design"
+  - week: "10"
+    date: "1"
+    title: "Accessibility in CS Educational Design"
+    readings:
+      - rtitle: "Web Content Accessibility Guidelines (WCAG)"
+        rlink: "https://www.w3.org/TR/WCAG21/"
+      - rtitle: "Web Accessibility Evaluation (WAVE) Tool"
+        rlink: "https://wave.webaim.org/"
+      - rtitle: "How to Design Computer Science for Students with Disabilities"
+        rlink: "https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10"
+  - week: "11"
+    date: "0"
+    title: "Accessibility in CS Educational Design"
+    readings:
+      - rtitle: "Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities? (Plasman et al)"
+        rlink: "https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities"
+      - rtitle: "Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette"
+        rlink: "https://par.nsf.gov/biblio/10356929"
+  - week: "11"
+    date: "1"
+    title: "Social Emotional Learning (SEL)"
+    readings:
+      - rtitle: "Fundamentals of SEL"
+        rlink: "https://casel.org/fundamentals-of-sel/"
+  - week: "12"
+    date: "0"
+    title: "SEL in Computing Education"
+    readings:
+      - rtitle: "Make Computational Thinking a Social-Emotional Learning Experience"
+        rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
+      - rtitle: "Importance of SEL in a CS Environment"
+        rlink: "http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html"
+  - week: "12"
+    date: "1"
+    title: "Equity Pedagogies in Computer Science"
+    readings:
+      - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
+        rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
+  - week: "13"
+    date: "0"
+    title: "Service Learning: Curriculum Design Workshop"
+  - week: "13"
+    date: "1"
+    title: "Service Learning: Curriculum Design Workshop"
+  - week: "14"
+    date: "0"
+    title: "Classroom Visits"
+  - week: "14"
+    date: "1"
+    title: "Classroom Visits"
+          
 university:
   semester: "Spring"
-  academicyear: "2020-21"
+  academicyear: "2022-23"
   fall:
   - kname: "Add Deadline"
-    kdate: "2020/09/18"
+    kdate: "2022/09/10"
     kdisplay: true
   - kname: "Drop with a W Deadline"
-    kdate: "2020/11/4"
+    kdate: "2022/10/27"
     kdisplay: true  
   - kname: "Mid Semester Grades Posted"
-    kdate: "2020/10/23"
+    kdate: "2022/10/15"
     kdisplay: false
-  - kname: "2020 Transition to Remote Learning after Thanksgiving Break"
-    kdate: "2020/11/30"
+  - kname: "Reading Day"
+    kdate: "2022/12/11"
     kdisplay: true
-  - kname: "Designated Thursday Schedule"
-    kdate: "2020/12/14"
-    kdisplay: true
-  - kname: "Designated Friday Schedule"
-    kdate: "2020/12/15"    
-    kdisplay: true    
   - kname: "Finals Week Begins"
-    kdate: "2020/12/16"
+    kdate: "2022/12/13"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2020/12/22"
+    kdate: "2022/12/18"
     kdisplay: false
   spring:
   - kname: "Add Deadline"
-    kdate: "2021/02/2"
+    kdate: "2023/1/31"
     kdisplay: true
   - kname: "Drop with a W Deadline"
-    kdate: "2021/03/24"
+    kdate: "2023/03/22"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2021/03/5"
+    kdate: "2023/03/3"
     kdisplay: false
-  - kname: "Designated Tuesday Schedule"
-    kdate: "2021/04/30"
-    kdisplay: true
-  - kname: "Designated Wednesday Schedule"
-    kdate: "2021/05/3"
-    kdisplay: true
-  - kname: "Designated Thursday Schedule"
-    kdate: "2021/05/5"
-    kdisplay: true    
+  - kname: "CoSA"
+    kdate: "2023/04/19"
+    kdisplay: true  
   - kname: "Reading Day"
-    kdate: "2021/05/6"
+    kdate: "2023/05/4"
     kdisplay: false    
   - kname: "Baccalaureate"
-    kdate: "2021/05/14"
+    kdate: "2023/05/12"
     kdisplay: false
   - kname: "Commencement"
-    kdate: "2021/05/15"
+    kdate: "2023/05/13"
     kdisplay: false
   - kname: "Finals Week Begins"
-    kdate: "2021/05/07"
+    kdate: "2023/05/05"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2021/05/13"
+    kdate: "2023/05/11"
     kdisplay: false    
   fallholidays:
-  - date: "2020/11/25"
-  - date: "2020/11/26"
-  - date: "2020/11/27" 
+  - date: "2022/10/17"
+  - date: "2022/10/18"
+  - date: "2022/11/24"
+  - date: "2022/11/25"
+  - date: "2022/11/26" 
   springholidays:
-  - date: "2021/01/18" 
-  - date: "2021/01/19"  
-  - date: "2021/02/18"  
-  - date: "2021/03/3"  
-  - date: "2021/03/9"
-  - date: "2021/03/16" 
-  - date: "2021/03/31"
-  - date: "2021/04/13"     
+  - date: "2023/01/16"  
+  - date: "2023/01/17"
+  - date: "2023/03/6"  
+  - date: "2023/03/7"
+  - date: "2023/03/8" 
+  - date: "2023/03/9"
+  - date: "2023/03/10"    
   
 ---
 
