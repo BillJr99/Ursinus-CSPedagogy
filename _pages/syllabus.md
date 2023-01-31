@@ -64,13 +64,13 @@ info:
   banner: |
     <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
     <div style="width: 100%; display: table-row;">
-        <div style="display: table-cell; padding:5px; width:33%;">
+        <div style="display: table-cell; padding:5px; width:30%;">
             <a title="chestercroff, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Think_Computer_Science_(CS).jpg"><img width="512" alt="Think Computer Science (CS)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Think_Computer_Science_%28CS%29.jpg/512px-Think_Computer_Science_%28CS%29.jpg"></a>
         </div>
-        <div style="display: table-cell; padding:5px; width:33%;">
+        <div style="display: table-cell; padding:5px; width:30%;">
             <a title="Giulia Forsythe, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"><img width="512" alt="Universal Design for Learning from Center for Applied Special Technology (9101797199)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_%289101797199%29.jpg/512px-Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_%289101797199%29.jpg"></a>
         </div>
-        <div style="display: table-cell; padding:5px; width:33%;">
+        <div style="display: table-cell; padding:5px; width:30%;">
             <a title="Gareth Halfacree from Bradford, UK, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kitronik_micro_bit_Inventor%27s_Kit_(32952992662).png"><img width="512" alt="Kitronik micro bit Inventor&#039;s Kit (32952992662)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kitronik_micro_bit_Inventor%27s_Kit_%2832952992662%29.png/512px-Kitronik_micro_bit_Inventor%27s_Kit_%2832952992662%29.png"></a>
         </div>
     </div>
@@ -107,29 +107,10 @@ instructors:
     location: "Pfahler 101L"  
     
 textbooks:
-- title: "An Introduction to Computer Networks"
-  authors: "Peter L Dordal"
-  edition: "2nd Edition"
-  isbn: "978-0133594140"
-  link: http://intronetworks.cs.luc.edu/
+- title: "The Big Book of Computing Pedagogy"
+  link: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy
   isrequired: true 
-  freelyavailable: http://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf
-- title: "TCP/IP Tutorial and Technical Overview"
-  authors: "Lydia Parziale et al"
-  edition: "IBM Redbook"
-  isbn: "N/A"
-  link: https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf
-  image: false
-  isrequired: true
-  freelyavailable: https://www.redbooks.ibm.com/redbooks/pdfs/gg243376.pdf
-- title: "Computer Networking: A Top Down Approach"
-  authors: "Jim Kurose and Keith Ross"
-  edition: "8th Edition"
-  isbn: "N/A"
-  link: "http://gaia.cs.umass.edu/kurose_ross"
-  image: false
-  isrequired: false
-  freelyavailable: false  
+  freelyavailable: https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723
 
 objectives:
 - objective: "To develop lessons in computing that engage learners according to pedagogical best practices"
