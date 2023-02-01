@@ -270,7 +270,7 @@ schedule:
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
   - week: "9"
     date: "0"
-    title: "Learning from Experience: Piaget's Constructionvisit Theory"
+    title: "Learning from Experience: Piaget's Constructionivist Theory"
     readings:
       - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
         rlink: "http://ispython.com/pedagogy/"
