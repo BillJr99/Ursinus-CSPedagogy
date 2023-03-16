@@ -18,6 +18,7 @@ info:
     - "The project submitted was substantially consistent with the project proposed to and approved by the Professor"
     - "The report represents a second draft (or beyond) that was evolved substantially from guidance from the instructor or from the Writing Center."
     - "An individual self-reflection is included in the final submission that substantially documents the experience, your observations, and the feeback you received."
+    - "The project and reflections were presented in summary form to the rest of the class."
     b:
     - "Each item required for a grade of C is included"
     - "The project report includes a substantial discussion of the project goals, rationale, and development approach"
