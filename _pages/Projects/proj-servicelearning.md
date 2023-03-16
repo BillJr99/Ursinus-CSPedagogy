@@ -66,6 +66,10 @@ It is **highly recommended** that you review your first draft with a [Writing Fe
 
 Your final product should be suitable for use by someone that is not in your group currently.  Think carefully about what that person might need to know, or might need to have, to complete your project or teach it to their class!  Take notes as you prototype your project, and you will have a good inventory that you can easily refer to at the end for this purpose.
 
-## Class Presentation
+## K-12 Presentation
 
 You will present your module in a K-12 classroom (or extracurricular) setting under the supervision of your instructor and/or a partner K-12 teacher.  You will receive feedback and guidance from both your instructor and your partner teacher.  Each individual in the group should write a reflection on this feedback and on what you observed in the classroom.  How did it go?  What went according to plan?  Did you have to alter any of your plans on the fly?  If you were to create a "version 2.0" of this project for someone next year, what would you suggest that they do differently, or what would you revise?
+
+## Class Presentation
+
+Finally, you will present a summary of your project to our class, and summarize your experience and reflections during the experience.
