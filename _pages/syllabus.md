@@ -28,6 +28,7 @@ info:
     <li>How do we design, present, and assess an effective lesson to achieve understanding through inquiry?</li>
     <li>How do we model healthy and professional collaboration in a K-12 computing classroom?</li>
     <li>What strategies promote effective student engagement in a computing class?</li>
+    <li>How do we effectively democratize computing skills across all disciplines and for all learners?</li>
     </ul>    
   welcome_message: "Welcome to CS471!"
   class_meets_days:
@@ -120,20 +121,23 @@ objectives:
 - objective: "To employ multiple modalities and pathways to computing, including kinesthetics, design thinking, and effective group collaboration"
 
 goals:
-- goal: "To articulate network privacy concerns with a global context, and to identify practices and techniques to improve online privacy"
-- goal: "To differentiate between various models of network security, including authentication, authorization, and non-repudiation"
-- goal: "To identify and differentiate between approaches to fairness and quality-of-service on the Internet"
+- goal: "To bridge the computing and education disciplines to facilitate effective K-12 Computer Science classroom teaching."
+- goal: "To bridge K-12 learning disciplines through the ubiquity of computing and technology."
+- goal: "To prepare for certification to teach Computer Science in K-12."
+- goal: "To become an effective science communicator, and to describe technological solutions to a variety of audiences."
 
 grade_breakdown:
-- category: "Programming Assignments"
-  weight: "25%"
-- category: "Labs"
-  weight: "40%"
-- category: "Midterm Exam"
-  weight: "15%"
-- category: "Final Project"
+- category: "Written Assignments"
+  weight: "30%"
+- category: "Curriculum Development Labs"
+  weight: "30%"
+- category: "Service Learning Classroom Project"
   weight: "10%"
-- category: "Class Participation and Quizzes"
+- category: "Final Technical Project and Presentation"
+  weight: "10%"
+- category: "Classroom Reflections"
+  weight: "10%"
+- category: "Class Participation and Discussions"
   weight: "10%"
 
 letter_grades:
@@ -407,35 +411,14 @@ university:
   
 ---
 
-## Overview
-Computer Networks study interconnected computing systems at scale from many different perspectives.  Moving a bit from one computer to another over the Internet is a [complex process](https://www.youtube.com/watch?v=9BGWrLiT9qs).  The bit must travel to its destination from one computer to another, which must have some way of knowing where that bit is trying to go so that it can be moved along the right path.  Wireless communications (and even wired connections) are subject to noise and interference that may corrupt the bit as it transits between any two of those computers.  We need ways to manage these destination addresses, optimal pathways, and mechanisms to detect corrupted messages.  Sometimes, computers might become too overworked to forward your message, and they can be lost: worse yet, we cannot communicate this situation back to the sender (after all, if we had the resources to do so, we could have just forwarded the message properly!).  The sender, then, needs a way to ensure that their message was received, and received in-tact.  Ideally, we would do so efficiently: if new, faster paths to the destination appear (sort of like new expressways on the interstate highway system), we'd like to find out about them and utilize them, traffic permitting.  Even then, we need to define what those bits represent: an e-mail, a webpage, a function call, or data like a shopping cart.  And beyond all this, we need a mechanism to enable these communications to occur privately and securely: we want to ensure that the sender and receiver can validate one another's identity and privilege.  To facilitate all of this, we organize the study of computer networks into a "layered" model, in which we investigate each of these concepts independently of the others.  In fact, networks are implemented according to this layered model, which greatly simplifies the apparent complexity of the network as a whole: we implement an independent algorithm for each concept, and they interact only as much as is required (typically, only with one or two neighboring algorithms, which, in turn interact with their immediately adjacent layers).  
+## Overview 
 
-## Homework
+Welcome to our Computer Science Pedagogy class!
 
-### Labs
-Every week, we will have a lab session where students get a chance to practice concepts we just learned in a safe and [collaborative](#collaboration) environment. Tasks will be given that serve as warm-ups for the larger assignments, and final submissions will be graded on a scale from 0 to 2. Students will have a chance to refine their submissions until the Friday of every week, and there will be help from the Lab T.A.s listed above.
+This course was inspired by a partnership between the instructor and the Pennsylvania Department of Education, in collaboration with the Montgomery County Intermediate Unit (MCIU).  We will collaborate together and with local in the development of K-12 computing curriculum and in the development of computing skills needed to teach both computer science and instructional technology across the disciplines.
 
-### Assignments
-The bulk of the grade in the course will be earned by completing individual programming assignments. Be sure to start them early! Note that [collaboration and sharing rules](#collaboration) differ slightly for labs and assignments.
+We will partner across disciplines (i.e., computing students will work with education students) to further develop your technical knowledge through a teaching lens.  We will explore the unique nuances of computing pedagogy in the context of classical educational theory.  As a service-learning course, students will work with K-12 teachers in the county to develop and present their developed lessons in the classroom setting.  This will qualify as field experience time for students seeking a teaching certification through the Education department here at Ursinus.  In addition, we will assess, refine, and make publicly available all developed lesson materials.
 
-## Classroom Participation
+A key ingredient of this course is the intended blending of the audience between STEM and education students.  It is my goal that a foundation in education and a foundation in computing will be attained, in part, by organic collaboration between students who are becoming experts in technology with students who are becoming experts in teaching.  The course will focus on the unique opportunities in blending and applying computing in education (and vice-versa), and in doing so, will yield opportunities for students to share with one another, and to benefit from one another.
+Students in both education and computing will be encouraged to look beyond their “home” discipline.  For example, computing students will reflect upon the role Computer Science plays across other disciplines such as the arts, humanities, and sciences.  Similarly, education students will look more deeply at their targeted subject area to consider how technology can enhance the teaching and learning of their field.  Each will creatively and collaboratively develop materials to showcase and celebrate these connections, and then deliver those materials in a K-12 setting.
 
-### Group Work \[[^1]\]
-In addition to ordinary participation that follows the natural rhythm of a lecture, most days there will be at least one followup problem, which is a question that follows on the heels of newly presented material. Students will split into groups of 2 and try to write some code to address a particular problem. When a group of students believe they have figured out the answer, they raise their hand. The other students can continue to work while I verify that the answer is correct. If the answer is correct, the students present the answer to the class. If the group is not correct upon my checking, then the groups continue this process until one gets it correct.
-
-Other ways to help your fellow classmates in class are as follows:
-
-* Helping to teach a student a topic during office hours.
-* Certain calls for participation in class
-* Particularly helpful or insightful messages on Microsoft Teams
-* Finding mistakes in the book or on the assigned homework and labs
-
-### Class Participation and Classroom Etiquette \[[^1]\]
-For classroom attendance, the following rules apply:
-
-* Please be attentive during class. There will be class exercises that involve coding, but class time should be used for learning computer science. It is imperative that technology be used for this purpose during our class time together. **Alternatively, please try to think of this as a safe space away from social media.** We could all use a break, and we are fortunate to have a good excuse to make that space.
-* Please follow common courtesy. For instance, you can bring food and drink as long as it's not distracting, but please clean up after yourself if you do. Our janitorial staff deserves the utmost respect and help with their job.
-* In-class exercises and "low stakes" activities will take place individually and in groups to assess our progress together.  These exercises will be given both synchronously (for example, in-class activities, pair programming exercises) and asynchronously (for example, pre-lab exercises, peer code reviews, book surveys) and will be graded on a participation basis.  These are given equal weight and form the basis of the class participation score.
-* If a class session is remote, please feel free to make choices that make you most comfortable.  For example, I will record these sessions for students who cannot make the session or for those who would benefit from a review of the material.  I'd encourage you to enable your video feed if it is available, but if you need leave your video off, you feel free to do so; however, if you find that this becomes necessary on a prolonged basis, please see me to discuss.  Please keep your microphone on mute to avoid background noises while others are speaking; however, please do not feel "mic fright" about unmuting to speak up and participate anytime.  If, however, you would prefer to communicate via the chat interface (either exclusively or in combination with your audio/video), you should feel free to do that.  Whether in-person or remote, all I ask is that you engage as best you can; the material is challenging but fun, and we're all here to learn new things together.
-
-[^1]: This introduction is adapted from Dr. Tralie's CS173 [Course Syllabus](http://www.ctralie.com/Teaching/CS173_S2020/index.html).
