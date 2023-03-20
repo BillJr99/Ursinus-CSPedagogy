@@ -29,6 +29,7 @@ info:
     <li>How do we model healthy and professional collaboration in a K-12 computing classroom?</li>
     <li>What strategies promote effective student engagement in a computing class?</li>
     <li>How do we effectively democratize computing skills across all disciplines and for all learners?</li>
+    <li>How can we bridge computing across K-12 disciplines through the lens of human-centric design thinking?</li>
     </ul>    
   welcome_message: "Welcome to CS471!"
   class_meets_days:
@@ -125,6 +126,11 @@ goals:
 - goal: "To bridge K-12 learning disciplines through the ubiquity of computing and technology."
 - goal: "To prepare for certification to teach Computer Science in K-12."
 - goal: "To become an effective science communicator, and to describe technological solutions to a variety of audiences."
+- goal: "To facilitate the development and delivery of technical curriculum across K-12 subjects."
+- goal: "To aid in the preparation of all pre-service teacher education students with a focus on STEM and computing pedagogy."
+- goal: "To enable certification in grades 7-12 computer science for pre-service teacher education students in Pennsylvania."
+- goal: "To provide a foundation in education and technical communication for STEM students."
+
 
 grade_breakdown:
 - category: "Written Assignments"
@@ -420,5 +426,6 @@ This course was inspired by a partnership between the instructor and the Pennsyl
 We will partner across disciplines (i.e., computing students will work with education students) to further develop your technical knowledge through a teaching lens.  We will explore the unique nuances of computing pedagogy in the context of classical educational theory.  As a service-learning course, students will work with K-12 teachers in the county to develop and present their developed lessons in the classroom setting.  This will qualify as field experience time for students seeking a teaching certification through the Education department here at Ursinus.  In addition, we will assess, refine, and make publicly available all developed lesson materials.
 
 A key ingredient of this course is the intended blending of the audience between STEM and education students.  It is my goal that a foundation in education and a foundation in computing will be attained, in part, by organic collaboration between students who are becoming experts in technology with students who are becoming experts in teaching.  The course will focus on the unique opportunities in blending and applying computing in education (and vice-versa), and in doing so, will yield opportunities for students to share with one another, and to benefit from one another.
-Students in both education and computing will be encouraged to look beyond their “home” discipline.  For example, computing students will reflect upon the role Computer Science plays across other disciplines such as the arts, humanities, and sciences.  Similarly, education students will look more deeply at their targeted subject area to consider how technology can enhance the teaching and learning of their field.  Each will creatively and collaboratively develop materials to showcase and celebrate these connections, and then deliver those materials in a K-12 setting.
+
+Students in both education and computing will be encouraged to look beyond their "home" discipline.  For example, computing students will reflect upon the role Computer Science plays across other disciplines such as the arts, humanities, and sciences.  Similarly, education students will look more deeply at their targeted subject area to consider how technology can enhance the teaching and learning of their field.  Each will creatively and collaboratively develop materials to showcase and celebrate these connections, and then deliver those materials in a K-12 setting.  This course is designed to be inherently multidisciplinary, bridging pedagogy and computing in order to a) facilitate the development and delivery of technical curriculum across K-12 subjects to aid in the preparation of all pre-service teacher education students, b) enable certification in grades 7-12 computer science for pre-service teacher education students, and c) provide a foundation in education and technical communication for STEM students.  To ensure that these bridge connections are made explicit, students will reflect upon their partnership with their classmates and with their participating teacher(s) throughout the semester.  In addition to the collaborative development and delivery of curricular modules, students will be asked to reflect in writing and in synchronous and/or asynchronous class discussions upon their experiences in working with their classroom counterparts (i.e., CS students working with Education students, and vice-versa), and with their partner teachers.  These discussions will be framed through guided questions that students will be asked to consider before class, and be prepared to discuss during class.
 
