@@ -112,7 +112,11 @@ textbooks:
 - title: "The Big Book of Computing Pedagogy"
   link: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy
   isrequired: true 
-  freelyavailable: https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723
+  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_computing_content/pdf
+- title: "The Big Book of Computing Content"
+  link: https://helloworld.raspberrypi.org/books/big_book_of_computing_content
+  isrequired: true 
+  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_computing_content/pdf
 - title: "Computer Science Education: Perspectives on Teaching and Learning in School"
   authors: "Sue Sentance (Editor), Erik Barendsen (Editor), Nicol R. Howard (Editor), Carsten Schulte (Editor)"
   edition: "2nd Edition"
