@@ -113,6 +113,13 @@ textbooks:
   link: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy
   isrequired: true 
   freelyavailable: https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723
+- title: "Computer Science Education: Perspectives on Teaching and Learning in School"
+  authors: "Sue Sentance (Editor), Erik Barendsen (Editor), Nicol R. Howard (Editor), Carsten Schulte (Editor)"
+  edition: "2nd Edition"
+  isbn: "978-1350296909"
+  link: false
+  isrequired: true 
+  freelyavailable: false
 
 objectives:
 - objective: "To develop lessons in computing that engage learners according to pedagogical best practices"
