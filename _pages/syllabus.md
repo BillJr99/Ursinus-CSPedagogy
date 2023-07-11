@@ -112,7 +112,7 @@ textbooks:
 - title: "The Big Book of Computing Pedagogy"
   link: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy
   isrequired: true 
-  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_computing_content/pdf
+  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy/pdf
 - title: "The Big Book of Computing Content"
   link: https://helloworld.raspberrypi.org/books/big_book_of_computing_content
   isrequired: true 
