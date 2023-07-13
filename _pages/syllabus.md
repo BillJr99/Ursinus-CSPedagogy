@@ -211,6 +211,7 @@ schedule:
   - week: "1"
     date: "0"
     title: "Pedagogy Background: Understanding by Design"
+    link: "./Activities/UBD"
     deliverables:
       - dtitle: "Written Assignment: Warmup Due"
         dlink: "Assignments/Warmup"
@@ -219,6 +220,10 @@ schedule:
     readings:
       - rtitle: "Understanding by Design"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+      - rtitle: "CS Education Chapters 1 and 2"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Concept Maps"
+        rlink: false
   - week: "1"
     date: "1"
     title: "Pedagogy Background: Understanding by Design"
@@ -228,12 +233,14 @@ schedule:
   - week: "2"
     date: "0"
     title: "Assessing Learning: Bloom's Taxonomy"
+    link: "./Activities/Bloom"
     readings:
       - rtitle: "Maslow's Hierarchy of Needs"
         rlink: "https://www.simplypsychology.org/maslow.html"
   - week: "2"
     date: "1"
     title: "Assessing Learning: Rubrics and Contract Grading"
+    link: "./Activities/RubricContract"
     readings:
       - rtitle: "A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz"
         rlink: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
@@ -241,19 +248,8 @@ schedule:
         rlink: "https://dl.acm.org/doi/abs/10.5555/3205191.3205226"
   - week: "3"
     date: "0"
-    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
-    readings:
-      - rtitle: "UDL Guidelines"
-        rlink: "https://udlguidelines.cast.org/"
-  - week: "3"
-    date: "1"
-    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
-    readings:
-      - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
-        rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
-  - week: "4"
-    date: "0"
     title: "Unique Challenges in CS Pedagogy"
+    link: "./Activities/UniqueChallengesCS"
     readings:
       - rtitle: "Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity"
         rlink: "https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/"
@@ -261,18 +257,47 @@ schedule:
         rlink: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
       - rtitle: "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles (Sentance)"
         rlink: "https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy"
-  - week: "4"
+  - week: "3"
     date: "1"
     title: "Using Kinesthetics: Computer Science Unplugged"
-  - week: "5"
+    link: "./Activities/CSUnplugged"
+    readings:
+      - rtitle: "Big Book of Pedagogy - Go Unplugged"
+        rlink: false
+      - rtitle: "CS Education Chapter 3"
+        rlink: false
+  - week: "4"
     date: "0"
     title: "Preparing for Class: Flipping the Classroom"
-  - week: "5"
+    link: "./Activities/Flipped"
+  - week: "4"
     date: "1"
     title: "Collaboration in the CS Classroom: Pair Programming and Think-Pair-Share"
+    link: "./Activities/Collaboration"
+    readings:
+      - rtitle: "CS Education Chapters 4 and 5"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Work Together"
+        rlink: false
+  - week: "5"
+    date: "0"
+    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
+    link: "./Activities/UDL"
+    readings:
+      - rtitle: "UDL Guidelines"
+        rlink: "https://udlguidelines.cast.org/"
+      - rtitle: "Big Book of Pedagogy - UDL"
+        rlink: false
+  - week: "5"
+    date: "1"
+    title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
+    readings:
+      - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
+        rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
   - week: "6"
     date: "0"
     title: "CS4All: UDL for Inclusive Computing Pedagogy"
+    link: "./Activities/CS4All/UDL"
     readings:
       - rtitle: "How Might I Proactively Differentiate my CS Instruction to Reach All Learners?"
         rlink: "https://blueprint.cs4all.nyc/resources/differentiate-instruction"
@@ -280,29 +305,38 @@ schedule:
         rlink: "https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf"
       - rtitle: "Universal Design for Learning for Computer Science (UDL4CS)"
         rlink: "https://udl4cs.education.ufl.edu/interactive-table/"
+      - rtitle: "CS Education Chapter 10"
+        rlink: false
   - week: "6"
     date: "1"
     title: "CS4All: Multiple Means of Representation"
+    link: "./Activities/CS4All/MultipleMeans/Representation"
   - week: "7"
     date: "0"
     title: "CS4All: Multiple Means of Action and Expression"
+    link: "./Activities/CS4All/MultipleMeans/Action"
   - week: "7"
     date: "1"
     title: "CS4All: Multiple Means of Engagement"
+    link: "./Activities/CS4All/MultipleMeans/Engagement"
   - week: "8"
     date: "0"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+    link: "./Activities/POGIL"
     readings:
       - rtitle: "CS-POGIL"
         rlink: "https://cspogil.org/Home"
       - rtitle: "CS-POGIL Roles and Role Cards"
         rlink: "https://cspogil.org/Roles+and+Role+Cards"
+      - rtitle: "CS Education Chapters 11 through 13"
+        rlink: false
   - week: "8"
     date: "1"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
   - week: "9"
     date: "0"
     title: "Learning from Experience: Piaget's Constructionivist Theory"
+    link: "./Activities/Piaget"
     readings:
       - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
         rlink: "http://ispython.com/pedagogy/"
@@ -313,20 +347,31 @@ schedule:
   - week: "9"
     date: "1"
     title: "Computer Science Lesson Design"
+    link: "./Activities/CSLessonDesign"
     readings:
       - rtitle: "Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education"
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl.html"
       - rtitle: "Project TACTIC: UDL Planning Process Example"
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html"
+      - rtitle: "CS Education Chapter 6"
+        rlink: false
   - week: "10"
     date: "0"
     title: "Computer Science Lesson Design: Scaffolding"
+    link: "./Activities/CSLessonDesign/Scaffolding"
   - week: "10"
     date: "1"
     title: "From Grades to Feedback: Formative and Summative Assessments"
+    link: "./Activities/Feedback"
+    readings:
+      - rtitle: "CS Education Chapter 16"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Assessment for Learning"
+        rlink: false
   - week: "11"
     date: "0"
     title: "Accessibility in CS Educational Design"
+    link: "./Activities/Accessibility"
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
         rlink: "https://www.w3.org/TR/WCAG21/"
@@ -341,12 +386,14 @@ schedule:
   - week: "11"
     date: "1"
     title: "Social Emotional Learning (SEL)"
+    link: "./Activities/SEL"
     readings:
       - rtitle: "Fundamentals of SEL"
         rlink: "https://casel.org/fundamentals-of-sel/"
   - week: "12"
     date: "0"
     title: "SEL in Computing Education"
+    link: "./Activities/SEL/Computing"
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Handed Out"
         dlink: "Projects/ServiceLearning"
@@ -359,15 +406,25 @@ schedule:
   - week: "12"
     date: "1"
     title: "Equity Pedagogies in Computer Science"
+    link: "./Activities/Equity"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
+      - rtitle: "CS Education Chapters 7 through 9"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Culturally Relevant Pedagogy"
+        rlink: false
   - week: "13"
     date: "0"
     title: "Service Learning: Curriculum Design Workshop"
+    readings:
+      - rtitle: "The Big Book of Computing Content"
+        rlink: false
   - week: "13"
     date: "1"
     title: "Service Learning: Curriculum Design Workshop"
+      - rtitle: "CS Education Chapter 14"
+        rlink: false
   - week: "14"
     date: "0"
     title: "Classroom Visits"
