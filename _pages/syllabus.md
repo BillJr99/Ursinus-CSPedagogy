@@ -15,8 +15,8 @@ info:
   class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS475%20Spring%202021
   ical: files/CS471.ics
   course_prerequisites: "None.  Students interested in Computer Science and/or Education are encouraged to join!"
-  course_start_date: "2023/01/16"
-  course_end_date: "2023/05/03"
+  course_start_date: "2023/08/28"
+  course_end_date: "2023/12/8"
   course_description: "This course is a collaborative service-learning effort among students with an interest in computing and in education.  The course is intended to prepare pre-service teachers for certification in K-12 Computer Science in Pennsylvania, and to provide students with a research-based background in science communication and pedagogy.  We explore unique aspects of educational design in a computing environment, as well as current challenges, trends, and opportunities in computing education.  Particular emphasis will center upon equitable computing pedagogy and practice, and creating a classroom environment that is inclusive of diverse learning needs, culturally relevant, and learner-centric.  Students will design educational activities according to pedagogical best practices, and work with K-12 teachers at local schools to deliver and assess those educational materials.  Students will collectively create a portfolio of open-source curricular materials for teaching computing in the K-12 classroom for subsequent adoption and revision."
   questions: |
     Specifically, we will collectively consider questions like:
@@ -33,33 +33,33 @@ info:
     </ul>    
   welcome_message: "Welcome to CS471!"
   class_meets_days:
-    isM: true
-    isT: false
-    isW: true
-    isR: false
+    isM: false
+    isT: true
+    isW: false
+    isR: true
     isF: false 
     isS: false
     isU: false
   class_meets_locations:
   - section:
-    - day: "M"
-      starttime: "10:00 AM"
-      endtime: "11:20 AM"
-      place: "PFA 007"
-    - day: "W"
-      starttime: "10:00 AM"
-      endtime: "11:20 AM"
-      place: "PFA 007"
+    - day: "T"
+      starttime: "12:00 PM"
+      endtime: "1:20 PM"
+      place: "PFA 109"
+    - day: "R"
+      starttime: "12:00 PM"
+      endtime: "1:20 PM"
+      place: "PFA 109" 
   midtermexam: 
     - mdate: "TBD"
       mstarttime: "TBD"
       mendtime: "TBD"
-      mroom: "TBD"      
+      mroom: "TBD"       
   finalexam: 
     - fdate: "TBD"
       fstarttime: "TBD"
       fendtime: "TBD"
-      froom: "TBD"
+      froom: "TBD" 
   flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 4% per day if submitted before 10:59 PM Eastern Time on the day submitted.  Each student will receive a total of 10 &quot;slack days&quot; for the semester with which to waive these grade reductions; for example, one assignment may be submitted 10 days late, or two assignments may be submitted 5 days late, with no grade reduction.  Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
   late_penalty_per_period: 4
   late_penalty_period: "day"
@@ -88,25 +88,25 @@ instructors:
   picture: /images/profile.png
   officehours:
   - day: "M"
-    starttime: "12:00 PM"
-    endtime: "1:00 PM"
-    location: "Pfahler 101L"        
-  - day: "W"
-    starttime: "12:00 PM"
-    endtime: "1:00 PM"
-    location: "Pfahler 101L" 
-  - day: "R"
-    starttime: "9:00 AM"
-    endtime: "10:00 PM"
-    location: "Pfahler 101L"     
-  - day: "R"
-    starttime: "11:00 AM"
+    starttime: "10:00 AM"
     endtime: "12:00 PM"
-    location: "Pfahler 101L" 
-  - day: "F"
-    starttime: "12:00 PM"
-    endtime: "1:00 PM"
-    location: "Pfahler 101L"  
+    location: "Pfahler Hall 101L"  
+  - day: "M"
+    starttime: "1:00 PM"
+    endtime: "2:00 PM"
+    location: "Pfahler Hall 101L"          
+  - day: "T"
+    starttime: "11:15 AM"
+    endtime: "12:00 PM"
+    location: "Pfahler Hall 101L"        
+  - day: "T"
+    starttime: "4:00 PM"
+    endtime: "5:00 PM"
+    location: "Pfahler Hall 101L"        
+  - day: "R"
+    starttime: "11:15 AM"
+    endtime: "12:00 PM"
+    location: "Pfahler Hall 101L" 
     
 textbooks:
 - title: "The Big Book of Computing Pedagogy"
@@ -141,7 +141,6 @@ goals:
 - goal: "To aid in the preparation of all pre-service teacher education students with a focus on STEM and computing pedagogy."
 - goal: "To enable certification in grades 7-12 computer science for pre-service teacher education students in Pennsylvania."
 - goal: "To provide a foundation in education and technical communication for STEM students."
-
 
 grade_breakdown:
 - category: "Written Assignments"
@@ -362,69 +361,69 @@ schedule:
     title: "Classroom Visits"
           
 university:
-  semester: "Spring"
-  academicyear: "2022-23"
+  semester: "Fall"
+  academicyear: "2023-24"
   fall:
   - kname: "Add Deadline"
-    kdate: "2022/09/10"
+    kdate: "2023/09/8"
     kdisplay: true
-  - kname: "Drop with a W Deadline"
-    kdate: "2022/10/27"
-    kdisplay: true  
   - kname: "Mid Semester Grades Posted"
-    kdate: "2022/10/15"
-    kdisplay: false
+    kdate: "2023/10/13"
+    kdisplay: false    
+  - kname: "Drop with a W Deadline"
+    kdate: "2023/10/25"
+    kdisplay: true  
   - kname: "Reading Day"
-    kdate: "2022/12/11"
-    kdisplay: true
+    kdate: "2023/12/9"
+    kdisplay: true     
   - kname: "Finals Week Begins"
-    kdate: "2022/12/13"
+    kdate: "2023/12/11"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2022/12/18"
+    kdate: "2023/12/16"
     kdisplay: false
   spring:
   - kname: "Add Deadline"
-    kdate: "2023/1/31"
-    kdisplay: true
-  - kname: "Drop with a W Deadline"
-    kdate: "2023/03/22"
+    kdate: "2024/01/30"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2023/03/3"
-    kdisplay: false
-  - kname: "CoSA"
-    kdate: "2023/04/19"
-    kdisplay: true  
-  - kname: "Reading Day"
-    kdate: "2023/05/4"
+    kdate: "2024/03/1"
     kdisplay: false    
-  - kname: "Baccalaureate"
-    kdate: "2023/05/12"
-    kdisplay: false
-  - kname: "Commencement"
-    kdate: "2023/05/13"
-    kdisplay: false
+  - kname: "Drop with a W Deadline"
+    kdate: "2024/03/20"
+    kdisplay: true    
+  - kname: "Reading Day"
+    kdate: "2024/05/2"
+    kdisplay: false    
   - kname: "Finals Week Begins"
-    kdate: "2023/05/05"
+    kdate: "2024/05/03"
     kdisplay: false
   - kname: "Finals Week Ends"
-    kdate: "2023/05/11"
-    kdisplay: false    
+    kdate: "2024/05/09"
+    kdisplay: false       
+  - kname: "Baccalaureate"
+    kdate: "2024/05/10"
+    kdisplay: false
+  - kname: "Commencement"
+    kdate: "2024/05/11"
+    kdisplay: false 
   fallholidays:
-  - date: "2022/10/17"
-  - date: "2022/10/18"
-  - date: "2022/11/24"
-  - date: "2022/11/25"
-  - date: "2022/11/26" 
+  - date: "2023/10/14"
+  - date: "2023/10/15"
+  - date: "2023/10/16"
+  - date: "2023/10/17"
+  - date: "2023/11/22"
+  - date: "2023/11/23"
+  - date: "2023/11/24"
+  - date: "2023/11/25"
+  - date: "2023/11/26"
   springholidays:
-  - date: "2023/01/16"  
-  - date: "2023/01/17"
-  - date: "2023/03/6"  
-  - date: "2023/03/7"
-  - date: "2023/03/8" 
-  - date: "2023/03/9"
-  - date: "2023/03/10"    
+  - date: "2024/01/15"  
+  - date: "2024/03/4"  
+  - date: "2024/03/5"  
+  - date: "2024/03/6"  
+  - date: "2024/03/7"  
+  - date: "2024/03/8"     
   
 ---
 
