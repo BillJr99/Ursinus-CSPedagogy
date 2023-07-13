@@ -188,12 +188,19 @@ schedule:
   - week: "0"
     date: "0"
     title: "Course Overview"
+    link: "../Ursinus-CSPedagogy-Overview"
+    deliverables:
+      - dtitle: "Written Assignment: Warmup Handed Out"
+        dlink: "Assignments/Warmup"
+        points: 15
+        submission_types: "onpaper"
     readings:
       - rtitle: "Hello World: The Big Book of Computing Pedagogy"
         rlink: "https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723"
   - week: "0"
     date: "1"
     title: "What is Computer Science and Why CS Education?"
+    link: "./Activities/WhatIsCS"
     readings:
       - rtitle: "CSTA Standards for CS Teachers"
         rlink: "https://www.csteachers.org/page/standards-for-cs-teachers"
@@ -204,6 +211,11 @@ schedule:
   - week: "1"
     date: "0"
     title: "Pedagogy Background: Understanding by Design"
+    deliverables:
+      - dtitle: "Written Assignment: Warmup Due"
+        dlink: "Assignments/Warmup"
+        points: 15
+        submission_types: "onpaper"
     readings:
       - rtitle: "Understanding by Design"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
@@ -308,9 +320,12 @@ schedule:
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html"
   - week: "10"
     date: "0"
-    title: "Computer Science Lesson Design"
+    title: "Computer Science Lesson Design: Scaffolding"
   - week: "10"
     date: "1"
+    title: "From Grades to Feedback: Formative and Summative Assessments"
+  - week: "11"
+    date: "0"
     title: "Accessibility in CS Educational Design"
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
@@ -319,10 +334,6 @@ schedule:
         rlink: "https://wave.webaim.org/"
       - rtitle: "How to Design Computer Science for Students with Disabilities"
         rlink: "https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10"
-  - week: "11"
-    date: "0"
-    title: "Accessibility in CS Educational Design"
-    readings:
       - rtitle: "Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities? (Plasman et al)"
         rlink: "https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities"
       - rtitle: "Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette"
@@ -336,6 +347,10 @@ schedule:
   - week: "12"
     date: "0"
     title: "SEL in Computing Education"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Handed Out"
+        dlink: "Projects/ServiceLearning"
+        points: 100
     readings:
       - rtitle: "Make Computational Thinking a Social-Emotional Learning Experience"
         rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
@@ -359,6 +374,10 @@ schedule:
   - week: "14"
     date: "1"
     title: "Classroom Visits"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Due"
+        dlink: "Projects/ServiceLearning"
+        points: 100
           
 university:
   semester: "Fall"
