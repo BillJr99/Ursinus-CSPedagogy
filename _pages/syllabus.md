@@ -424,6 +424,7 @@ schedule:
   - week: "13"
     date: "1"
     title: "Service Learning: Curriculum Design Workshop"
+    readings:
       - rtitle: "CS Education Chapter 14"
         rlink: false
   - week: "14"
