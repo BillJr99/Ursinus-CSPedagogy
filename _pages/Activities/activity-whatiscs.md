@@ -7,7 +7,27 @@ excerpt: "CS471: Computer Science Pedagogy - What is Computer Science and Why CS
 info:
   goals: 
     - To motivate the science of teaching and learning of Computer Science
-        
+  models:
+    - model: |
+        <div>
+        Visit the <a href="https://www.billmongan.com/Ursinus-CS173/DrawingCanvas">Pixel Pandemonium</a> page and follow the instructions on the page to create an image.
+        </div>
+      title: "Pixel Pandemonium - Representing Images and Colors on a Computer"
+      questions:
+        - How are colors represented by a computer?
+        - How do computers make smooth images on the screen?
+        - What are some ways you could send the same information but by transmitting fewer numbers?  In other words, how might this data be compressed?
+        - "What blocks represent &quot;good&quot; compression, and which ones yield poor compression results?"
+        - Why might the run-length compression technique suggested on the instructions page be a good approach for compressing images on a screen?
+    - model: |
+        <div>
+        Visit the <a href="https://code.org/educate/csp/widgets">code.org Widgets</a> page and choose one widget to experiment with and present to the class as a mini-lesson.
+        </div>
+      title: "Learning with code.org Widgets"
+  guidingquestions:
+    - "What might an example classroom activity look like for each of the &quot;Seven Big Ideas?&quot;"
+    - "Describe the first time you encountered each of the Threshold Concept examples given below."
+    
 tags:
   - whatiscs
   - whycsed
@@ -30,7 +50,7 @@ Computer Science is a multidisciplinary field that encompasses the study of comp
 
 The CSTA Standards for CS Teachers outline the core knowledge and skills that Computer Science educators should possess. These standards cover various domains, including computational thinking, collaboration, computing practice and programming, and, the impacts of technology. By adhering to these standards, CS educators can effectively teach the subject and instill a deep understanding in their students.
 
-## The Seven Big Ideas of Computer Science
+### The Seven Big Ideas of Computer Science
 
 The AP CS Principles Curriculum Framework presents the "Seven Big Ideas" that form the foundation of Computer Science concepts. These Big Ideas help students grasp the fundamental principles of the field. They are as follows:
 
@@ -61,6 +81,29 @@ The AP CS Principles Curriculum Framework presents the "Seven Big Ideas" that fo
 7. **Global Impact** explores the ethical, social, and economic implications of technology on individuals, communities, and global society. Students learn to critically analyze the impacts of technology and make informed decisions.
    
    *Example*: Discussing real-world challenges like privacy concerns, data breaches, or the influence of social media platforms helps students understand the ethical and societal implications of technology.
+
+## Threshold Concepts
+A threshold concept can be seen as a 'gateway' or 'portal' that leads to a previously inaccessible, and initially perhaps 'troublesome', way of thinking about something. It represents a transformed way of understanding, or interpreting, something without which the learner cannot progress. These concepts tend to solidify understanding across domains ([Davies 2006](https://helloworld.cc/davies2006)), and can separate the way a novice might think of a problem space versus an expert ([Roundtree 2009](https://helloworld.cc/rountree2009)). In the context of computer science education, here are several examples of threshold concepts:
+
+1. **Abstraction**: This is one of the first and most important concepts to grasp in computer science. It involves understanding how to separate the important details about a problem or a system from the unimportant ones. It also includes the ability to create and use models to solve problems. It's what allows programmers to build complex systems by layering simpler subsystems.
+
+2. **Algorithmic Thinking**: Understanding that most computer tasks can be broken down into a series of simple steps (an algorithm) is a core concept. Grasping the idea of creating, understanding, and optimizing these algorithms is a key threshold.  Another key threshold is the idea of storing values in variables, and updating them sequentially or iteratively.
+
+3. **Recursion**: A concept that's often difficult for newcomers to grasp, recursion is the idea that a function can call itself in its own definition. While this can be a challenging idea to fully understand, it's crucial for many algorithms and data structures.
+
+4. **Object-Oriented Programming (OOP)**: This paradigm organizes data into objects and functionality into methods, providing a way to structure code that's easy to maintain and understand. It's a crucial step in moving from basic procedural programming to a more sophisticated and powerful programming methodology.
+
+5. **Concurrency and Parallelism**: These concepts involve understanding how tasks can be done simultaneously, either virtually (concurrency) or physically (parallelism), and the challenges associated with coordinating these tasks (like race conditions and deadlocks).
+
+6. **Data Structures**: Understanding basic data structures like arrays, linked lists, trees, and hash tables, how they are implemented, and when it's appropriate to use each one is an important threshold in computer science.
+
+7. **Computational Complexity (Big O notation)**: It's not enough to write a program that solves a problem. Computer scientists need to understand the computational cost associated with different algorithms and how to reason about this cost in terms of time and space complexity. This understanding is crucial for writing efficient code.
+
+8. **Networking**: The concept that computers can communicate with each other, and how this communication is made possible, from basic protocols to the high-level design of the internet.
+
+9. **Information Security**: Understanding the importance of protecting information and the techniques used to achieve this (like encryption, hashing, and public-key cryptography) is a fundamental part of modern computer science.
+
+10. **Machine Learning/AI Concepts**: While it might not be at the core of an introductory CS course, understanding the basic concepts behind machine learning and AI (like how a model can be trained to predict outcomes based on input data) is becoming increasingly important.
 
 ## The Importance of CS Education
 
