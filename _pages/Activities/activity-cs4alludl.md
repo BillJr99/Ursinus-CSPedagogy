@@ -38,11 +38,3 @@ CS4All is an initiative that aims to bring computer science education to all stu
 
 ## Conclusion
 Inclusive computing pedagogy is essential for ensuring that all students have access to high-quality computer science education. The application of Universal Design for Learning (UDL) principles in CS instruction enables teachers to proactively differentiate their teaching methods to meet the diverse needs of learners. The references summarized in this report, along with additional scholarly articles and research papers, provide valuable insights into the implementation of UDL in computer science education. By leveraging UDL practices, educators can promote inclusivity, engagement, and achievement for all students in CS4All programs.
-
-## References
-
-[^1]: How Might I Proactively Differentiate my CS Instruction to Reach All Learners? [Online]. Available: [https://blueprint.cs4all.nyc/resources/differentiate-instruction](https://blueprint.cs4all.nyc/resources/differentiate-instruction).
-[^2]: Project TACTIC: Teaching All Computational Thinking through Inclusion and Collaboration [Online]. Available: [https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf](https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf).
-[^3]: Universal Design for Learning for Computer Science (UDL4CS) [Online]. Available: [https://udl4cs.education.ufl.edu/interactive-table/](https://udl4cs.education.ufl.edu/interactive-table/).
-[^4]: Author(s). "Application of Universal Design for Learning Principles in Computer Science Education," Journal or Conference Name, vol(issue), pages, Year.
-[^5]: Author(s). "Inclusive Computer Science Education: A Review of Literature," Journal or Conference Name, vol(issue), pages, Year.

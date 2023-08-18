@@ -44,13 +44,3 @@ Finally, the pairs share their approaches with the rest of the class, while the 
 ## Conclusion
 
 Collaboration techniques like pair programming and think-pair-share have demonstrated numerous benefits in the CS classroom. By incorporating these techniques, educators can create an interactive and engaging environment that promotes problem-solving, knowledge sharing, and critical thinking skills. These strategies not only improve student learning outcomes but also enhance satisfaction and confidence in their abilities.
-
-## References
-
-Cockburn, A., Williams, L., and Woolf, B. (2001). The Costs and Benefits of Pair Programming. *XP Universe and the Agile Universe*, 79-95.
-
-Heller, P., and Hollabaugh, M. (1992). Teaching Problem Solving Through Cooperative Grouping. Part 1: Group vs. Individual Problem Solving. *American Journal of Physics*, 60(7), 637-644.
-
-Hertzog, B., Soh, L. K., and Chuang, H. (2012). Assessing the Effectiveness of Think-Pair-Share Technique in the Classroom Using Clickers. *Journal of Science Education and Technology*, 21(5), 579-586.
-
-Patel, R., Mishra, P., and Murphy-Hill, E. (2020). Pair Programming in the Classroom: A Systematic Review. *ACM Transactions on Computing Education (TOCE)*, 20(4), 32.

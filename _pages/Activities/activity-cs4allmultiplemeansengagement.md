@@ -34,9 +34,3 @@ Gamification in computer science education involves incorporating game elements,
 
 ## Conclusion
 Multiple means of engagement in CS4All is crucial for creating an inclusive and engaging learning environment. By providing project-based learning opportunities, interactive coding activities, and gamification, educators can enhance student motivation, increase retention, and promote a deeper understanding of computer science concepts. It is important for educators to explore and utilize various engagement strategies to cater to the diverse needs and interests of students.
-
-## References
-1. Guzdial, M., & Laxer, C. (2015). Computing for everyone: Improving global computational literacy. Communications of the ACM, 58(11), 26-28.
-2. Project-Based Learning for Computer Science. (n.d.). In TeachCS.org. Retrieved from [https://www.teachcs.org/project-based-learning](https://www.teachcs.org/project-based-learning)
-3. Codecademy. (n.d.). In Codecademy. Retrieved from [https://www.codecademy.com/](https://www.codecademy.com/)
-4. International Olympiad in Informatics - IOI Syllabus. (n.d.). In IOI Syllabus. Retrieved from [https://ioinformatics.org/olympiad-syllabus/](https://ioinformatics.org/olympiad-syllabus/)

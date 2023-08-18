@@ -46,17 +46,3 @@ Ryoo highlights the importance of addressing stereotypes, biases, and inequities
 Ryoo's research underscores the significance of integrating UDL principles into computer science education to promote diversity, equity, and inclusion.
 
 Source: Ryoo, J. M. (2019). Pedagogy That Supports Computer Science for All. *Proceedings of the 2019 ACM Conference on International Computing Education Research*, 13-21. [DOI: 10.1145/3322210](https://doi.org/10.1145/3322210)
-
-## Additional Research and Relevant Scholarly Articles
-
-In addition to the UDL Guidelines and Ryoo's research, the following resources provide further insights and recommendations for implementing inclusive pedagogy and UDL techniques:
-
-1. **Rose, D. H., & Meyer, A. (2002). Teaching Every Student in the Digital Age: Universal Design for Learning.** In this book, the authors delve into the principles and strategies for designing inclusive instruction with a focus on digital technologies. They provide examples and case studies to guide instructors in implementing UDL.
-
-2. **Edyburn, D. L. (2009). Video-based Hypermedia and Video Annotation: Supporting Universal Design for Learning.** This article explores the potential of video-based hypermedia and video annotation as tools for implementing UDL principles. The author discusses how these technologies can provide options for representation, expression, and engagement.
-
-3. **Basham, J. D., & Marino, M. T. (2013). Universal Design for Learning in the Chemistry Classroom: Accessible Science.** This research paper demonstrates the application of UDL principles in the context of a chemistry classroom. The authors highlight the positive impact of implementing UDL on student outcomes and engagement in science education.
-
-4. **Burgstahler, S. E., & Chang, C. Y. (2007). Coming Together to Take Stock: The State of Research on Universal Design in Education.** This comprehensive literature review examines the existing research on universal design in education. It explores the benefits, challenges, and future directions for implementing UDL practices across various educational settings.
-
-These additional resources offer valuable insights and practical guidance for instructors interested in incorporating inclusive pedagogy and UDL principles in their teaching practice.

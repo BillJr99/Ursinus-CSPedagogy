@@ -8,7 +8,10 @@ info:
   goals: 
     - To explain the hierarchical nature of Bloom's Taxonomy
     - To design lessons that engage students at multiple levels of Bloom's hierarchy
-        
+  additional_reading:
+    - title: "Bloom's Taxonomy"
+      link: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
+      
 tags:
   - bloom
   
@@ -41,23 +44,3 @@ UbD is organized into a three-stage framework:
 2. **Stage 2: Determine Acceptable Evidence**: Once the desired results are established, educators determine the appropriate assessments and performance tasks that will provide evidence of students' understanding. These assessments should align with the desired outcomes and promote critical thinking and application of knowledge.
 
 3. **Stage 3: Plan Learning Experiences and Instruction**: The final stage involves designing the specific learning experiences, activities, and lessons that will help students achieve the desired outcomes. Educators must ensure that these instructional methods facilitate deep understanding and address students' diverse needs.
-
-## Summary of Provided References
-
-### Reading: Understanding by Design
-The reading on Understanding by Design, available at [URL](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/), provides a comprehensive introduction to the UbD framework. It explains the key principles, stages, and benefits of UbD in instructional design, emphasizing the importance of student understanding and authentic assessment.
-
-### Reading: Bloom's Taxonomy
-The reading on Bloom's Taxonomy, accessible at [URL](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/), complements the UbD framework by focusing on the cognitive learning domain. It categorizes learning objectives into six levels of complexity, ranging from lower-order thinking skills (remembering and understanding) to higher-order thinking skills (applying, analyzing, evaluating, and creating). Bloom's Taxonomy provides educators with a valuable tool for designing instructional activities that promote higher-level thinking and understanding.
-
-## Additional References
-
-To further enhance our understanding of UbD, we have synthesized and summarized relevant scholarly articles and research papers. Here are a few notable sources:
-
-1. **Title**: "The Impact of Understanding by Design on Student Learning Outcomes"
-   - **Authors**: Johnson, R., & Brown, K.
-   - **Summary**: This research study conducted in a high school setting investigated the effects of implementing UbD on student learning outcomes. The study found that students taught using UbD showed significantly higher levels of understanding, improved critical thinking skills, and greater retention of knowledge compared to a control group.
-
-2. **Title**: "UbD in Higher Education: Adapting Backward Design for College Courses"
-   - **Authors**: Smith, A., & Davis, P.
-   - **Summary**: This article explores the application of UbD in higher education. It discusses the challenges and benefits of implementing UbD in college courses and provides practical examples of how instructors can adapt the UbD framework to facilitate deep understanding and engagement among undergraduate students.

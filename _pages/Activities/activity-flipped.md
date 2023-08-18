@@ -34,9 +34,3 @@ To effectively prepare for a flipped classroom, both instructors and students ne
 - **Watching Video Lectures**: Students should watch the assigned video lectures before coming to class. This allows them to familiarize themselves with the content and identify any questions or areas of confusion.
 - **Taking Notes**: While watching the videos, students should take notes to reinforce their understanding of the material. This helps them consolidate key concepts and aids in recall during in-class activities and exams.
 - **Reviewing Supplementary Materials**: Students should study any supplementary materials provided by the instructor, such as readings or practice problems, to deepen their understanding of the subject.
-
-## References
-
-1. Bergmann, J., & Sams, A. (2012). Flip your classroom: Reach every student in every class every day. International Society for Technology in Education.
-2. Strayer, J. F. (2012). How learning in an inverted classroom influences cooperation, innovation and task orientation. Learning Environments Research, 15(2), 171-193.
-3. Chen, B., & Jones, K. T. (2018). Learning in flipped classroom environments: a review of evidence and research trends. Educational Technology Research and Development, 66(3), 563-580.

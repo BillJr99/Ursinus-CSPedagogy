@@ -44,20 +44,11 @@ plt.show()
 ### 2. Project-Based Learning
 Project-based learning allows students to solve real-world problems or create meaningful artifacts using computer science concepts. It encourages their autonomy and creativity, as they can choose projects that align with their interests and engage them on a deeper level.
 
-#### Reference:
-- Thomas H. Reynolds, Louiqa Raschid, and Mark Guzdial. (2014). "Project-Based Learning Across the Computer Science Curriculum." IEEE Transactions on Education 57(2), 69-75. [Link](https://ieeexplore.ieee.org/document/6583827)
-
 ### 3. Collaborative Activities
 Collaborative activities foster teamwork, communication, and peer learning. By working together, students can leverage each other's strengths and learn from different perspectives. This strategy supports inclusive environments where every student can contribute and benefit from the collective knowledge.
 
-#### Reference:
-- Yasemicagi, Nilgun. (2010). "The Effects of Computer-Supported Collaborative Instruction on the Success of Technological Pedagogical Content Knowledge." Computers & Education 54(2), 440-447. 
-
 ### 4. Varied Assessment Methods
 Using varied assessment methods, such as projects, presentations, and quizzes, enables students to demonstrate their understanding and skills in different ways. This approach recognizes that traditional tests may not capture the full extent of a student's abilities and provides opportunities for students to leverage their strengths.
-
-#### Reference:
-- Ramachandran, Srinivasan, and Kasthuri. Vinodkumar. (2018). "Enhanced Assessment Methods in Computer Science Courses: A Comparative Study." International Journal of Engineering & Technology 7(4.33), 119-122. 
 
 ## Conclusion
 In the CS4All framework, multiple means of action and expression play a crucial role in creating inclusive and engaging learning environments. By employing strategies such as varied programming languages, project-based learning, collaborative activities, and varied assessment methods, educators can cater to the diverse needs and interests of students, promoting their active participation and success in computer science. The integration of multiple means of action and expression is vital for the realization of CS4All's vision of providing equal access and opportunities for all students to learn computer science.

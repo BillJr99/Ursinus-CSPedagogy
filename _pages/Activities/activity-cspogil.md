@@ -33,9 +33,3 @@ The CS-POGIL Roles and Role Cards resource provides guidelines for implementing 
 The facilitator encourages group participation and ensures that everyone is actively engaged in the learning process. The recorder takes notes and records the group's findings. The spokesperson presents the group's ideas, solutions, and conclusions to the rest of the class. The process observer observes and assesses the group dynamics and interactions.
 
 The use of role cards helps students understand and fulfill their respective roles effectively. The specific responsibilities and expectations associated with each role are outlined in the CS-POGIL Roles and Role Cards resource.
-
-## References
-
-- CS-POGIL. (n.d.). Retrieved from [https://cspogil.org/Home](https://cspogil.org/Home)
-
-- CS-POGIL Roles and Role Cards. (n.d.). Retrieved from [https://cspogil.org/Roles+and+Role+Cards](https://cspogil.org/Roles+and+Role+Cards)

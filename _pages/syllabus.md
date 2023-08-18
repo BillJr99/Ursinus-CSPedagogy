@@ -149,12 +149,10 @@ grade_breakdown:
 - category: "Curriculum Development Labs"
   weight: "30%"
 - category: "Service Learning Classroom Project"
+  weight: "20%"
+- category: "Technical Project and Presentation"
   weight: "10%"
-- category: "Final Technical Project and Presentation"
-  weight: "10%"
-- category: "Classroom Reflections"
-  weight: "10%"
-- category: "Class Participation and Discussions"
+- category: "Reflections"
   weight: "10%"
 
 letter_grades:
@@ -202,6 +200,10 @@ schedule:
     date: "1"
     title: "What is Computer Science and Why CS Education?"
     link: "./Activities/WhatIsCS"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: code.org Lightning Talk Handed Out"
+        dlink: "Labs/CodeOrgLightningTalk"
+        points: 10
     readings:
       - rtitle: "CSTA Standards for CS Teachers"
         rlink: "https://www.csteachers.org/page/standards-for-cs-teachers"
@@ -211,13 +213,27 @@ schedule:
         rlink: "https://code.org/educate/facilitator-landing/CSP"
   - week: "1"
     date: "0"
-    title: "Pedagogy Background: Understanding by Design"
+    title: "code.org Lightning Talks"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: code.org Lightning Talk Due"
+        dlink: "Labs/CodeOrgLightningTalk"
+        points: 10
+      - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
+        dlink: "Reflections/CodeOrgLightningTalk"
+        points: 10
+        submission_types: "onpaper"
+  - week: "1"
+    date: "1"
+    title: "Pedagogy Background: Understanding by Design and Backwards Design"
     link: "./Activities/UBD"
     deliverables:
       - dtitle: "Written Assignment: Warmup Due"
         dlink: "Assignments/Warmup"
         points: 15
         submission_types: "onpaper"
+      - dtitle: "Curriculum Development Lab: Lightning Talk Handed Out"
+        dlink: "Labs/LightningTalk"
+        points: 10
     readings:
       - rtitle: "Understanding by Design"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
@@ -225,29 +241,58 @@ schedule:
         rlink: false
       - rtitle: "Big Book of Pedagogy - Concept Maps"
         rlink: false
-  - week: "1"
-    date: "1"
-    title: "Pedagogy Background: Understanding by Design"
+  - week: "2"
+    date: "0"
+    title: "Pedagogy Background: Understanding by Design and Backwards Design"
+    deliverables:
+      - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
+        dlink: "Reflections/CodeOrgLightningTalk"
+        points: 10
+        submission_types: "onpaper"
     readings:
       - rtitle: "Bloom's Taxonomy"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
   - week: "2"
+    date: "1"
+    title: "Lightning Talks"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: Lightning Talk Due"
+        dlink: "Labs/LightningTalk"
+        points: 10
+      - dtitle: "Reflection: Lightning Talk Reflection Handed Out"
+        dlink: "Reflections/LightningTalk"
+        points: 10
+        submission_types: "onpaper"
+  - week: "3"
     date: "0"
     title: "Assessing Learning: Bloom's Taxonomy"
     link: "./Activities/Bloom"
+    deliverables:
+      - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Handed Out"
+        dlink: "Assignments/FramingLightningUBD"
+        points: 100
+        submission_types: "onpaper"
     readings:
       - rtitle: "Maslow's Hierarchy of Needs"
         rlink: "https://www.simplypsychology.org/maslow.html"
-  - week: "2"
+  - week: "3"
     date: "1"
     title: "Assessing Learning: Rubrics and Contract Grading"
     link: "./Activities/RubricContract"
+    deliverables:
+      - dtitle: "Reflection: Lightning Talk Reflection Due"
+        dlink: "Reflections/LightningTalk"
+        points: 10
+        submission_types: "onpaper"
+      - dtitle: "Curriculum Development Lab: UbD Lesson Plan Handed Out"
+        dlink: "Labs/UbDLessonPlan"
+        points: 10
     readings:
       - rtitle: "A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz"
         rlink: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
       - rtitle: "Techniques for Using Specifications Grading in Computer Science"
         rlink: "https://dl.acm.org/doi/abs/10.5555/3205191.3205226"
-  - week: "3"
+  - week: "4"
     date: "0"
     title: "Unique Challenges in CS Pedagogy"
     link: "./Activities/UniqueChallengesCS"
@@ -258,7 +303,7 @@ schedule:
         rlink: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
       - rtitle: "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles (Sentance)"
         rlink: "https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy"
-  - week: "3"
+  - week: "4"
     date: "1"
     title: "Using Kinesthetics: Computer Science Unplugged"
     link: "./Activities/CSUnplugged"
@@ -267,20 +312,32 @@ schedule:
         rlink: false
       - rtitle: "CS Education Chapter 3"
         rlink: false
-  - week: "4"
+  - week: "5"
     date: "0"
     title: "Preparing for Class: Flipping the Classroom"
     link: "./Activities/Flipped"
-  - week: "4"
+    deliverables:
+      - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Due"
+        dlink: "Assignments/FramingLightningUBD"
+        points: 100
+        submission_types: "onpaper"
+  - week: "5"
     date: "1"
     title: "Collaboration in the CS Classroom: Pair Programming and Think-Pair-Share"
     link: "./Activities/Collaboration"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: UbD Lesson Plan Due"
+        dlink: "Labs/UbDLessonPlan"
+        points: 10
+      - dtitle: "Curriculum Development Lab: Assessment Plan Handed Out"
+        dlink: "Labs/Assessment"
+        points: 10
     readings:
       - rtitle: "CS Education Chapters 4 and 5"
         rlink: false
       - rtitle: "Big Book of Pedagogy - Work Together"
         rlink: false
-  - week: "5"
+  - week: "6"
     date: "0"
     title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
     link: "./Activities/UDL"
@@ -289,14 +346,21 @@ schedule:
         rlink: "https://udlguidelines.cast.org/"
       - rtitle: "Big Book of Pedagogy - UDL"
         rlink: false
-  - week: "5"
+  - week: "6"
     date: "1"
     title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: Assessment Plan Due"
+        dlink: "Labs/Assessment"
+        points: 10
+      - dtitle: "Curriculum Development Lab: Unplugged Activity Handed Out"
+        dlink: "Labs/Unplugged"
+        points: 10
     readings:
       - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
         rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
-  - week: "6"
-    date: "0"
+  - week: "7"
+    date: "1"
     title: "CS4All: UDL for Inclusive Computing Pedagogy"
     link: "./Activities/CS4All/UDL"
     readings:
@@ -308,20 +372,31 @@ schedule:
         rlink: "https://udl4cs.education.ufl.edu/interactive-table/"
       - rtitle: "CS Education Chapter 10"
         rlink: false
-  - week: "6"
-    date: "1"
-    title: "CS4All: Multiple Means of Representation"
-    link: "./Activities/CS4All/MultipleMeans/Representation"
-  - week: "7"
-    date: "0"
-    title: "CS4All: Multiple Means of Action and Expression"
-    link: "./Activities/CS4All/MultipleMeans/Action"
-  - week: "7"
-    date: "1"
-    title: "CS4All: Multiple Means of Engagement"
-    link: "./Activities/CS4All/MultipleMeans/Engagement"
   - week: "8"
     date: "0"
+    title: "CS4All: Multiple Means of Representation"
+    link: "./Activities/CS4All/MultipleMeans/Representation"
+    deliverables:
+      - dtitle: "Technical Project and Presentation: Project Handed Out"
+        dlink: "Projects/TechnicalProject"
+        points: 100
+  - week: "8"
+    date: "1"
+    title: "CS4All: Multiple Means of Action and Expression"
+    link: "./Activities/CS4All/MultipleMeans/Action"
+  - week: "9"
+    date: "0"
+    title: "CS4All: Multiple Means of Engagement"
+    link: "./Activities/CS4All/MultipleMeans/Engagement"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
+        dlink: "Labs/Unplugged"
+        points: 10
+      - dtitle: "Written Assignment: CS4All and UDL Handed Out"
+        dlink: "Assignments/CS4AllUDL"
+        points: 100
+  - week: "9"
+    date: "1"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
     link: "./Activities/POGIL"
     readings:
@@ -331,13 +406,17 @@ schedule:
         rlink: "https://cspogil.org/Roles+and+Role+Cards"
       - rtitle: "CS Education Chapters 11 through 13"
         rlink: false
-  - week: "8"
-    date: "1"
-    title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
-  - week: "9"
+  - week: "10"
     date: "0"
+    title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+  - week: "10"
+    date: "1"
     title: "Learning from Experience: Piaget's Constructionivist Theory"
     link: "./Activities/Piaget"
+    deliverables:
+      - dtitle: "Curriculum Development Lab: POGIL Activity Handed Out"
+        dlink: "Labs/POGIL"
+        points: 10
     readings:
       - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
         rlink: "http://ispython.com/pedagogy/"
@@ -345,10 +424,14 @@ schedule:
         rlink: "https://teachcomputing.org/pedagogy"
       - rtitle: "Effective Computing Pedagogy Examples"
         rlink: "https://blog.teachcomputing.org/tag/pedagogy/"
-  - week: "9"
-    date: "1"
+  - week: "11"
+    date: "0"
     title: "Computer Science Lesson Design"
     link: "./Activities/CSLessonDesign"
+    deliverables:
+      - dtitle: "Written Assignment: CS4All and UDL Due"
+        dlink: "Assignments/CS4AllUDL"
+        points: 100
     readings:
       - rtitle: "Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education"
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl.html"
@@ -356,23 +439,39 @@ schedule:
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html"
       - rtitle: "CS Education Chapter 6"
         rlink: false
-  - week: "10"
-    date: "0"
+  - week: "11"
+    date: "1"
     title: "Computer Science Lesson Design: Scaffolding"
     link: "./Activities/CSLessonDesign/Scaffolding"
-  - week: "10"
-    date: "1"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Handed Out"
+        dlink: "Projects/ServiceLearning"
+        points: 100
+      - dtitle: "Curriculum Development Lab: POGIL Activity Due"
+        dlink: "Labs/POGIL"
+        points: 10
+  - week: "12"
+    date: "0"
     title: "From Grades to Feedback: Formative and Summative Assessments"
     link: "./Activities/Feedback"
+    deliverables:
+      - dtitle: "Reflection: Peer Review and Assessment Handed Out"
+        dlink: "Reflections/PeerReviewAssessment"
+        points: 10
+        submission_types: "onpaper"
     readings:
       - rtitle: "CS Education Chapter 16"
         rlink: false
       - rtitle: "Big Book of Pedagogy - Assessment for Learning"
         rlink: false
-  - week: "11"
+  - week: "13"
     date: "0"
     title: "Accessibility in CS Educational Design"
     link: "./Activities/Accessibility"
+    deliverables:
+      - dtitle: "Technical Project and Presentation: Project Due"
+        dlink: "Projects/TechnicalProject"
+        points: 100
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
         rlink: "https://www.w3.org/TR/WCAG21/"
@@ -384,30 +483,43 @@ schedule:
         rlink: "https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities"
       - rtitle: "Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette"
         rlink: "https://par.nsf.gov/biblio/10356929"
-  - week: "11"
+  - week: "13"
     date: "1"
     title: "Social Emotional Learning (SEL)"
     link: "./Activities/SEL"
+    deliverables:
+      - dtitle: "Reflection: Peer Review and Assessment Due"
+        dlink: "Reflections/PeerReviewAssessment"
+        points: 10
+        submission_types: "onpaper"
+      - dtitle: "Curriculum Development Lab: SEL Handed Out"
+        dlink: "Labs/SEL"
+        points: 10
     readings:
       - rtitle: "Fundamentals of SEL"
         rlink: "https://casel.org/fundamentals-of-sel/"
-  - week: "12"
+  - week: "14"
     date: "0"
     title: "SEL in Computing Education"
     link: "./Activities/SEL/Computing"
-    deliverables:
-      - dtitle: "Service Learning Classroom Project: Project Handed Out"
-        dlink: "Projects/ServiceLearning"
-        points: 100
     readings:
       - rtitle: "Make Computational Thinking a Social-Emotional Learning Experience"
         rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
       - rtitle: "Importance of SEL in a CS Environment"
         rlink: "http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html"
-  - week: "12"
+      - rtitle: "The Big Book of Computing Content"
+        rlink: false
+  - week: "14"
     date: "1"
     title: "Equity Pedagogies in Computer Science"
     link: "./Activities/Equity"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Due"
+        dlink: "Projects/ServiceLearning"
+        points: 100
+      - dtitle: "Curriculum Development Lab: SEL Due"
+        dlink: "Labs/SEL"
+        points: 10
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -415,28 +527,8 @@ schedule:
         rlink: false
       - rtitle: "Big Book of Pedagogy - Culturally Relevant Pedagogy"
         rlink: false
-  - week: "13"
-    date: "0"
-    title: "Service Learning: Curriculum Design Workshop"
-    readings:
-      - rtitle: "The Big Book of Computing Content"
-        rlink: false
-  - week: "13"
-    date: "1"
-    title: "Service Learning: Curriculum Design Workshop"
-    readings:
       - rtitle: "CS Education Chapter 14"
         rlink: false
-  - week: "14"
-    date: "0"
-    title: "Classroom Visits"
-  - week: "14"
-    date: "1"
-    title: "Classroom Visits"
-    deliverables:
-      - dtitle: "Service Learning Classroom Project: Project Due"
-        dlink: "Projects/ServiceLearning"
-        points: 100
           
 university:
   semester: "Fall"

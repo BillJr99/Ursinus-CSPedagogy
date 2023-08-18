@@ -35,28 +35,10 @@ The article "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Prin
 
 Some of these principles include prioritizing foundational concepts, using a variety of instructional strategies, incorporating formative assessment, and allowing for flexibility in pacing and content. By adhering to these principles, educators can create engaging and inclusive CS learning experiences.
 
-## Additional Scholarly References
-
-In addition to the aforementioned resources, several scholarly articles and research papers provide further insights into unique challenges in CS pedagogy and approaches to address them.
-
-- Smith, J., & Johnson, S. (2020). "Promoting Equity in CS Education through Culturally Relevant Pedagogy." This article discusses the importance of culturally relevant pedagogy in CS education to address the needs of diverse student populations[^4].
-
-- Brown, M., & Tirrell, M. (2019). "A Review of Research on Equity in Computer Science Education." This review paper examines existing research on equity in CS education and provides recommendations for creating inclusive learning environments[^5].
-
-- Martinez, M., & McGrath, D. (2016). "Exploring Equity and Inclusion in Computer Science Education: a Systematic Literature Review." This systematic literature review synthesizes research on equity and inclusion in CS education and identifies effective strategies for supporting diverse learners[^6].
-
-These additional references offer valuable insights and research-based strategies to promote equity and inclusivity in CS education.
-
-*References:*
+## References:
 
 [^1]: Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity. Available at: https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/
 
 [^2]: Inclusive CS Teaching. Available at: https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1
 
 [^3]: CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles. Available at: https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy.
-
-[^4]: Smith, J., & Johnson, S. (2020). Promoting Equity in CS Education through Culturally Relevant Pedagogy.
-
-[^5]: Brown, M., & Tirrell, M. (2019). A Review of Research on Equity in Computer Science Education.
-
-[^6]: Martinez, M., & McGrath, D. (2016). Exploring Equity and Inclusion in Computer Science Education: a Systematic Literature Review.

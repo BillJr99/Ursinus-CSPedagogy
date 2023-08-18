@@ -37,14 +37,12 @@ Piaget's constructionist theory has significant implications for teaching and le
 
 1. [Learning and Teaching - a Philosophy, a Guideline, a Discussion](http://ispython.com/pedagogy/): This resource provides an overview of various pedagogical approaches, including Piaget's constructionist theory. It explores the importance of active learning and offers practical suggestions for integrating constructivist principles into teaching practices.
 
-2. [Promoting Effective Computing Pedagogy (TeachComputing)](https://teachcomputing.org/pedagogy): This reading focuses on effective pedagogical practices in the field of computer science education. While not specific to Piaget's theory, it offers insights into constructivist strategies for teaching computing concepts and skills.
+2. [Effective Computing Pedagogy Examples](https://blog.teachcomputing.org/tag/pedagogy/): This website showcases examples of effective computing pedagogy. Although not directly related to Piaget's theory, it provides valuable examples of constructivist teaching practices in the context of computer science education.
 
-3. [Effective Computing Pedagogy Examples](https://blog.teachcomputing.org/tag/pedagogy/): This website showcases examples of effective computing pedagogy. Although not directly related to Piaget's theory, it provides valuable examples of constructivist teaching practices in the context of computer science education.
-
-4. Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+3. Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
     - This seminal work by Lev Vygotsky complements Piaget's constructionist theory by emphasizing the role of social interaction and cultural tools in the development of cognitive processes. It offers insights into the concept of the zone of proximal development, in which learners can accomplish tasks with guidance that they cannot perform independently.
 
-5. Bodrova, E., & Leong, D. J. (2003). *Tools of the mind: The Vygotskian approach to early childhood education*. Pearson.
+4. Bodrova, E., & Leong, D. J. (2003). *Tools of the mind: The Vygotskian approach to early childhood education*. Pearson.
     - This book presents an application of Vygotsky's theory in early childhood education. Although not directly focused on Piaget's theory, it explores similar constructivist principles through the lens of play-based learning and the use of cognitive tools.
 
 ## Conclusion

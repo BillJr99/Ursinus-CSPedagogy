@@ -60,9 +60,3 @@ for i in range(len(numbers)):
         if numbers[i] > numbers[j]:
             swap_students(i, j)
 ```
-
-## Additional References:
-1. Bergin, S., & Eckerdal, A. (2018). Learning computer science unplugged: Youth, teachers, and peers. ACM Inroads, 9(4), 60-65.
-2. Sentance, S., & Csizmadia, A. (2017). A Kinesthetic Approach to Introducing Computing Education in Primary Schools. ACM Transactions on Computing Education (TOCE), 17(4), 16.
-
-

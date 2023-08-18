@@ -8,19 +8,16 @@ info:
   goals: 
     - To design rubrics that measure individual learning goals across a spectrum
     - To employ contract grading that enables students to start at multiple entry points for growth
-        
+  additional_reading:
+    - title: "A Unilateral Grading Contract to Improve Learning and Teaching"
+      link: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
+    - title: "Techniques for Using Specifications Grading in Computer Science"
+      link: "https://dl.acm.org/doi/abs/10.5555/3205191.3205226"
+      
 tags:
   - assessment
   
 ---
-
-## Assessing Learning: Rubrics and Contract Grading
-As educators, the assessment of student learning is a critical aspect of our teaching practice. Traditional grading methods often fail to provide meaningful feedback and can sometimes hinder student growth. In recent years, alternative approaches such as rubrics and contract grading have gained attention for their potential to enhance learning outcomes. We will explore these two assessment techniques and examine their benefits and challenges. Additionally, we will summarize key findings from the following references: 
-
-1. Reading: "A Unilateral Grading Contract to Improve Learning and Teaching" by Elbow and Danielewicz.
-    - URL: [https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs)
-2. Reading: "Techniques for Using Specifications Grading in Computer Science".
-    - URL: [https://dl.acm.org/doi/abs/10.5555/3205191.3205226](https://dl.acm.org/doi/abs/10.5555/3205191.3205226)
 
 ## Rubrics
 Rubrics are a valuable tool for assessing student work. They provide clear criteria and performance levels for evaluating assignments, projects, or exams. Rubrics not only make grading more transparent and consistent but also offer students a better understanding of what is expected of them. 
@@ -68,13 +65,3 @@ In the study conducted by Elbow and Danielewicz (reference 1), a unilateral grad
 Contract grading provides a more holistic evaluation of student learning by emphasizing effort, growth, and mastery of learning objectives. It shifts the focus from grades as a means of motivation to learning as the primary goal. However, implementing contract grading requires careful planning, clear communication, and ongoing support to ensure students have a comprehensive understanding of the expectations and assessment criteria.
 
 Further research is needed to explore the efficacy and generalizability of contract grading across different disciplines and educational contexts. However, initial findings suggest that contract grading can be a promising alternative to traditional grading systems.
-
-## Additional References
-In addition to the summarized readings, the following scholarly articles and research papers explore various aspects of rubrics and contract grading:
-
-1. "Rubrics: A Handbook for Construction and Use" by Valenti et al. (2009).
-2. "Contract Grading in Graduate Clinical Courses: A Qualitative Study" by Thornton et al. (2017).
-3. "The Impact of Rubrics on Learning Outcomes and Academic Integrity" by Johnson and Klavas (2019).
-4. "Student Attitudes Towards Contract Grading in a Communication Course" by Smith and Banner (2016).
-
-These references provide further insights and empirical evidence for educators interested in implementing rubrics and contract grading techniques in their teaching practice.

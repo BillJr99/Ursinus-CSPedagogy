@@ -42,9 +42,3 @@ Sensory or tactile representations enable students to physically interact with c
 
 ## Conclusion
 In summary, Multiple Means of Representation is a crucial component of the CS4All initiative that aims to enhance the accessibility and engagement of computer science education for all students. By offering information through diverse modalities, educators can accommodate different learning styles and needs, promoting inclusive and effective learning environments. 
-
-## References
-1. Castanon, A., & Alshamaa, S. (2018). Inclusive computer science education: How can Scratch support computer science learners with disabilities. *Journal of Computers in Education*, 5(2), 187-208.
-2. Hsu, Y.S., Kuan, Y.T., Wang, C.Y., & Lin, S.F. (2019). Application of multiple means of representation in computer-based assessment of programming courses. *Education Sciences*, 9(4), 279.
-3. Perkins, D.N. (1991). Technology meets constructivism: Do they make a marriage? *Educational Technology*, 38(5), 4-18.
-4. Sargent, J., & Casey, A. (2020). Supporting students with dyslexia in an online programming course. *Journal of Research in Interactive Learning Environments*, 14(3), 306-323.
