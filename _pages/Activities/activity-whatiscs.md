@@ -9,7 +9,7 @@ info:
     - To motivate the science of teaching and learning of Computer Science
   models:
     - model: |
-        <div>
+        <div align="center">
         Visit the <a href="https://www.billmongan.com/Ursinus-CS173/DrawingCanvas">Pixel Pandemonium</a> page and follow the instructions on the page to create an image.
         </div>
       title: "Pixel Pandemonium - Representing Images and Colors on a Computer"
@@ -18,7 +18,15 @@ info:
         - How do computers make smooth images on the screen?
         - What are some ways you could send the same information but by transmitting fewer numbers?  In other words, how might this data be compressed?
         - "What blocks represent &quot;good&quot; compression, and which ones yield poor compression results?"
-        - Why might the run-length compression technique suggested on the instructions page be a good approach for compressing images on a screen?
+        - "Why might the run-length compression technique suggested on the instructions page be a good approach for compressing images on a screen?"
+    - model: |
+        <div align="center">
+        Consider answering questions using only a flashlight or by using your voice to make single-note sounds.  Ask and answer a question of your partner.
+        </div>
+      title: "Data Encoding"
+      questions:
+        - "Describe your encoding strategy."
+        - "How much data did it take to provide your answer?  How about the question?"
     - model: |
         <div>
         Visit the <a href="https://code.org/educate/csp/widgets">code.org Widgets</a> page and choose one widget to experiment with and present to the class as a mini-lesson.
