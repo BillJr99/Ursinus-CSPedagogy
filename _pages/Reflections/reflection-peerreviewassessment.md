@@ -1,8 +1,8 @@
 ---
 layout: assignment
-permalink: Reflections/LightningTalk
-title: "CS471: Computer Science Pedagogy - Lightning Talk"
-excerpt: "CS471: Computer Science Pedagogy - Lightning Talk"
+permalink: Reflections/PeerReviewAssessment
+title: "CS471: Computer Science Pedagogy - Peer Review and Assessment"
+excerpt: "CS471: Computer Science Pedagogy - Peer Review and Assessment"
 
 info:
   coursenum: CS471

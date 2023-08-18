@@ -8,25 +8,21 @@ info:
   coursenum: CS471
   points: 10
   goals:
-    - xxx
-
-  rubric:
-  - weight: 100
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx
-
-  readings:
-    - rlink: xxx
-      rtitle: xxx
-
-  questions:
-    - xxx
+    - To critically and creatively evaluate the pedagogical lightning talks of your classmates
 
 tags:
-  - xxx
+  - lightningtalks
 
 ---
 
+In this reflection, you will provide an approximately 1-page writeup of the lightning talk presentations assigned to you.  This feedback will be shared anonymously with the presenting group.  Additionally, you will answer the question(s) provided by all student groups, and those responses will be anonymously shared with them.
+
+## Student Questions
+Each group will generate one or more questions about their topic as part of their presentation.  You should answer those questions and include them in your reflection.
+
+## Peer Feedback
+Each student will be assigned a few presentations to take careful notes about.  You will provide feedback to those groups as part of your reflection.  A few items to consider are:
+
+1. What was one thing that the group you observed did particularly well?
+2. What did you learn or find most inspiring about the presentation?
+3. What is one way that the group could revise their presentation to be more effective?
