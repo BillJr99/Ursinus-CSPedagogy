@@ -18,6 +18,7 @@ info:
   course_start_date: "2023/08/28"
   course_end_date: "2023/12/8"
   course_description: "This course is a collaborative service-learning effort among students with an interest in computing and in education.  The course is intended to prepare pre-service teachers for certification in K-12 Computer Science in Pennsylvania, and to provide students with a research-based background in science communication and pedagogy.  We explore unique aspects of educational design in a computing environment, as well as current challenges, trends, and opportunities in computing education.  Particular emphasis will center upon equitable computing pedagogy and practice, and creating a classroom environment that is inclusive of diverse learning needs, culturally relevant, and learner-centric.  Students will design educational activities according to pedagogical best practices, and work with K-12 teachers at local schools to deliver and assess those educational materials.  Students will collectively create a portfolio of open-source curricular materials for teaching computing in the K-12 classroom for subsequent adoption and revision."
+  designation: "LINQ"
   questions: |
     Specifically, we will collectively consider questions like:
     <ul>
@@ -443,6 +444,9 @@ schedule:
     date: "1"
     title: "Computer Science Lesson Design: Scaffolding"
     link: "./Activities/CSLessonDesign/Scaffolding"
+    readings:
+      - rtitle: "The Big Book of Computing Content"
+        rlink: false    
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Handed Out"
         dlink: "Projects/ServiceLearning"
@@ -507,8 +511,6 @@ schedule:
         rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
       - rtitle: "Importance of SEL in a CS Environment"
         rlink: "http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html"
-      - rtitle: "The Big Book of Computing Content"
-        rlink: false
   - week: "14"
     date: "1"
     title: "Equity Pedagogies in Computer Science"
