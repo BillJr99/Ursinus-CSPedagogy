@@ -146,9 +146,9 @@ goals:
 
 grade_breakdown:
 - category: "Written Assignments"
-  weight: "30%"
+  weight: "25%"
 - category: "Curriculum Development Labs"
-  weight: "30%"
+  weight: "35%"
 - category: "Service Learning Classroom Project"
   weight: "20%"
 - category: "Technical Project and Presentation"

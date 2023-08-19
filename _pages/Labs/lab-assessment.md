@@ -16,6 +16,7 @@ info:
     - "What are the key principles of assessment in education?"
     - "How can a rubric be designed to align with lesson objectives?"
     - "What are the benefits and challenges of using contract grading specifications in computer science education?"
+    - "How does your assessment utilize each layer of Bloom's Taxonomy?"
 
 tags:
   - assessment

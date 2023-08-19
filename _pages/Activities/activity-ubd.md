@@ -5,12 +5,27 @@ title: "CS471: Computer Science Pedagogy - Understanding by Design"
 excerpt: "CS471: Computer Science Pedagogy - Understanding by Design"
 
 info:
+  next: ./UBD2
+  
   goals: 
     - To utilize the Understanding by Design Framework in Lesson Design
   additional_reading:
-    - title: "Understanding by Design"
+    - title: "Understanding by Design (UbD)"
       link: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
-      
+  guidingquestions:
+    - "What is the goal of the UbD framework?"
+    - "Is the UbD framework better suited to a single lesson or to a unit, and why?"
+    - "Consider teaching a unit of lessons on binary number encoding.  How would you plan this into the three stages of UbD?"
+  models:
+    - model: |
+        <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2017/05/03135727/backwarddesign-650x537.png" alt="CC 4.0 BY-NC Understanding by Design workflow stages">
+      title: "The Stages of the UbD Framework"
+      questions:
+        - "Why do you think the UbD framework promotes &quot;backwards design&quot;?  Why not plan your lessons, and then your assessments, and then the class activities?"
+        - "What should you do if you find that you have &quot;too many&quot; big ideas identified in Stage 1?  How might you prioritize them?"
+        - "What are some class activities, assignments, or projects you have encountered in school that might work toward demonstrating competence in Stage 2?  Can you recall a particularly well-matched or poorly-matched assessment from your own life?"
+        - "What is your favorite classroom activity format?  Do you prefer lecture, or flipped classroom, or guided inquiry, or class discussions, etc.?  What is the benefit of using a blend of activities rather than a single approach?"
+        
 tags:
   - ubd
   
