@@ -315,12 +315,15 @@ schedule:
         rlink: false
   - week: "5"
     date: "0"
-    title: "Preparing for Class: Flipping the Classroom"
-    link: "./Activities/Flipped"
+    title: "UbD Lightning Talks"
     deliverables:
       - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Due"
-        dlink: "Assignments/FramingLightningUBD"
+        dlink: "Assignments/FramingLightningUbD"
         points: 100
+        submission_types: "onpaper"
+      - dtitle: "Reflection: UbD Lightning Talk Reflection Handed Out"
+        dlink: "Reflections/UbDLightningTalk"
+        points: 10
         submission_types: "onpaper"
   - week: "5"
     date: "1"
@@ -364,6 +367,11 @@ schedule:
     date: "1"
     title: "CS4All: UDL for Inclusive Computing Pedagogy"
     link: "./Activities/CS4All/UDL"
+    deliverables:
+      - dtitle: "Reflection: UbD Lightning Talk Reflection Due"
+        dlink: "Reflections/UbDLightningTalk"
+        points: 10
+        submission_types: "onpaper"
     readings:
       - rtitle: "How Might I Proactively Differentiate my CS Instruction to Reach All Learners?"
         rlink: "https://blueprint.cs4all.nyc/resources/differentiate-instruction"
@@ -444,9 +452,6 @@ schedule:
     date: "1"
     title: "Computer Science Lesson Design: Scaffolding"
     link: "./Activities/CSLessonDesign/Scaffolding"
-    readings:
-      - rtitle: "The Big Book of Computing Content"
-        rlink: false    
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Handed Out"
         dlink: "Projects/ServiceLearning"
@@ -454,6 +459,9 @@ schedule:
       - dtitle: "Curriculum Development Lab: POGIL Activity Due"
         dlink: "Labs/POGIL"
         points: 10
+    readings:
+      - rtitle: "The Big Book of Computing Content"
+        rlink: false
   - week: "12"
     date: "0"
     title: "From Grades to Feedback: Formative and Summative Assessments"
