@@ -47,11 +47,17 @@ CS-POGIL creates an environment where students actively explore, analyze, and co
 
 ### CS-POGIL Roles and Role Cards
 
-The CS-POGIL Roles and Role Cards resource provides guidelines for implementing CS-POGIL activities in the classroom. It introduces a set of predefined roles that students can assume during group work to facilitate collaboration and maximize engagement. The roles include facilitator, recorder, spokesperson, and process observer.
+The CS-POGIL Roles and Role Cards resource provides guidelines for implementing CS-POGIL activities in the classroom. It introduces a set of predefined roles that students can assume during group work to facilitate collaboration and maximize engagement. 
+The roles include:
+
+1. Facilitator / Manager
+2. Recorder
+3. Spokesperson / Presenter
+4. Process observer / Strategy Analyst / Reflector
 
 The facilitator encourages group participation and ensures that everyone is actively engaged in the learning process. The recorder takes notes and records the group's findings. The spokesperson presents the group's ideas, solutions, and conclusions to the rest of the class. The process observer observes and assesses the group dynamics and interactions.
 
-The use of role cards helps students understand and fulfill their respective roles effectively. The specific responsibilities and expectations associated with each role are outlined in the CS-POGIL Roles and Role Cards resource.
+The use of role cards helps students understand and fulfill their respective roles effectively. The specific responsibilities and expectations associated with each role are outlined in the CS-POGIL Roles and Role Cards resource.  Roles should be rotated regularly among the group members.
 
 ## Sample Lesson Plan: Understanding Data Compression through POGIL
 
