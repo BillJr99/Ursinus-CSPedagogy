@@ -6,9 +6,13 @@ excerpt: "CS471: Computer Science Pedagogy - Computer Science Unit Design"
 
 info:
   goals:
-    - To develop a unit of lessons that incorporate various modalities, including kinesthetic, flipped-classroom, and POGIL
+    - To design a unit according to the UbD framework
+    - To develop a unit of lessons that incorporate various modalities, such as kinesthetic and POGIL
     - To synthesize multiple modalities for Universal Design for Learning
-
+  guidingquestions:
+    - "In what ways could this lesson plan be improved to promote inclusivity and the 12 pedagogical principles?"
+    - "Adapt your lightning talk topic into a unit plan with lessons using this template."
+    
 tags:
   - udl
   - ubd
@@ -17,68 +21,176 @@ tags:
 
 ---
 
-### Lesson 1: Kinesthetic Activity
+## Unit Plan: Writing and Calling Methods in Java
 
-#### Stage 1: Desired Results
-- **Understanding Goals**: Students will understand the concept of partitioning in the quicksort algorithm.
-- **Essential Questions**: How does partitioning work in quicksort? How can we physically represent the sorting process?
+_Adapted from the UbD Template 2.0 (https://jaymctighe.com/downloads/UbD\_Template\_2.docx)_
 
-#### Stage 2: Evidence
-- **Performance Tasks**: Students will physically arrange themselves or objects to represent the partitioning process.
-- **Other Evidence**: Observation of student participation, group discussion.
+| **Stage 1 Desired Results** |
+| --- |
+| ESTABLISHED GOALS
+- Students will be able to write simple methods in Java that perform specific tasks.
+- Students will be able to call/invoke methods to execute their code.
+ | _ **Transfer** _ |
+| _Students will be able to independently use their learning to…_… write and call methods using the Java programming language, incorporating parameter passing by value and by reference. |
+| _ **Meaning** _ |
+| UNDERSTANDINGS_Students will understand that…_
+- Methods allow us to reuse and modularize code.
+- Methods have a specific syntax and structure.
+- Calling a method executes the code inside it.
+- Methods can return values back to the calling code.
+- Arguments can be passed into methods to modify their behavior.
+ | ESSENTIAL QUESTIONS
+- How do methods help us organize and reuse code?
+- What are the components of a method declaration?
+- How do you call a method to execute its code?
+- How does return work to send back values from methods?
+- What is the difference between pass-by-value and pass-by-reference arguments?
+ |
+| _ **Acquisition** _ |
+| _Students will know…_
+- How to identify the components of a method declaration including access modifier, return type, name, parameters, and method body.
+- How to modularize code by extracting parts into reusable methods.
+- Whether their parameters are passed by reference or by value, and the implications of each.
+ | _Students will be skilled at…_
+- Writing simple void and value-returning methods.
+- Calling/invoking methods correctly to run the code inside them.
+ |
+| **Stage 2 - Evidence** |
+| **Evaluative Criteria** | **Assessment Evidence** |
+| Rubric (see below) | PERFORMANCE TASK(S):
+- Coding activities - writing methods, calling methods, handling returns.
+- Writing a program that demonstrates the use of custom methods to repeat code.
+- Writing a simple class with methods to model something like a bank account.
+ |
+|
+ | OTHER EVIDENCE:
+- Methods quiz - short answer questions on declaring and calling methods.
+- Rubrics for coding activities and project.
+- Teacher observation of student coding.
+- Worksheets on method components and calling methods.
+- Coding activities extracting logic into methods.
+ |
+| **Stage 3 – Learning Plan** |
+| _Summary of Key Learning Events and Instruction_
+- Lesson on method components and syntax.
+- Analyzing method examples for key features.
+- Writing simple methods with different return types.
+- Calling methods and using return values.
+- Passing arguments to methods to modify behavior.
+- Coding tasks to extract logic into reusable methods.
+- Writing methods to model behaviors and properties of objects.
+- Peer code reviews and refactoring.
 
-#### Stage 3: Learning Plan
-- **Introduction**: Explain the quicksort algorithm and the importance of partitioning.
-- **Activity**: Divide students into groups and give each group a set of numbered cards. Instruct them to perform the quicksort algorithm physically by arranging themselves or the cards.
-- **Discussion**: Facilitate a discussion about their experiences and observations.
-- **Closure**: Summarize the key concepts of partitioning in quicksort.
+Scaffolds:
 
-### Lesson 2: POGIL (Process-Oriented Guided Inquiry Learning) Activity
+- Syntax templates and method signatures.
+- Commented code examples modeling methods.
+- Pair programming and peer feedback.
+- Incremental coding tasks before complex projects.
+- Cheat sheets on method components.
+- Rubrics detailing expectations.
+ |
+ 
+### Rubric
 
-#### Stage 1: Desired Results
-- **Understanding Goals**: Students will understand the recursive nature of quicksort.
-- **Essential Questions**: How does recursion work in quicksort? How can we analyze its efficiency?
+| Criteria                              | Excellent (3-4 points)                                                                                     | Good (2-3 points)                                                                 | Needs Improvement (0-1 points)                                         |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Understanding of Parameter Passing** |                                                                                                            |                                                                                   |                                                                        |
+| By Value (10%)                        | Demonstrates a clear understanding of passing primitive data types by value. Correctly implements the concept. | Correctly implements passing by value but lacks detailed explanation or has errors. | Demonstrates confusion or significant errors in passing by value.       |
+| By Reference (10%)                    | Demonstrates a clear understanding of passing objects by reference. Correctly implements the concept.         | Correctly implements passing by reference but lacks detailed explanation or errors. | Demonstrates confusion or significant errors in passing by reference.   |
+| Distinction Between Value and Reference (10%) | Clearly distinguishes between passing by value and reference, with accurate examples and explanations. | Generally understands the distinction but lacks clarity or detail.                 | Demonstrates confusion or misunderstands the distinction between value and reference. |
+| **Method Signature and Declaration**  |                                                                                                            |                                                                                   |                                                                        |
+| Void Functions (10%)                   | Correctly declares and implements void functions with proper syntax and usage.                               | Correctly declares void functions but has minor syntax or usage errors.            | Has significant errors in declaring or using void functions.            |
+| Functions with Return Values (10%)     | Correctly declares and implements functions with return values, including proper return type and statement.  | Generally correct but has minor errors in return type or return statement.         | Has significant errors in declaring or using functions with return values. |
+| Parameter List (5%)                   | Correctly declares parameters with proper data types and names, adhering to best practices.                  | Correctly declares parameters but lacks adherence to best practices or has errors. | Has significant errors in declaring parameters.                         |
+| **Method Calling and Invocation**     |                                                                                                            |                                                                                   |                                                                        |
+| Correct Calling Syntax (10%)          | Correctly calls methods with proper syntax, including passing arguments that match the parameter list.       | Generally correct but has minor syntax errors or mismatches between arguments and parameters. | Has significant errors in calling methods.                              |
+| Understanding of Return Values (10%)  | Correctly handles and utilizes return values from methods, including proper assignment and usage.            | Generally correct but has minor errors in handling or using return values.         | Has significant errors in handling or using return values.              |
+| Error Handling (5%)                   | Implements proper error handling for method calling, such as checking for null references.                   | Attempts error handling but lacks completeness or correctness.                     | Ignores or improperly handles errors in method calling.                 |
+| **Code Style and Documentation**      |                                                                                                            |                                                                                   |                                                                        |
+| Code Style (10%)                      | Adheres to best practices in code style, including indentation, naming conventions, and readability.         | Generally adheres to code style but has minor inconsistencies.                     | Has significant issues with code style, hindering readability.          |
+| Documentation (10%)                   | Provides comprehensive documentation, including comments and JavaDoc, explaining the purpose and functionality of methods. | Provides some documentation but lacks detail or completeness.                      | Lacks proper documentation or provides incorrect or misleading comments.|
 
-#### Stage 2: Evidence
-- **Performance Tasks**: Students will work in teams to complete guided inquiry worksheets.
-- **Other Evidence**: Written responses, group presentations.
+## Lesson Activities
 
-#### Stage 3: Learning Plan
-- **Introduction**: Introduce recursion and its role in quicksort.
-- **Activity**: Provide worksheets with guided questions for students to explore in groups.
-- **Discussion**: Have groups present their findings and facilitate a class discussion.
-- **Closure**: Summarize the recursive nature and efficiency of quicksort.
+### POGIL Activity
 
-### Lesson 3: Algorithm Design Activity
+Give students a pre-written Java program that includes some functions. Have them work in small groups to analyze the program by identifying the function declarations, function calls, parameters, and return values. Students complete a guided worksheet prompting them to explain how the functions are declared, called, and used in the overall program.
 
-#### Stage 1: Desired Results
-- **Understanding Goals**: Students will understand how to design and analyze the quicksort algorithm.
-- **Essential Questions**: How is quicksort designed? What are the key components?
+### CS Unplugged Activity
 
-#### Stage 2: Evidence
-- **Performance Tasks**: Students will design a flowchart or pseudocode for quicksort.
-- **Other Evidence**: Peer review, class discussion.
+Have students stand in two lines facing each other. One line represents the "calling" functions and the other line represents the "called" functions. Have the calling functions call out their function name and parameters. The corresponding called function acts out executing the function body and returning a value. Swap roles and repeat.
 
-#### Stage 3: Learning Plan
-- **Introduction**: Explain the components of quicksort.
-- **Activity**: Instruct students to create a flowchart or write pseudocode for quicksort.
-- **Discussion**: Facilitate a discussion on different design approaches.
-- **Closure**: Summarize the key design principles of quicksort.
+### Pair Programming Activity
 
-### Lesson 4: Coding Activity
+Have students work in pairs on writing functions based on specifications you provide. One student can write function declarations while the other writes the function body. Then they can trade roles for the next function. Partners can discuss approaches and syntax. After writing the functions, have them switch computers and call each other's functions in a simple test program.
 
-#### Stage 1: Desired Results
-- **Understanding Goals**: Students will understand how to implement quicksort in code.
-- **Essential Questions**: How can we translate the quicksort algorithm into code?
+### Programming Task
 
-#### Stage 2: Evidence
-- **Performance Tasks**: Students will write code to implement quicksort.
-- **Other Evidence**: Code review, execution of code.
+Write a Java program that calculates statistics from a list of numbers. Your program should have the following functions:
 
-#### Stage 3: Learning Plan
-- **Introduction**: Introduce the coding environment and language syntax.
-- **Activity**: Guide students through coding the quicksort algorithm, allowing them to write and test their code.
-- **Discussion**: Discuss common coding challenges and solutions.
-- **Closure**: Summarize the coding principles applied in implementing quicksort.
+* `getNumbers()` - This void function should prompt the user to input a series of numbers and store them in an array.
 
-These lesson plans provide a comprehensive approach to teaching the quicksort algorithm, engaging students through physical activity, guided inquiry, design thinking, and coding practice. The unit is designed to build progressively, ensuring that students gain a deep and thorough understanding of the subject matter.
+* `findSum()` - This function should accept the array of numbers as a parameter and return the sum of the numbers.
+
+* `findAverage()` - This function should accept the array of numbers as a parameter and return the average of the numbers.
+
+* `findMax()` - This function should accept the array of numbers as a parameter and return the maximum number.
+
+* `printResults()` - This void function should print out the sum, average, and max by calling the other functions.
+
+In the `main()` method, call `getNumbers()` to populate the array. Then call `printResults()` to output the final statistics.
+
+## Sample Lesson Plan for Pair Programming Activity
+
+# Lesson Plan: Collaborative Function Writing
+
+## Objective:
+To reinforce understanding of function declarations and function bodies by working collaboratively to write and call functions based on provided specifications.
+
+## Duration:
+45 minutes to 1 hour
+
+## Materials:
+- Computers or laptops with programming environments installed (e.g., Python, Java, C++)
+- Sample function specifications (prepared by the teacher)
+- Test program template (prepared by the teacher)
+
+## Procedure:
+
+### Introduction (5 minutes)
+- Begin the lesson by explaining the importance of functions in programming and how they help organize code and promote reusability.
+- Briefly discuss the structure of a function, including the function declaration (header) and the function body.
+- Explain that in this lesson, students will work collaboratively in pairs to write functions based on provided specifications.
+
+### Pairing Up (5 minutes)
+- Divide the students into pairs and assign each pair a computer or laptop.
+- Encourage students to work with someone they haven't partnered with before to foster collaboration and learning from each other.
+
+### Function Writing Activity (20 minutes)
+- Provide each pair with a set of function specifications, either on a handout or projected on a screen.
+- Instruct one student in each pair to write the function declarations based on the specifications, while the other student writes the function bodies.
+- Explain that they should discuss their approaches and syntax with each other, ensuring they have a clear understanding of the task before writing the code.
+- Encourage students to ask questions and seek clarification if needed.
+- Remind them to follow the standard naming conventions and use appropriate variable names for clarity.
+
+### Role Switch and Function Review (10 minutes)
+- After the first function is completed, instruct the students to switch roles. The student who wrote the function declaration should now write the function body, and vice versa.
+- Encourage students to discuss their approaches again and provide feedback to each other on the code they've written.
+- Emphasize the importance of clear communication and collaboration in the programming process.
+
+### Test Program (10 minutes)
+- Provide the students with a test program template, which includes a simple program structure with placeholders for function calls.
+- Instruct the students to switch computers with their partner and insert function calls to test the functions they wrote.
+- Remind them to pay attention to the function return values and any potential errors or bugs that may arise during testing.
+- Encourage students to discuss the output of their test program with their partner and troubleshoot any issues together.
+
+### Conclusion and Discussion (5 minutes)
+- Bring the class back together for a brief discussion on the activity.
+- Ask students to share their experiences and challenges encountered during the collaborative function writing process.
+- Highlight the benefits of working in pairs, such as sharing ideas, learning from each other, and catching errors more effectively.
+- Reinforce the importance of clear communication and teamwork in programming, as it reflects real-world collaborative coding environments.
+
+### Extension Activity (optional)
+- As an extension, you can assign additional function specifications to pairs of students as homework.
+- Encourage them to continue practicing collaborative function writing and testing independently.
