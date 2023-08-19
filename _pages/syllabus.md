@@ -341,6 +341,10 @@ schedule:
         rlink: false
       - rtitle: "Big Book of Pedagogy - Work Together"
         rlink: false
+      - rtitle: "Think-pair-share in a large CS1 class: Does learning really happen?"
+        rlink: "https://www.researchgate.net/publication/266656934_Think-pair-share_in_a_large_CS1_class_Does_learning_really_happen"
+      - rtitle: "The Costs and Benefits of Pair Programming"
+        rlink: "https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF"
   - week: "6"
     date: "0"
     title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
@@ -350,6 +354,8 @@ schedule:
         rlink: "https://udlguidelines.cast.org/"
       - rtitle: "Big Book of Pedagogy - UDL"
         rlink: false
+      - rtitle: "Pedagogy That Supports Computer Science for All (Ryoo)"
+        rlink: "https://dl.acm.org/doi/10.1145/3322210"
   - week: "6"
     date: "1"
     title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
@@ -366,7 +372,7 @@ schedule:
   - week: "7"
     date: "1"
     title: "CS4All: UDL for Inclusive Computing Pedagogy"
-    link: "./Activities/CS4All/UDL"
+    link: "./Activities/CS4All"
     deliverables:
       - dtitle: "Reflection: UbD Lightning Talk Reflection Due"
         dlink: "Reflections/UbDLightningTalk"
@@ -384,7 +390,6 @@ schedule:
   - week: "8"
     date: "0"
     title: "CS4All: Multiple Means of Representation"
-    link: "./Activities/CS4All/MultipleMeans/Representation"
     deliverables:
       - dtitle: "Technical Project and Presentation: Project Handed Out"
         dlink: "Projects/TechnicalProject"
@@ -392,11 +397,9 @@ schedule:
   - week: "8"
     date: "1"
     title: "CS4All: Multiple Means of Action and Expression"
-    link: "./Activities/CS4All/MultipleMeans/Action"
   - week: "9"
     date: "0"
     title: "CS4All: Multiple Means of Engagement"
-    link: "./Activities/CS4All/MultipleMeans/Engagement"
     deliverables:
       - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
         dlink: "Labs/Unplugged"

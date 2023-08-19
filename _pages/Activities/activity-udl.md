@@ -7,17 +7,30 @@ excerpt: "CS471: Computer Science Pedagogy - Universal Design for Learning"
 info:
   goals: 
     - To design learning experiences that accommodate all learners, and that celebrate the different perspectives and needs that each individual student brings to the table
-        
+  models:
+    - model: |
+        <iframe src="https://udlguidelines.cast.org/binaries/content/assets/udlguidelines/udlg-v2-2/udlg_graphicorganizer_v2-2_numbers-yes.pdf" width="100%" height="500px"></iframe>
+      title: "UDL Learning Guidelines"
+      questions:
+        - "If you were to describe UDL in one word, what would that word be?"
+        - "In what ways do student accommodations appear within the UDL framework?"
+        - "Do you believe it is a good idea to provide the flexibility of accommodation to all students, regardless of accommodation status?"
+        - "Choose a homework assignment from your own experience (it could be one of mine!), and brainstorm ways to improve upon it using the UDL guidelines.  Form a group according to the category that most resonated with you, and share with that group in preparation to share with the class."
+  additional_reading:
+    - title: "UDL Guidelines (CAST)"
+      link: "https://udlguidelines.cast.org/"    
+    - title: "Ryoo. Pedagogy That Supports Computer Science for All"
+      link: "https://doi.org/10.1145/3322210"
 tags:
   - udl
-  
+
 ---
 
 ## Inclusive Pedagogy: Universal Design for Learning (UDL) 
 
 Inclusive pedagogy refers to the teaching approach that aims to create a supportive and accessible learning environment for all students, including those with diverse backgrounds and learning needs. One effective framework for implementing inclusive pedagogy is Universal Design for Learning (UDL). UDL provides a set of guidelines and principles to design and deliver instruction that meets the diverse needs of learners. 
 
-## Universal Design for Learning (UDL) Guidelines
+### Universal Design for Learning (UDL) Guidelines
 
 The UDL Guidelines serve as a foundation for implementing inclusive instructional practices in the classroom. Developed by CAST, the guidelines outline three primary principles and provide specific strategies for addressing learner variability. The three UDL principles are:
 
@@ -29,11 +42,11 @@ The UDL Guidelines serve as a foundation for implementing inclusive instructiona
 
 The UDL Guidelines provide thorough insights into each principle, offering concrete examples, recommendations, and further resources for implementation. By applying these guidelines, instructors can create inclusive learning environments that support the success of all learners.
 
-Source: UDL Guidelines. Available at: [https://udlguidelines.cast.org/](https://udlguidelines.cast.org/)
+### Pedagogy that Supports Computer Science for All
 
-## Pedagogy that Supports Computer Science for All
+In the research article, "Pedagogy that Supports Computer Science for All," Ryoo explores inclusive teaching practices in computer science education. The author argues that broadening access and participation in computer science requires adopting strategies aligned with the principles of UDL.
 
-In her research article, "Pedagogy that Supports Computer Science for All," Jane Margolis Ryoo explores inclusive teaching practices in computer science education. The author argues that broadening access and participation in computer science requires adopting strategies aligned with the principles of UDL.
+Their research highlights the need to connect computing to outside disciplines and everyday life, to address social issues, and to value student perspectives and voice (Ryoo, 2019).
 
 Ryoo highlights the importance of addressing stereotypes, biases, and inequities that undermine computer science education. By using inclusive pedagogy, instructors can counter these barriers and create more equitable learning opportunities for all students. The author identifies three key dimensions of inclusive pedagogy for computer science:
 
@@ -45,4 +58,3 @@ Ryoo highlights the importance of addressing stereotypes, biases, and inequities
 
 Ryoo's research underscores the significance of integrating UDL principles into computer science education to promote diversity, equity, and inclusion.
 
-Source: Ryoo, J. M. (2019). Pedagogy That Supports Computer Science for All. *Proceedings of the 2019 ACM Conference on International Computing Education Research*, 13-21. [DOI: 10.1145/3322210](https://doi.org/10.1145/3322210)

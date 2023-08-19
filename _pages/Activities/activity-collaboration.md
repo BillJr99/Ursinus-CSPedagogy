@@ -11,7 +11,7 @@ info:
     - title: "Cockburn, et al: The Costs and Benefits of Pair Programming"
       link: "https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF"    
     - title: "Think-pair-share in a large CS1 class: Does learning really happen?"
-      link: "https://dl.acm.org/doi/10.1145/2591708.2591739"
+      link: "https://www.researchgate.net/publication/266656934_Think-pair-share_in_a_large_CS1_class_Does_learning_really_happen"
   guidingquestions:
     - "How might we incorporate TPS and pair-programming into a unit design in computing (and, in particular, into your lightning talk topic)?"      
 tags:
