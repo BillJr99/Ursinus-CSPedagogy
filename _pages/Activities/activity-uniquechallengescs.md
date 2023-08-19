@@ -7,15 +7,28 @@ excerpt: "CS471: Computer Science Pedagogy - Unique Challenges in CS Education"
 info:
   goals: 
     - To explain how best practices in education can be applied to the unique needs and environment of a Computer Science classroom
+    - To incorporate differentiated instruction and multiple pathways of entry to engage with computing curricula
+    - To create a more inclusive computing classroom through pedagogy and partnership
+    - To identify and apply unique pedagogical principles to the computing classroom
+    
   additional_reading:
+    - title: "Achieving a Differentiated Computer Science Classroom"
+      link: "https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/"
+    - title: "Guide to Inclusive Computer Science Education"
+      link: "https://wpassets.ncwit.org/wp-content/uploads/2019/05/14213356/microsoftguidetoinclusivecomputerscienceeducation.pdf"
+    - title: "Inclusive CS Teaching"
+      link: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
     - title: "Promoting Effective Computing Pedagogy from the National Centre for Computing Education"
       link: "https://teachcomputing.org/pedagogy"    
+    - title: "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles"
+      link: "https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy"
   models:
     - model: |
         <img src="https://lh4.googleusercontent.com/7W5OL13lmW7y9RnSBPZm726UZ27JHAJ36X45cbi0XwYX-IVAObBYJJZrNTM_B2XNsiDEOHm7ws7nccVUgiNwjVSKO76P9xTU2VGsAXJlrjunpAAjo1O_8GDtOPLIhvjWq3u5wVT2" alt="12 Pedagogical Principles from CSTA">
       title: "12 Pedagogical Principles from the Computer Science Teaching Foundation (CSTA)"
       questions:
         - "Choose one of the 12 pedagogical principles and revise your lightning talk to incorporate it."
+        - "Do the same with at least one of the inclusivity recommendations from the Guide to Inclusive Computer Science Education."
         - "For your take-home question, provide multiple entry points, scaffolding, or differentiation across learner experiences."
         
 tags:
@@ -31,7 +44,7 @@ Computer Science (CS) pedagogy involves unique challenges that educators must ad
 
 Differentiated instruction is not unique to Computer Science, but the creative nature of computing activities makes this approach particularly useful to allow students multiple pathways of entry to engage with the material.
 
-The article "Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity" presents a framework for implementing differentiated instruction in CS classrooms to address the diverse needs and backgrounds of students[^1]. Differentiation allows educators to tailor their teaching methods and materials to individual students, promoting equitable access to CS education.
+The article "Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity" presents a framework for implementing differentiated instruction in CS classrooms to address the diverse needs and backgrounds of students. Differentiation allows educators to tailor their teaching methods and materials to individual students, promoting equitable access to CS education.
 
 In a differentiated CS classroom, educators may vary the pace of instruction, provide alternative assessments, and offer multiple learning pathways. For example, educators can offer both visual and auditory explanations of concepts, use varied coding platforms, and encourage collaborative learning.
 
@@ -102,7 +115,7 @@ The goal is to provide just enough support to help students get started and work
 
 ### Inclusive CS Teaching
 
-The website article "Inclusive CS Teaching" provides valuable resources to help educators create inclusive learning environments in CS classrooms[^2]. It emphasizes understanding and supporting the needs of diverse students, including those from underrepresented groups.
+The website article "Inclusive CS Teaching" provides valuable resources to help educators create inclusive learning environments in CS classrooms. It emphasizes understanding and supporting the needs of diverse students, including those from underrepresented groups.
 
 The article offers practical suggestions, such as using inclusive language, integrating real-world applications, and providing opportunities for student choice and autonomy. It also highlights the importance of fostering a classroom culture that values diversity and encourages collaboration.  
 
@@ -122,9 +135,64 @@ It centers on specific aspects of inclusive teaching:
 
 The authors emphasize Inclusive Computer Science Pedagogy (ICSP), a pedagogical approach that acknowledges, celebrates, and incorporates the diverse identities of students in the field of computing. By supporting students from various backgrounds, learning modalities, and abilities, ICSP aims to provide equitable access for all students to engage with high-quality computing education.
 
+#### Tips from the Guide to Inclusive Computer Science Education
+
+The "Guide to Inclusive Computer Science Education" from Microsoft, in partnership with the TEALS program, CSforAll, NCWIT, the CSTA, and code.org, provides a wealth of tangible recommendations of best practices to promote an inclusive computing classroom and curriculum.
+It emphasizes the importance of inclusive computer science (CS) education. With 58% of all new STEM jobs in computing, there is a growing need for diverse representation in the field. The document highlights the underrepresentation of girls, students of color, students with disabilities, and students in rural communities in CS learning opportunities. It argues that inclusive CS education can foster creativity and innovation, ensuring that technological solutions are representative of diverse communities.
+
+##### Access
+
+* Offering CS in elementary school and integrating it with other subjects.
+* Making CS a required course in middle and high school.
+* Ensuring that selection processes for CS courses are not based on assumptions about students' interests or abilities.
+* Providing clear prerequisites and meaningful chances for students to grow in their CS learning.
+* Considering innovative models like Microsoft Philanthropies TEALS (Technology Education and Literacy in Schools) for co-teaching CS in high schools.
+* Ensuring CS classes are inclusive for students of all abilities, including those with visual impairments or special education needs.
+
+##### Diversity
+
+* **Building Support:** Enlisting administrators, teachers, counselors, families, and students to enhance communication and understanding around CS opportunities.
+* **Including Guidance Counselors:** Working with counselors to ensure they understand CS and promote it to all students.
+* **Introducing Diverse Role Models:** Inviting a diverse group of educators, guest speakers, and role models to connect with students.
+* **Enlisting Students to Promote CS:** Encouraging current CS students to promote education and share what they might learn and create.
+* **Generating Excitement:** Highlighting how CS careers are creative and critical to solving real-world problems.
+
+##### Learning Space
+
+* **Incorporating Visuals:** Using posters and displays that show a diverse range of people engaging in CS.
+* **Featuring Real-World Applications:** Representing the cool and important innovations that depend on CS knowledge.
+* **Displaying Student Projects:** Showcasing students' work to sustain interest and pride.
+* **Promoting Collaboration:** Designing the room for guided learning and collaboration.
+* **Accessibility:** Ensuring that the learning space is accessible to students with diverse abilities, including those with physical mobility aids.
+* **Technology Resources:** Making sure that technology requirements or instructional tools are consistently available and accessible.
+
+##### Instruction
+
+* **Focusing on Problem-Solving:** Emphasizing that there can be multiple solutions to a problem and encouraging exploration and creativity.
+* **Supporting Risk-Taking:** Building a community that promotes collaboration, peer-to-peer learning, and small-group work.
+* **Encouraging Exploration:** Resisting giving immediate solutions and supporting a growth mindset, allowing students to struggle and rewarding their ideas and effort.
+
+##### Curricular Materials: Giving Students Variety and Choice in their Learning Experiences
+
+* **Sequencing Lessons:** Teach computer science (CS) as a cumulative subject where each lesson builds on the previous one.
+* **Aligning Performance Metrics:** Ensure alignment between student performance metrics and curriculum.
+* **Incorporating Hands-on Learning:** Prioritize hands-on experiences to highlight creativity and problem-solving in CS.
+
+##### Curricular Materials: Selecting Curricular Materials That Highlight Diversity and Inclusion
+
+* **Feature Diverse Cultures:** Include diverse cultures and communities in instructional material.
+* **Avoid Essential Identity:** Present an intersectional approach to understanding the needs and experiences of people without reducing them to stereotypes.
+* **Build on Cultural Assets:** Include lessons that build on students' cultural assets, prior knowledge, and interests.
+
+##### Curricular Materials: Incorporating Learning Materials Accessible for All Abilities
+
+* **Follow Universal Design for Learning:** Choose materials that follow this framework to optimize teaching and learning for all people.
+* **Make CS Accessible:** Include tools and curricula that make CS accessible to students with disabilities, such as Quorum, CodeJumper, and Blocks4All.
+* **Scaffold Learning:** Provide supports during initial phases of learning and gradually remove them as students build skills and confidence.
+
 ### CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles
 
-The article "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles" outlines a set of principles for effective CS pedagogy[^3]. These principles help educators design curriculum, instruction, and assessment practices that align with the goals of CS education.
+The article "CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles" outlines a set of principles for effective CS pedagogy. These principles help educators design curriculum, instruction, and assessment practices that align with the goals of CS education.
 
 Some of these principles include prioritizing foundational concepts, using a variety of instructional strategies, incorporating formative assessment, and allowing for flexibility in pacing and content. By adhering to these principles, educators can create engaging and inclusive CS learning experiences.
 
@@ -177,11 +245,3 @@ These principles are designed to guide effective teaching and learning in comput
 12. **Read and Explore Code First:**
 
 * Example: Focusing first on code 'reading' activities, encouraging pupils to review and interpret blocks of code, to augment their ability to write code.
-
-## References:
-
-[^1]: Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity. Available at: https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/
-
-[^2]: Inclusive CS Teaching. Available at: https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1
-
-[^3]: CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles. Available at: https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy.
