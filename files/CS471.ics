@@ -561,7 +561,7 @@ DTSTAMP:20231130T000000Z
 DTSTART;VALUE=DATE:20231130
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Equity\nReading: Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed) https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf\nReading: CS Education Chapters 7 through 9\nReading: Big Book of Pedagogy - Culturally Relevant Pedagogy\nReading: CS Education Chapter 14\nDeliverable: Reflection: Peer Review and Assessment Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment\nDeliverable: Curriculum Development Lab: SEL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Equity\nReading: Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed) https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf\nReading: CS Education Chapters 7 through 9\nReading: Big Book of Pedagogy - Culturally Relevant Pedagogy\nReading: CS Education Chapter 14\nReading: Equity in Computer Science Education https://k12cs.org/equity-in-computer-science-education/\nDeliverable: Reflection: Peer Review and Assessment Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment\nDeliverable: Curriculum Development Lab: SEL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
