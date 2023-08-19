@@ -534,7 +534,7 @@ DTSTAMP:20231128T000000Z
 DTSTART;VALUE=DATE:20231128
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL/Computing\nReading: Make Computational Thinking a Social-Emotional Learning Experience https://equip.learning.com/computational-thinking-social-emotional-learning\nReading: Importance of SEL in a CS Environment http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html\nDeliverable: Technical Project and Presentation: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
+DESCRIPTION:\nReading: Make Computational Thinking a Social-Emotional Learning Experience https://equip.learning.com/computational-thinking-social-emotional-learning\nReading: Importance of SEL in a CS Environment http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html\nDeliverable: Technical Project and Presentation: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
