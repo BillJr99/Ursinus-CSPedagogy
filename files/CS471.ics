@@ -309,7 +309,7 @@ DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Collaboration\nReading: CS Education Chapters 4 and 5\nReading: Big Book of Pedagogy - Work Together\nDeliverable: Curriculum Development Lab: UbD Lesson Plan Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/UbDLessonPlan\nDeliverable: Curriculum Development Lab: Assessment Plan Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Assessment
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Collaboration\nReading: CS Education Chapters 4 and 5\nReading: Big Book of Pedagogy - Work Together\nReading: Think-pair-share in a large CS1 class: Does learning really happen? https://www.researchgate.net/publication/266656934_Think-pair-share_in_a_large_CS1_class_Does_learning_really_happen\nReading: The Costs and Benefits of Pair Programming https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF\nDeliverable: Curriculum Development Lab: UbD Lesson Plan Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/UbDLessonPlan\nDeliverable: Curriculum Development Lab: Assessment Plan Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Assessment
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -318,7 +318,7 @@ DTSTAMP:20231010T000000Z
 DTSTART;VALUE=DATE:20231010
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/UDL\nReading: UDL Guidelines https://udlguidelines.cast.org/\nReading: Big Book of Pedagogy - UDL
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/UDL\nReading: UDL Guidelines https://udlguidelines.cast.org/\nReading: Big Book of Pedagogy - UDL\nReading: Pedagogy That Supports Computer Science for All (Ryoo) https://dl.acm.org/doi/10.1145/3322210
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -363,7 +363,7 @@ DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All/UDL\nReading: How Might I Proactively Differentiate my CS Instruction to Reach All Learners? https://blueprint.cs4all.nyc/resources/differentiate-instruction\nReading: Project TACTIC: Teaching All Computational Thinking through Inclusion and Collaboration https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf\nReading: Universal Design for Learning for Computer Science (UDL4CS) https://udl4cs.education.ufl.edu/interactive-table/\nReading: CS Education Chapter 10\nDeliverable: Reflection: UbD Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/UbDLightningTalk
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All\nReading: How Might I Proactively Differentiate my CS Instruction to Reach All Learners? https://blueprint.cs4all.nyc/resources/differentiate-instruction\nReading: Project TACTIC: Teaching All Computational Thinking through Inclusion and Collaboration https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf\nReading: Universal Design for Learning for Computer Science (UDL4CS) https://udl4cs.education.ufl.edu/interactive-table/\nReading: CS Education Chapter 10\nDeliverable: Reflection: UbD Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/UbDLightningTalk
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -381,7 +381,7 @@ DTSTAMP:20231024T000000Z
 DTSTART;VALUE=DATE:20231024
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All/MultipleMeans/Representation\nDeliverable: Technical Project and Presentation: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
+DESCRIPTION:\nDeliverable: Technical Project and Presentation: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +390,7 @@ DTSTAMP:20231026T000000Z
 DTSTART;VALUE=DATE:20231026
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All/MultipleMeans/Action
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -417,7 +417,7 @@ DTSTAMP:20231031T000000Z
 DTSTART;VALUE=DATE:20231031
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All/MultipleMeans/Engagement\nDeliverable: Curriculum Development Lab: Unplugged Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Unplugged\nDeliverable: Written Assignment: CS4All and UDL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL
+DESCRIPTION:\nDeliverable: Curriculum Development Lab: Unplugged Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Unplugged\nDeliverable: Written Assignment: CS4All and UDL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -471,7 +471,7 @@ DTSTAMP:20231114T000000Z
 DTSTART;VALUE=DATE:20231114
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CSLessonDesign\nReading: Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education https://ctrl.education.illinois.edu/TACTICal/udl.html\nReading: Project TACTIC: UDL Planning Process Example https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html\nReading: CS Education Chapter 6\nDeliverable: Written Assignment: CS4All and UDL Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CSUnitDesign\nReading: Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education https://ctrl.education.illinois.edu/TACTICal/udl.html\nReading: Project TACTIC: UDL Planning Process Example https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html\nReading: CS Education Chapter 6\nDeliverable: Written Assignment: CS4All and UDL Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -498,7 +498,7 @@ DTSTAMP:20231116T000000Z
 DTSTART;VALUE=DATE:20231116
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CSLessonDesign/Scaffolding\nReading: The Big Book of Computing Content\nDeliverable: Service Learning Classroom Project: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: POGIL Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/POGIL
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Feedback\nReading: CS Education Chapter 16\nReading: Big Book of Pedagogy - Assessment for Learning\nDeliverable: Service Learning Classroom Project: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: POGIL Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/POGIL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -516,7 +516,7 @@ DTSTAMP:20231121T000000Z
 DTSTART;VALUE=DATE:20231121
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Feedback\nReading: CS Education Chapter 16\nReading: Big Book of Pedagogy - Assessment for Learning\nDeliverable: Reflection: Peer Review and Assessment Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Accessibility\nReading: Web Content Accessibility Guidelines (WCAG) https://www.w3.org/TR/WCAG21/\nReading: Web Accessibility Evaluation (WAVE) Tool https://wave.webaim.org/\nReading: How to Design Computer Science for Students with Disabilities https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10\nReading: Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities? (Plasman et al) https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities\nReading: Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette https://par.nsf.gov/biblio/10356929\nDeliverable: Reflection: Peer Review and Assessment Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +534,7 @@ DTSTAMP:20231128T000000Z
 DTSTART;VALUE=DATE:20231128
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Accessibility\nReading: Web Content Accessibility Guidelines (WCAG) https://www.w3.org/TR/WCAG21/\nReading: Web Accessibility Evaluation (WAVE) Tool https://wave.webaim.org/\nReading: How to Design Computer Science for Students with Disabilities https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10\nReading: Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities? (Plasman et al) https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities\nReading: Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette https://par.nsf.gov/biblio/10356929\nDeliverable: Technical Project and Presentation: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL\nReading: Fundamentals of SEL https://casel.org/fundamentals-of-sel/\nReading: The Big Book of Computing Content\nDeliverable: Technical Project and Presentation: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -561,7 +561,7 @@ DTSTAMP:20231130T000000Z
 DTSTART;VALUE=DATE:20231130
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL\nReading: Fundamentals of SEL https://casel.org/fundamentals-of-sel/\nDeliverable: Reflection: Peer Review and Assessment Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment\nDeliverable: Curriculum Development Lab: SEL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL/Computing\nReading: Make Computational Thinking a Social-Emotional Learning Experience https://equip.learning.com/computational-thinking-social-emotional-learning\nReading: Importance of SEL in a CS Environment http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html\nDeliverable: Reflection: Peer Review and Assessment Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment\nDeliverable: Curriculum Development Lab: SEL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -570,7 +570,7 @@ DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL/Computing\nReading: Make Computational Thinking a Social-Emotional Learning Experience https://equip.learning.com/computational-thinking-social-emotional-learning\nReading: Importance of SEL in a CS Environment http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html
+DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Equity\nReading: Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed) https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf\nReading: CS Education Chapters 7 through 9\nReading: Big Book of Pedagogy - Culturally Relevant Pedagogy\nReading: CS Education Chapter 14
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
@@ -597,7 +597,7 @@ DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Equity\nReading: Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed) https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf\nReading: CS Education Chapters 7 through 9\nReading: Big Book of Pedagogy - Culturally Relevant Pedagogy\nReading: CS Education Chapter 14\nDeliverable: Service Learning Classroom Project: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: SEL Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
+DESCRIPTION:\nDeliverable: Service Learning Classroom Project: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: SEL Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
