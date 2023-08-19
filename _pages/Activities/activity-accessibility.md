@@ -7,7 +7,87 @@ excerpt: "CS471: Computer Science Pedagogy - Accessibility"
 info:
   goals: 
     - To design curricula with accessability in mind in support of the UDL philosophy
-        
+  models:
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+          <!-- Title -->
+          <text x="400" y="30" text-anchor="middle" font-size="20" font-weight="bold">Computing for Neurodiverse Students and Students with Disabilities</text>
+
+          <!-- Inclusive Design Section -->
+          <rect x="50" y="60" width="300" height="100" fill="#e6f7ff"/>
+          <text x="200" y="90" text-anchor="middle" font-weight="bold">Inclusive Design</text>
+          <text x="200" y="110" text-anchor="middle" font-size="12">Applying universal design principles to create accessible computing environments.</text>
+
+          <!-- Assistive Technologies Section -->
+          <rect x="450" y="60" width="300" height="100" fill="#ffebcc"/>
+          <text x="600" y="90" text-anchor="middle" font-weight="bold">Assistive Technologies</text>
+          <text x="600" y="110" text-anchor="middle" font-size="12">Integration of tools like screen readers, alternative input devices, etc.</text>
+
+          <!-- Collaboration Section -->
+          <rect x="50" y="180" width="300" height="100" fill="#d9f7be"/>
+          <text x="200" y="210" text-anchor="middle" font-weight="bold">Collaboration</text>
+          <text x="200" y="230" text-anchor="middle" font-size="12">Collaboration between special education professionals and computing educators.</text>
+
+          <!-- Barriers & Solutions Section -->
+          <rect x="450" y="180" width="300" height="100" fill="#ffd1e8"/>
+          <text x="600" y="210" text-anchor="middle" font-weight="bold">Barriers & Solutions</text>
+          <text x="600" y="230" text-anchor="middle" font-size="12">Identifying and addressing common barriers faced by neurodiverse students.</text>
+        </svg>
+      title: "Promoting Accessibility in Computing Education"
+      questions:
+        - "How can inclusive design principles be applied to create accessible computing environments for neurodiverse students and students with disabilities?"
+        - "What are some common barriers faced by neurodiverse students in computing education, and how can educators address these barriers?"
+        - "How can assistive technologies be integrated into the computing curriculum to support students with disabilities?"
+        - "What role do empathy and understanding play in creating an inclusive computing classroom? Can you provide examples of strategies that promote empathy?"
+        - "How can collaboration between special education professionals and computing educators enhance the learning experience for students with diverse needs?"
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+          <!-- Title -->
+          <text x="500" y="30" text-anchor="middle" font-size="20" font-weight="bold">Career Pathways to Computing</text>
+
+          <!-- Education & Training Section -->
+          <rect x="50" y="60" width="180" height="100" fill="#e6f7ff"/>
+          <text x="140" y="90" text-anchor="middle" font-weight="bold">Education & Training</text>
+          <text x="140" y="110" text-anchor="middle" font-size="12">Aligning curricula with industry demands and fostering growth mindset.</text>
+
+          <!-- Diversity & Inclusion Section -->
+          <rect x="250" y="60" width="180" height="100" fill="#ffebcc"/>
+          <text x="340" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
+          <text x="340" y="110" text-anchor="middle" font-size="12">Promoting diversity in computing careers for underrepresented groups.</text>
+
+          <!-- Internships & Mentorships Section -->
+          <rect x="450" y="60" width="180" height="100" fill="#d9f7be"/>
+          <text x="540" y="90" text-anchor="middle" font-weight="bold">Internships & Mentorships</text>
+          <text x="540" y="110" text-anchor="middle" font-size="12">Role of practical experience in expanding career pathways.</text>
+
+          <!-- Industry Trends Section -->
+          <rect x="650" y="60" width="180" height="100" fill="#ffd1e8"/>
+          <text x="740" y="90" text-anchor="middle" font-weight="bold">Industry Trends</text>
+          <text x="740" y="110" text-anchor="middle" font-size="12">Understanding current trends and future directions in computing.</text>
+
+          <!-- Ethical Considerations Section -->
+          <rect x="850" y="60" width="180" height="100" fill="#ffe7e7"/>
+          <text x="940" y="90" text-anchor="middle" font-weight="bold">Ethical Considerations</text>
+          <text x="940" y="110" text-anchor="middle" font-size="12">Instilling a sense of responsibility and ethics in computing professionals.</text>
+        </svg>
+      title: "Expanding Career Pathways to Computing"
+      questions:
+        - "What are the current trends in computing careers, and how can educational institutions align their curricula to meet industry demands?"
+        - "How can educators promote diversity and inclusion in computing careers, especially for underrepresented groups such as women, minorities, and individuals with disabilities?"
+        - "What role do internships, mentorships, and industry partnerships play in expanding career pathways to computing?"
+        - "How can educational institutions foster a growth mindset and resilience in students to prepare them for the rapidly changing landscape of computing careers?"
+        - "What are some ethical considerations in computing careers, and how can educators instill a sense of responsibility and ethics in future computing professionals?"
+  
+  additional_reading:
+    - title: "How to Design Computer Science for Students with Disabilities"
+      link: "https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10"  
+    - title: "Plasman.  Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities?"
+      link: "https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities"    
+    - title: "Building Ecosystems of Belonging for Neurodiverse Students"
+      link: "https://par.nsf.gov/servlets/purl/10356929"      
+    - title: "WAVE Toolkit"
+      link: "https://wave.webaim.org/"
+
 tags:
   - udl
   - accessibility
@@ -82,16 +162,6 @@ CS educators can consider the following practices to build inclusive environment
 - Setting clear expectations and communication channels.
 - Providing organized and structured learning materials.
 - Offering flexibility in assessments and assignments.
-
-## Additional Relevant References
-
-In addition to the referenced readings, there are several scholarly articles and research papers that provide further insights into accessibility in CS educational design. Some noteworthy references include:
-
-- "Accessibility and Usability in E-Learning: A Case Study for Improving Student Experience" by Johnson et al. (2020).
-- "Integrating Accessibility in Computer Science and Engineering Education: A Systematic Literature Review" by Rodríguez-Sedano et al. (2021).
-- "Inclusive Design Frameworks for Computer Science Education" by Myers et al. (2019).
-
-These references provide a deeper understanding of accessibility in CS educational design and offer valuable insights into implementing inclusive practices.
 
 ## Conclusion
 

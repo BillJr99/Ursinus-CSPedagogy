@@ -494,7 +494,6 @@ schedule:
   - week: "13"
     date: "0"
     title: "SEL in Computing Education"
-    link: "./Activities/SEL/Computing"
     deliverables:
       - dtitle: "Technical Project and Presentation: Project Due"
         dlink: "Projects/TechnicalProject"
