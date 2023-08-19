@@ -1,76 +1,186 @@
 ---
 layout: activity
 permalink: /Activities/CS4All
-title: "CS471: Computer Science Pedagogy - CS4All: UDL"
-excerpt: "CS471: Computer Science Pedagogy - CS4All: UDL"
+title: "CS471: Computer Science Pedagogy - CS4All: UDL for Inclusive Computing Pedagogy"
+excerpt: "CS471: Computer Science Pedagogy - CS4All: UDL for Inclusive Computing Pedagogy"
 
 info:
   goals: 
     - To apply the principles of UDL to CS curricula
-        
+  models:
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+          <rect x="10" y="10" width="780" height="380" style="fill:#f0f8ff;stroke:black;stroke-width:2;" />
+          <text x="400" y="40" text-anchor="middle" font-weight="bold">Engagement: The "WHY" of Learning</text>
+          <text x="20" y="80">Recruiting Interest: Encourage individual choice and relevance.</text>
+          <text x="20" y="110">Sustaining Effort & Persistence: Foster goal-oriented effort and collaboration.</text>
+          <text x="20" y="140">Self-Regulation: Enhance motivation and develop self-assessment skills.</text>
+        </svg>
+      title: "UDL - Multiple Means of Engagement"
+      questions:
+        - "How can you provide options for individual choice and autonomy in computer science learning activities? For example, allowing students to choose project topics and methods based on their interests."    
+        - "How can you make computer science concepts relevant and valuable to students' personal interests and future goals?"
+        - "How can you optimize the level of challenge when teaching different computer science skills to sustain motivation and effort?"
+        - "How can you utilize collaborative learning and peer support to help students persist when learning challenging computer science concepts?"
+        - "What kinds of authentic, mastery-oriented feedback can you provide students on their progression in computer science skills?"
+        - "How can you promote positive mindsets about capability to learn computer science among all students?"
+        - "What strategies can you teach students for coping with frustration when solving difficult coding problems?"
+        - "How can you build students' skills in self-assessment and reflection on their progress in computer science?"
+        - "In what ways can you minimize unnecessary distractions and threats that could undermine engagement during computer science learning activities?"
+        - "How can you vary modalities and scaffolds to support perception, comprehension, and execution of computer science skills for diverse learners?"
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+          <rect x="10" y="10" width="780" height="380" style="fill:#e6e6fa;stroke:black;stroke-width:2;" />
+          <text x="400" y="40" text-anchor="middle" font-weight="bold">Representation: The "WHAT" of Learning</text>
+          <text x="20" y="80">Perception: Customize the display of information and offer alternatives.</text>
+          <text x="20" y="110">Language & Symbols: Clarify vocabulary and promote understanding across languages.</text>
+          <text x="20" y="140">Comprehension: Activate background knowledge and guide information processing.</text>
+        </svg>
+      title: "UDL - Multiple Means of Representation"
+      questions:
+        - "How can you present computer science concepts through multiple modalities like visual, auditory, tactile to support perception?"
+        - "In what ways can you highlight patterns, big ideas, and relationships in computer science to enhance comprehension?"
+        - "How can you activate prior student knowledge and connect it to new computer science concepts?"
+        - "How can you support decoding of complex computer science symbols and notation systems?"
+        - "What scaffolds can you provide to guide information processing and visualization of abstract computer science concepts?"
+        - "How can you clarify computer science vocabulary and syntax for English language learners?"
+        - "In what ways can you illustrate computer science concepts through multiple media?"
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+          <rect x="10" y="10" width="780" height="380" style="fill:#f5f5dc;stroke:black;stroke-width:2;" />
+          <text x="400" y="40" text-anchor="middle" font-weight="bold">Action & Expression: The "HOW" of Learning</text>
+          <text x="20" y="80">Physical Action: Vary response methods and optimize access to tools.</text>
+          <text x="20" y="110">Expression & Communication: Utilize multiple media for communication and construction.</text>
+          <text x="20" y="140">Executive Functions: Guide goal-setting and facilitate information management.</text>
+        </svg>
+      title: "UDL - Multiple Means of Action and Expression"
+      questions:
+        - "How can you provide alternatives for students to physically interact with devices and respond to computer science assessments?"        
+        - "How can you optimize access to computer science tools and assistive technologies for diverse learners?"        
+        - "What options can you provide for students to demonstrate computer science knowledge through different media?"        
+        - "What varied tools can you provide to support planning, composition, and problem-solving in computer science?"        
+        - "How can you build fluency in computer science skills with graduated scaffolds and feedback?"        
+        - "How can you guide students in setting measurable goals in computer science learning?"        
+        - "What scaffolds can you provide for students to monitor their progress in developing computer science skills?"        
+        - "How can you facilitate managing time, materials, and information when solving complex computer science problems?"        
+  additional_reading:
+    - title: "CAST (2018). Universal Design for Learning Guidelines version 2.2. Retrieved from http://udlguidelines.cast.org"
+      link: "http://udlguidelines.cast.org"
+      
 tags:
   - cs4all
   - udl
   
 ---
 
-## CS4All: UDL - Multiple Means of Representation
-CS4All, or Computer Science for All, is an initiative aimed at bringing computer science education to K-12 students. Multiple Means of Representation is a key aspect of CS4All, which encourages the use of diverse strategies and resources to ensure that all students can access, understand, and engage in computer science learning. We will explore the concept of Multiple Means of Representation in CS4All and provides examples and references to support the implementation of this approach.
+### Universal Design for Learning (UDL): Principles and Applications in Computing Education
 
-### Understanding Multiple Means of Representation
-Multiple Means of Representation refers to presenting information and knowledge in different ways to accommodate the diverse learning styles and abilities of students. In the context of CS4All, it involves the use of varied media, tools, and strategies to represent computer science concepts, algorithms, and programming techniques. By employing multiple means of representation, educators can increase accessibility and engagement, supporting the learning needs and preferences of all students.
+#### Provide Multiple Means of Engagement (Affective Networks: the WHY of Learning)
 
-### Importance of Multiple Means of Representation
-Adopting Multiple Means of Representation in CS4All has several advantages. Firstly, it enhances accessibility for students with disabilities or diverse learning needs. By providing information through different modalities (e.g., visual, auditory, tactile), students who learn best through specific modes can better understand and participate in the learning process.
+Engagement is the "why" of learning, and it's essential to motivate students to interact with the material and become active participants in the learning process. In a computing classroom, this can be achieved through the following strategies:
 
-Secondly, Multiple Means of Representation promotes engagement and interest. Utilizing diverse media and strategies makes computer science learning more dynamic and interactive, capturing students' attention and motivating them to explore further. Additionally, by catering to different learning styles, educators can ensure that students have opportunities to engage with material in ways that align with their strengths and preferences.
+| Section                     | Checkpoint | Description                                                                                                           |
+|-----------------------------|------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Recruiting Interest**     |            |                                                                                                                       |
+|                             | 7.1        | Optimize individual choice and autonomy: Allow learners to make choices based on their own interests, such as choosing assignment topics, materials, and methods of response. Support self-determination. |
+|                             | 7.2        | Optimize relevance, value, and authenticity: Connect learning activities to students' personal experiences, cultural backgrounds, and future interests/goals. Emphasize real-world relevance. |
+|                             | 7.3        | Minimize threats and distractions: Reduce unnecessary distractions, threats, and stressors in the learning environment. Build positive classroom climate. |
+| **Sustaining Effort & Persistence** |            |                                                                                                                       |
+|                             | 8.1        | Heighten salience of goals and objectives: Make learning goals, objectives, and activities clear. Help learners understand purpose and motivate persistence. |
+|                             | 8.2        | Vary demands and resources to optimize challenge: Offer scaffolds, alternatives, and challenges at an optimal level. Avoid boredom and frustration. |
+|                             | 8.3        | Foster collaboration and community: Encourage peer-assisted and collaborative learning. Highlight interdependence and shared goals. |
+|                             | 8.4        | Increase mastery-oriented feedback: Provide frequent, specific feedback that focuses on effort, improvement, and achieving standards. |
+| **Self Regulation**         |            |                                                                                                                       |
+|                             | 9.1        | Promote expectations and beliefs that optimize motivation: Foster positive beliefs about learning abilities. Help learners see themselves as capable. |
+|                             | 9.2        | Facilitate personal coping skills and strategies: Teach and support strategies for coping with frustration, managing emotions, developing resilience during learning. |
+|                             | 9.3        | Develop self-assessment and reflection: Build learners' metacognitive skills for analyzing progress and setting personal goals. Teach self-assessment. |
 
-### Examples of Multiple Means of Representation in Computer Science
-To illustrate the concept of Multiple Means of Representation in computer science, we provide the following examples:
+##### Recruiting Interest
+- **Optimize Individual Choice and Autonomy**: Allow students to choose projects that align with their interests, such as developing a mobile app or a game.
+- **Optimize Relevance, Value, and Authenticity**: Connect coding exercises to real-world applications that are relevant to students' lives.
+- **Minimize Threats and Distractions**: Create a safe and inclusive environment where all students feel comfortable sharing their ideas and asking questions.
 
-#### Visual Representations
-Visual representations, such as diagrams, flowcharts, and infographics, are powerful tools for conveying complex computer science concepts. They help students visualize the relationships between different elements and facilitate understanding. For instance, when explaining sorting algorithms like bubble sort, a visual representation of the step-by-step process can aid comprehension.
+##### Sustaining Effort & Persistence
+- **Heighten Salience of Goals and Objectives**: Clearly define the learning objectives for a coding project and how it aligns with broader course goals.
+- **Vary Demands and Resources to Optimize Challenge**: Provide different levels of challenges in coding assignments to cater to diverse skill levels.
+- **Foster Collaboration and Community**: Encourage teamwork and collaboration on software development projects.
+- **Increase Mastery-Oriented Feedback**: Provide constructive feedback that focuses on mastery and growth.
 
-#### Auditory Representations
-Auditory representations involve presenting information through sound or spoken language. In computer science education, this can be achieved through podcasts, audio explanations, or interactive voice-based applications. These forms of representation cater to students who learn best through auditory means. For example, an audio explanation of recursion can help students grasp the concept by listening to real-life analogies and examples.
+##### Self-Regulation
+- **Promote Expectations and Beliefs that Optimize Motivation**: Foster a growth mindset by emphasizing that coding skills can be developed through practice and persistence.
+- **Facilitate Personal Coping Skills and Strategies**: Teach strategies for overcoming coding challenges and dealing with frustration.
+- **Develop Self-Assessment and Reflection**: Encourage students to reflect on their learning process and self-assess their progress in coding skills.
 
-#### Tactile/Sensory Representations
-Sensory or tactile representations enable students to physically interact with computer science concepts. This can be accomplished through hands-on activities, manipulatives, or tangible programming tools. For instance, a physical programming board with buttons and LED lights can be used to teach basic programming logic and algorithms.
+#### Provide Multiple Means of Representation (Recognition Networks: the WHAT of Learning)
 
-## CS4All: Multiple Means of Engagement
-CS4All, which stands for Computer Science for All, is an initiative aimed at bringing computer science education to all students, regardless of their background or prior experience. One important aspect of CS4All is providing multiple means of engagement to students, allowing them to connect with computer science concepts in various ways. Here, we discuss the importance of multiple means of engagement in computer science education and provides examples and references to support the discussion.
+| Section                     | Checkpoint | Description                                                                                                           |
+|-----------------------------|------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Perception**              |            |                                                                                                                       |
+|                             | 1.1        | Offer ways of customizing the display of information: Provide options for adjusting size, color, contrast, layout, etc. of visual information to optimize perception for learners. |
+|                             | 1.2        | Offer alternatives for auditory information: Provide the same information through different modalities like vision or touch for learners with auditory processing differences. |
+|                             | 1.3        | Offer alternatives for visual information: Offer audio descriptions, tactile graphics, etc. to provide access to visual information for learners with visual differences. |
+| **Language & Symbols**      |            |                                                                                                                       |
+|                             | 2.1        | Clarify vocabulary and symbols: Teach the meaning of key terms, symbols, idioms, jargon, etc. Provide alternate explanations of ambiguous or technical vocabulary. |
+|                             | 2.2        | Clarify syntax and structure: Clarify unfamiliar syntax and underlying structure of expressions, equations, diagrams, etc. to enhance understanding. |
+|                             | 2.3        | Support decoding of text, mathematical notation, and symbols: Provide cognitive supports to help unpack complex notation systems like sound-symbol correspondence, mathematical notations, music notations, etc. |
+|                             | 2.4        | Promote understanding across languages: Support learners with limited English proficiency. Clarify key terms in multiple languages. |
+|                             | 2.5        | Illustrate through multiple media: Present key concepts in multiple formats including visual, auditory, and tactile. Do not rely solely on language. |
+| **Comprehension**           |            |                                                                                                                       |
+|                             | 3.1        | Activate prior knowledge: Use visual imagery, concept maps, advance organizers to link new info to prior knowledge and experiences. |
+|                             | 3.2        | Highlight patterns, critical features, big ideas, relationships: Emphasize key elements, show cause/effect relationships, compare/contrast, organize concepts to enhance understanding. |
+|                             | 3.3        | Guide information processing and visualization: Provide scaffolds to process information, categorize important details, visualize complex concepts, solve problems. |
+|                             | 3.4        | Maximize transfer and generalization: Vary contexts for applying knowledge to promote flexible transfer of concepts and skills to new situations. |
 
-### Importance of Multiple Means of Engagement
-Multiple means of engagement in CS4All helps to cater to the diverse learning needs and interests of students. By providing various ways to engage with computer science concepts, educators can increase motivation, foster student ownership, and promote a deeper understanding of the subject matter. Research has shown that when students are actively engaged and motivated, they are more likely to persist in computer science and pursue further studies or careers in the field [1].
+##### Perception
+- **Customize the Display of Information**: Allow students to choose different color schemes or font sizes in coding environments.
+- **Offer Alternatives for Auditory Information**: Provide transcripts for audio lectures on algorithms.
+- **Offer Alternatives for Visual Information**: Use descriptive captions for visual aids in a computer graphics course.
 
-### Examples of Multiple Means of Engagement
+##### Language & Symbols
+- **Clarify Vocabulary and Symbols**: Create a glossary of programming terms for beginner coding classes.
+- **Clarify Syntax and Structure**: Provide clear examples of correct code syntax.
+- **Support Decoding of Text, Mathematical Notation, and Symbols**: Offer tools to interpret complex mathematical notations in algorithms.
+- **Promote Understanding Across Languages**: Translate course materials into different languages.
+- **Illustrate Through Multiple Media**: Use videos, diagrams, and text to explain a concept like recursion.
 
-#### 1. Project-Based Learning
-Project-based learning is an effective way to engage students in creative problem-solving and practical applications of computer science. By assigning projects that require students to apply their knowledge to real-world situations, educators can make the learning experience more relevant and engaging. Students can work individually or in groups to design and develop projects, such as building a web application, creating a game, or developing a mobile app. Python can be used as a programming language for these projects, and there are numerous resources and frameworks available to support project-based learning [2].
+##### Comprehension
+- **Activate or Supply Background Knowledge**: Connect new learning to prior knowledge, such as linking database concepts to spreadsheet knowledge.
+- **Highlight Patterns, Critical Features, Big Ideas, and Relationships**: Emphasize the underlying patterns in object-oriented programming.
+- **Guide Information Processing and Visualization**: Use flowcharts to visualize algorithmic processes.
+- **Maximize Transfer and Generalization**: Encourage students to apply coding skills to real-world problems.
 
-#### 2. Interactive Coding Activities
-Interactive coding activities provide an engaging learning experience by allowing students to actively participate in the programming process. Platforms like Codecademy and Repl.it offer interactive coding environments where students can practice coding exercises, solve problems, and receive immediate feedback. Python provides a beginner-friendly syntax and a wide range of libraries, making it an excellent programming language for interactive coding activities [3].
+#### Provide Multiple Means of Action & Expression (Strategic Networks: the HOW of Learning)
 
-#### 3. Gamification
-Gamification in computer science education involves incorporating game elements, such as challenges, rewards, and competition, into the learning process. By turning learning into a game-like experience, students become more motivated and engaged. One example of gamification in CS4All is the use of coding competitions or hackathons, where students can showcase their coding skills and compete with their peers. Python has been used in various coding competitions, including the Google Code Jam and International Olympiad in Informatics [4].
+| Section                          | Checkpoint | Description                                                                                                           |
+|----------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Physical Action**              |            |                                                                                                                       |
+|                                  | 4.1        | Vary the methods for response and navigation: Provide options for physically interacting with instructional materials and responding to assessments, like typing, pointing, speech-to-text, etc. |
+|                                  | 4.2        | Optimize access to tools and assistive technologies: Make learning tools available and accessible to learners with motor differences, like grips, keyboard alternatives, voice control. |
+| **Expression & Communication**   |            |                                                                                                                       |
+|                                  | 5.1        | Use multiple media for communication: Allow diverse ways to communicate knowledge, ideas, and concepts, such as through drawing, speech, video, modeling, etc. |
+|                                  | 5.2        | Use multiple tools for construction and composition: Provide a variety of tools to help learners organize their ideas, draft written work, create diagrams, build models, etc. |
+|                                  | 5.3        | Build fluencies with graduated levels of support for practice and performance: Guide learners in the development of communication skills. Provide models, feedback, and opportunities for practice. |
+| **Executive Functions**          |            |                                                                                                                       |
+|                                  | 6.1        | Guide appropriate goal-setting: Teach learners to set measurable and attainable learning goals with guidance and scaffolds. |
+|                                  | 6.2        | Support planning and strategy development: Help learners make plans, sequence steps, schedule efforts, and develop learning strategies. |
+|                                  | 6.3        | Facilitate managing information and resources: Provide checklists, templates, organizers to help manage time, materials, technology, and information. |
+|                                  | 6.4        | Enhance capacity for monitoring progress: Provide reminders and guides for learners to track progress and evaluate how well they are meeting their goals. |
 
-## CS4All: Multiple Means of Action and Expression
-CS4All, also known as Computer Science for All, is a movement aiming to provide every student with the opportunity to learn computer science and computational thinking skills. In the CS4All approach, multiple means of action and expression are used to engage students and ensure inclusivity. We will explore the concept of multiple means of action and expression within the context of CS4All, providing an overview of its importance, strategies, and their implementation in classroom settings.
+##### Physical Action
+- **Vary the Methods for Response and Navigation**: Allow different input methods, such as voice commands, in coding exercises.
+- **Optimize Access to Tools and Assistive Technologies**: Ensure accessibility of coding platforms for students with disabilities.
 
-### Importance of Multiple Means of Action and Expression
-Multiple means of action and expression are essential in the CS4All framework to accommodate diverse learners and promote inclusive computing education. By acknowledging that students possess different skills, interests, and ways of expressing themselves, CS4All helps create an educational environment that fosters engagement and success for all students. Furthermore, it empowers students to harness their unique abilities in computer science and supports them in finding their own paths and interests within the field.
+##### Expression & Communication
+- **Use Multiple Media for Communication**: Encourage students to present projects through videos, blogs, or live demonstrations.
+- **Use Multiple Tools for Construction and Composition**: Provide various coding environments and tools for different tasks.
+- **Build Fluencies with Graduated Levels of Support for Practice and Performance**: Scaffold coding exercises to gradually increase complexity.
 
-### Strategies for Multiple Means of Action and Expression
-To achieve multiple means of action and expression in CS4All, educators can implement several strategies, including:
+##### Executive Functions
+- **Guide Appropriate Goal-Setting**: Help students set achievable goals for a software development project.
+- **Support Planning and Strategy Development**: Facilitate brainstorming and planning sessions for group projects.
+- **Facilitate Managing Information and Resources**: Teach students to use version control systems like Git.
+- **Enhance Capacity for Monitoring Progress**: Implement regular check-ins and reflections on project progress.
 
-#### 1. Varied Programming Languages
-Offering a range of programming languages enables students to choose a language that resonates with their interests or learning style. For example, a student who enjoys visualizing concepts may thrive when introduced to Python's libraries such as Matplotlib or Seaborn for data visualization.
+#### Goal: Expert Learners who are Purposeful & Motivated, Resourceful & Knowledgeable, Strategic & Goal-Directed
 
-#### 2. Project-Based Learning
-Project-based learning allows students to solve real-world problems or create meaningful artifacts using computer science concepts. It encourages their autonomy and creativity, as they can choose projects that align with their interests and engage them on a deeper level.
-
-#### 3. Collaborative Activities
-Collaborative activities foster teamwork, communication, and peer learning. By working together, students can leverage each other's strengths and learn from different perspectives. This strategy supports inclusive environments where every student can contribute and benefit from the collective knowledge.
-
-#### 4. Varied Assessment Methods
-Using varied assessment methods, such as projects, presentations, and quizzes, enables students to demonstrate their understanding and skills in different ways. This approach recognizes that traditional tests may not capture the full extent of a student's abilities and provides opportunities for students to leverage their strengths.
+The UDL framework aims to create expert learners who are purposeful, motivated, resourceful, knowledgeable, strategic, and goal-directed. By applying these principles in computing education, educators can create inclusive and effective learning environments that cater to diverse needs and preferences. The integration of UDL in computing education not only enhances accessibility but also fosters creativity, collaboration, and critical thinking, essential skills for the future of technology and innovation.

@@ -389,17 +389,17 @@ schedule:
         rlink: false
   - week: "8"
     date: "0"
-    title: "CS4All: Multiple Means of Representation"
+    title: "CS4All and UDL: Multiple Means of Representation"
     deliverables:
       - dtitle: "Technical Project and Presentation: Project Handed Out"
         dlink: "Projects/TechnicalProject"
         points: 100
   - week: "8"
     date: "1"
-    title: "CS4All: Multiple Means of Action and Expression"
+    title: "CS4All and UDL: Multiple Means of Action and Expression"
   - week: "9"
     date: "0"
-    title: "CS4All: Multiple Means of Engagement"
+    title: "CS4All and UDL: Multiple Means of Engagement"
     deliverables:
       - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
         dlink: "Labs/Unplugged"
