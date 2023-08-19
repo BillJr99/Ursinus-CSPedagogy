@@ -524,6 +524,8 @@ schedule:
         rlink: false
       - rtitle: "CS Education Chapter 14"
         rlink: false
+      - rtitle: "Equity in Computer Science Education"
+        rlink: "https://k12cs.org/equity-in-computer-science-education/"
   - week: "14"
     date: "0"
     title: "Review and Workshop"

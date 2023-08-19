@@ -6,49 +6,96 @@ excerpt: "CS471: Computer Science Pedagogy - Equity Pedagogies in Computer Scien
 
 info:
   goals: 
-    - To describe strategies for equity in CS pedagogy, including culturally responsive teaching
-        
+    - To describe strategies for equity in CS pedagogy, including culturally responsive teaching   
+  models:
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+            <!-- Title: Equity in Computer Science Education -->
+            <text x="500" y="40" text-anchor="middle" font-weight="bold">Equity in Computer Science Education</text>
+
+            <!-- Impacts of Computing -->
+            <rect x="50" y="80" width="400" height="120" fill="#f2f2f2"/>
+            <text x="250" y="110" text-anchor="middle" font-weight="bold">Impacts of Computing</text>
+            <text x="250" y="130" text-anchor="middle" font-size="10">The design and use of computing technologies and artifacts can improve, worsen, or maintain inequitable access to information and opportunities.</text>
+
+            <!-- Algorithms and Programming -->
+            <rect x="550" y="80" width="400" height="120" fill="#f2f2f2"/>
+            <text x="750" y="110" text-anchor="middle" font-weight="bold">Algorithms and Programming</text>
+            <text x="750" y="130" text-anchor="middle" font-size="10">People design meaningful solutions for others by defining a problem’s criteria and constraints, carefully considering the diverse needs and wants of the community, and testing whether criteria and constraints were met.</text>
+
+            <!-- Fostering an Inclusive Computing Culture -->
+            <rect x="50" y="240" width="400" height="120" fill="#f2f2f2"/>
+            <text x="250" y="270" text-anchor="middle" font-weight="bold">Fostering an Inclusive Computing Culture</text>
+            <text x="250" y="290" text-anchor="middle" font-size="10">Address the needs of diverse end users during the design process to produce artifacts with broad accessibility and usability.</text>
+
+            <!-- Collaborating Around Computing -->
+            <rect x="550" y="240" width="400" height="120" fill="#f2f2f2"/>
+            <text x="750" y="270" text-anchor="middle" font-weight="bold">Collaborating Around Computing</text>
+            <text x="750" y="290" text-anchor="middle" font-size="10">Cultivate working relationships with individuals possessing diverse perspectives, skills, and personalities.</text>
+
+            <!-- Source and License -->
+            <text x="500" y="750" text-anchor="middle" font-size="10">Source: https://k12cs.org/equity-in-computer-science-education/</text>
+            <text x="500" y="770" text-anchor="middle" font-size="10">License: CC BY-NC-SA 4.0</text>
+        </svg>        
+      title: "Equity Statements in Computer Science Education (from K12CS.org)"
+      questions:
+        - "What barriers currently exist that prevent equitable access to computer science education for all students?"    
+        - "How can we ensure computer science courses and resources are designed to be inclusive and accessible to students from diverse backgrounds and abilities?"    
+        - "What strategies can teachers use to recruit and retain students from underrepresented groups in computer science?"    
+        - "How can computer science instruction be differentiated to meet the needs of diverse learners?"    
+        - "In what ways can computer science curriculum and activities incorporate perspectives from different cultures and communities?"    
+        - "What role should real-world applications of computer science play in making the field relevant and meaningful for all students?"    
+        - "How can we promote positive gender, racial, and cultural representations in computer science to counter prevalent stereotypes?"    
+        - "What support systems and environments are needed to foster a sense of belonging among underrepresented students in computer science?"    
+        - "How can schools and teachers partner with families and communities to increase engagement in computer science?"    
+        - "What professional development is needed to prepare teachers to teach computer science through an equity lens?"    
+        - "How can we ensure equitable access to technology, resources, and learning opportunities in computer science?"    
+        - "What policies and systemic changes are needed to promote equity and inclusion in computer science education?"    
+  additional_reading:
+    - title: "Equity in Computer Science Education (CC BY-NC-SA 4.0)"
+      link: "https://k12cs.org/equity-in-computer-science-education/"
+      
 tags:
   - equity
   
 ---
 
-## Equity Pedagogies in Computer Science
-Equity pedagogies in computer science refer to teaching methods and practices that aim to promote equal learning opportunities and outcomes for students of diverse backgrounds and abilities. These pedagogies recognize and address the various forms of inequity that exist within computer science education, such as gender, race, socioeconomic status, and prior computing experience. By employing equity pedagogies, educators can create inclusive learning environments that foster success and engagement for all students.
+## Equity in Computer Science Education (from K12CS.org)
 
-## Summary of Reading
+This article emphasizes the importance of equity in computer science education, stating that it must be at the forefront of any reform effort. Equity is defined not only by the availability of classes but also by the teaching methods, recruitment strategies, and classroom culture that support diverse learners and promote retention.  
+It highlights the following key points:
 
-The reading "Engaging Equity Pedagogies in Computer Science Learning Environments" by Madkins, Howard, and Freed (available [here](https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf)) explores the implementation of equity pedagogies in computer science education. They argue that traditional teaching methods often perpetuate disparities and exclusion within the CS discipline. The authors propose the adoption of equity-centered approaches that support diverse students in developing computational thinking skills and achieving success.
+* Equity is critical for computer science education reform efforts. This involves appropriate supports for students, how classes are taught, student recruitment, and supporting diverse learners in the classroom.
 
-The reading identifies three equity pedagogies specifically applicable to computer science education:
+* Many students today have limited access to computer science education. Fewer than half of schools offer meaningful CS courses. Underrepresented groups like minorities, females, and rural students have the least access.
 
-1. **Culturally Relevant Teaching**: This pedagogy recognizes and incorporates the cultural experiences and backgrounds of students into the learning process. By connecting computer science concepts to students' lived experiences, educators can create more meaningful and engaging learning experiences.
+* Several groups are significantly underrepresented in high school AP computer science exams, college computer science majors, and computing occupations.
 
-2. **Responsive Teaching**: This pedagogy emphasizes flexibility in instructional methods that accommodate different learning styles and abilities. By adjusting the pace, content, and delivery of instruction, educators can better meet the diverse needs of their students.
+* Stereotypes persist that computer scientists are overwhelmingly white or Asian males. Many females have less confidence in learning computer science.
 
-3. **Expansive Framing**: This pedagogy challenges limited perspectives and stereotypes associated with computer science. It encourages students to see themselves as potential contributors to the field, regardless of traditional stereotypes or biases.
+* But most Americans believe computer science is as important as core subjects, and parents want CS offered in schools. Taking AP CS makes students much more likely to major in it.
 
-These equity pedagogies promote inclusivity, engagement, and motivation among students, ultimately fostering a more diverse and equitable computer science community.
+* The framework aims for equity through its diverse writing team, concepts and practices that support inclusion, and applicability of CS for all students.
 
-## Additional References
+* Practical approaches like block coding, accommodations for disabilities, and courses designed to broaden participation can increase equity in computer science education.
 
-In addition to the above reading, several other scholarly articles and research papers provide further insights into equity pedagogies in computer science. Here are some relevant references:
+### The Need for Equity in Computer Science Education
 
-1. **Title: Promoting Equity Through Pair Programming in Computer Science Education**
-   - Authors: Garcia, Jennifer, et al.
-   - Published in: Proceedings of the 2020 ACM Conference on International Computing Education Research (ICER).
-   - Summary: This paper investigates the impact of pair programming on equity in computer science education. It explores how peer collaboration can enhance learning experiences, uncover implicit biases, and promote more equitable access to computer science education.
+* **Lack of Access:** Fewer than half of K–12 schools offer meaningful computer science courses, with Native American, Black, Latino, lower-income, and rural areas having the least access.
+* **Underrepresentation:** There is a significant underrepresentation of females, Blacks, Hispanics, and American Indians in computer science education and the related industry.
+* **Stereotypes:** Stereotypes persist in media portrayals of computer scientists, affecting perceptions and confidence among females.
+* **The Bright Side:** Despite these challenges, there is a strong belief in the importance of computer science education, and students who take AP Computer Science in high school are more likely to major in the field.
 
-2. **Title: Examining the Influences of Identity, Interest, and Social Context on Persistence in Computer Science**
-   - Authors: Margolis, Jane, et al.
-   - Published in: ACM Transactions on Computing Education (TOCE), 2017.
-   - Summary: This study analyzes the factors that influence persistence in computer science among students from diverse backgrounds. It highlights the significance of identity, interest, and social context in maintaining equitable access and participation in computer science.
+### Equity in the Framework
+* **Diverse Team:** The writers and advisors of the framework were chosen to reflect diversity in gender, race, ethnicity, and institutional representation.
+* **Concepts and Practices:** The framework emphasizes practices that allow diverse learners to demonstrate understanding, including English language learners.
+* **Learning for All:** The framework is designed for all students, not just “gifted” or “honors” students, and emphasizes a comprehensive foundation in computer science.
+* **Efforts to Increase Access and Opportunity:** Practical approaches are highlighted to increase equity, including reaching young students and beginners, students with disabilities, females, and underrepresented minorities.
 
-3. **Title: Equity and Inclusion in Unplugged Computing Education**
-   - Authors: Veletsianos, George, et al.
-   - Published in: Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE), 2020.
-   - Summary: This research investigates the role of unplugged computing education, which involves teaching computer science concepts without the use of computers, in promoting equity and inclusion. It explores the benefits and challenges of unplugged approaches to computer science pedagogy.
+### Key Highlights
 
-## Conclusion
-
-Equity pedagogies in computer science hold great potential for creating inclusive learning environments and promoting equitable access to and success in the discipline. By incorporating culturally relevant teaching, responsive teaching, and expansive framing into their instructional practices, educators can address the inequities that exist within computer science education. Additional research papers and scholarly articles provide further insights into equity pedagogies and their impact on promoting diversity and inclusivity in computer science.
+* **Blocks-based Programming Languages:** Tools like Scratch allow students to program without typing errors and foster social communities for learning.
+* **Universal Design for Learning (UDL):** Learning accommodations and curricular modifications can be applied to differentiate instruction.
+* **Accessible Programming Languages:** Languages like Quorum are accessible to students with visual impairments.
+* **Specialized Curriculum Resources:** Groups like ACCESS CS10K have developed resources and professional development for teachers of students with disabilities.
+* **Programs for Underrepresented Minorities:** Initiatives like Exploring Computer Science aim to reach females and underrepresented minorities.
