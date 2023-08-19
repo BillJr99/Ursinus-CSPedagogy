@@ -1,8 +1,8 @@
 ---
 layout: activity
-permalink: /Activities/CSLessonDesign
-title: "CS471: Computer Science Pedagogy - Computer Science Lesson Design"
-excerpt: "CS471: Computer Science Pedagogy - Computer Science Lesson Design"
+permalink: /Activities/CSUnitDesign
+title: "CS471: Computer Science Pedagogy - Computer Science Unit Design"
+excerpt: "CS471: Computer Science Pedagogy - Computer Science Unit Design"
 
 info:
   goals:

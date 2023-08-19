@@ -435,8 +435,8 @@ schedule:
         rlink: "https://blog.teachcomputing.org/tag/pedagogy/"
   - week: "11"
     date: "0"
-    title: "Computer Science Lesson Design"
-    link: "./Activities/CSLessonDesign"
+    title: "Computer Science Unit Design"
+    link: "./Activities/CSUnitDesign"
     deliverables:
       - dtitle: "Written Assignment: CS4All and UDL Due"
         dlink: "Assignments/CS4AllUDL"
@@ -450,8 +450,8 @@ schedule:
         rlink: false
   - week: "11"
     date: "1"
-    title: "Computer Science Lesson Design: Scaffolding"
-    link: "./Activities/CSLessonDesign/Scaffolding"
+    title: "From Grades to Feedback: Formative and Summative Assessments"
+    link: "./Activities/Feedback"
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Handed Out"
         dlink: "Projects/ServiceLearning"
@@ -460,30 +460,19 @@ schedule:
         dlink: "Labs/POGIL"
         points: 10
     readings:
-      - rtitle: "The Big Book of Computing Content"
+      - rtitle: "CS Education Chapter 16"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Assessment for Learning"
         rlink: false
   - week: "12"
     date: "0"
-    title: "From Grades to Feedback: Formative and Summative Assessments"
-    link: "./Activities/Feedback"
+    title: "Accessibility in CS Educational Design"
+    link: "./Activities/Accessibility"
     deliverables:
       - dtitle: "Reflection: Peer Review and Assessment Handed Out"
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
         submission_types: "onpaper"
-    readings:
-      - rtitle: "CS Education Chapter 16"
-        rlink: false
-      - rtitle: "Big Book of Pedagogy - Assessment for Learning"
-        rlink: false
-  - week: "13"
-    date: "0"
-    title: "Accessibility in CS Educational Design"
-    link: "./Activities/Accessibility"
-    deliverables:
-      - dtitle: "Technical Project and Presentation: Project Due"
-        dlink: "Projects/TechnicalProject"
-        points: 100
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
         rlink: "https://www.w3.org/TR/WCAG21/"
@@ -496,9 +485,22 @@ schedule:
       - rtitle: "Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette"
         rlink: "https://par.nsf.gov/biblio/10356929"
   - week: "13"
-    date: "1"
+    date: "0"
     title: "Social Emotional Learning (SEL)"
     link: "./Activities/SEL"
+    deliverables:
+      - dtitle: "Technical Project and Presentation: Project Due"
+        dlink: "Projects/TechnicalProject"
+        points: 100
+    readings:
+      - rtitle: "Fundamentals of SEL"
+        rlink: "https://casel.org/fundamentals-of-sel/"
+      - rtitle: "The Big Book of Computing Content"
+        rlink: false
+  - week: "13"
+    date: "1"
+    title: "SEL in Computing Education"
+    link: "./Activities/SEL/Computing"
     deliverables:
       - dtitle: "Reflection: Peer Review and Assessment Due"
         dlink: "Reflections/PeerReviewAssessment"
@@ -508,28 +510,14 @@ schedule:
         dlink: "Labs/SEL"
         points: 10
     readings:
-      - rtitle: "Fundamentals of SEL"
-        rlink: "https://casel.org/fundamentals-of-sel/"
-  - week: "14"
-    date: "0"
-    title: "SEL in Computing Education"
-    link: "./Activities/SEL/Computing"
-    readings:
       - rtitle: "Make Computational Thinking a Social-Emotional Learning Experience"
         rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
       - rtitle: "Importance of SEL in a CS Environment"
         rlink: "http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html"
   - week: "14"
-    date: "1"
+    date: "0"
     title: "Equity Pedagogies in Computer Science"
     link: "./Activities/Equity"
-    deliverables:
-      - dtitle: "Service Learning Classroom Project: Project Due"
-        dlink: "Projects/ServiceLearning"
-        points: 100
-      - dtitle: "Curriculum Development Lab: SEL Due"
-        dlink: "Labs/SEL"
-        points: 10
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -539,6 +527,16 @@ schedule:
         rlink: false
       - rtitle: "CS Education Chapter 14"
         rlink: false
+  - week: "14"
+    date: "1"
+    title: "Review and Workshop"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Due"
+        dlink: "Projects/ServiceLearning"
+        points: 100
+      - dtitle: "Curriculum Development Lab: SEL Due"
+        dlink: "Labs/SEL"
+        points: 10
           
 university:
   semester: "Fall"

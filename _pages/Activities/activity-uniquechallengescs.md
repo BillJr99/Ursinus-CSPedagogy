@@ -10,6 +10,7 @@ info:
     - To incorporate differentiated instruction and multiple pathways of entry to engage with computing curricula
     - To create a more inclusive computing classroom through pedagogy and partnership
     - To identify and apply unique pedagogical principles to the computing classroom
+    - To provide appropriately differentiated scaffolding for student activities in computing, which supplies and gradually removes supports as the learner progresses
     
   additional_reading:
     - title: "Achieving a Differentiated Computer Science Classroom"
@@ -113,6 +114,63 @@ Here are some examples of scaffolding that a teacher could provide when assignin
 
 The goal is to provide just enough support to help students get started and work through the key steps on their own. Scaffolding gives students a solid foundation while still requiring their own critical thinking. Adjust the amount of scaffolding up or down based on each student's ability level.
 
+### Scaffolding
+
+Scaffolding is a pedagogical approach that helps students progress in their learning process by gradually removing support mechanisms as they gain proficiency. In computer science (CS) and specifically Python programming, it's about providing students with initial support or 'scaffolds' that help them solve complex problems.
+It is a teaching method that involves providing students with temporary support structures that help them accomplish tasks that they couldn't otherwise do. The goal is to gradually remove these supports, allowing students to perform tasks independently. It's based on Vygotsky's Zone of Proximal Development (ZPD), which refers to the range of tasks that are too difficult for students to master alone but can be mastered with guidance and assistance from a teacher or more competent peers.
+Programming can be challenging for beginners due to abstract concepts and complex syntax. Scaffolding allows beginners to focus on learning concepts step by step, with less focus on the syntax. It allows students to learn and build confidence gradually, which leads to better engagement and retention.
+
+#### Example: Partial Code
+
+Providing partial codes allows students to understand a code structure without being overwhelmed by the entire code at once. It also encourages them to think about the remaining part of the code. For example:
+
+```python
+def greet(name):
+    # TODO: Complete this function to print 'Hello, {name}!'
+    pass
+```
+
+#### Example: Sorting Algorithms
+
+Use the following code snippet as a starting point:
+
+   ```python
+   def partition(arr, low, high):
+       # TODO: Choose a pivot element
+       # TODO: Rearrange the elements around the pivot
+       # TODO: Return the pivot index
+       pass
+
+   def quicksort(arr, low, high):
+       if low < high:
+           # TODO: Call the partition function
+           # TODO: Recursively call quicksort on left and right subarrays
+       return arr
+   ```
+
+You can also provide the following guided steps to fill in the missing details of the implementation:
+
+   - **Partition Function**:
+     - Choose a pivot element (e.g., the last element in the current subarray).
+     - Rearrange the elements so that elements less than the pivot are on the left, and elements greater than the pivot are on the right.
+     - Return the index of the pivot.
+   - **Quicksort Function**:
+     - Call the partition function to partition the current subarray.
+     - Recursively call quicksort on the left and right subarrays.
+   - **Testing**: Test your code with a sample list, such as `[3, 6, 8, 10, 1, 2, 1]`.
+  
+For an intermediate activity or student group, you could provide a bit less detail in the "starter code" as shown below:
+
+   ```python
+   def partition(arr, low, high):
+       # TODO: Implement the partitioning logic
+       return pivot_index
+
+   def quicksort(arr, low, high):
+       # TODO: Implement the recursive calls
+       return arr
+   ```
+   
 ### Inclusive CS Teaching
 
 The website article "Inclusive CS Teaching" provides valuable resources to help educators create inclusive learning environments in CS classrooms. It emphasizes understanding and supporting the needs of diverse students, including those from underrepresented groups.
