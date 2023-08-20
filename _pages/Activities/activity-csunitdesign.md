@@ -23,73 +23,73 @@ tags:
 
 ## Unit Plan: Writing and Calling Methods in Java
 
-_Adapted from the UbD Template 2.0 (https://jaymctighe.com/downloads/UbD\_Template\_2.docx)_
-
-| **Stage 1 Desired Results** |
-| --- |
-| ESTABLISHED GOALS
-- Students will be able to write simple methods in Java that perform specific tasks.
-- Students will be able to call/invoke methods to execute their code.
- | _ **Transfer** _ |
+| _Adapted from the UbD Template 2.0 (https://jaymctighe.com/downloads/UbD\_Template\_2.docx)_                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stage 1 Desired Results**                                                                                                                                                             |
+| ---                                                                                                                                                                                     |
+| ESTABLISHED GOALS                                                                                                                                                                       |
+| - Students will be able to write simple methods in Java that perform specific tasks.                                                                                                    |
+| - Students will be able to call/invoke methods to execute their code.                                                                                                                   |
+|                                                                                                                                                                                         | _ **Transfer** _ |
 | _Students will be able to independently use their learning to…_… write and call methods using the Java programming language, incorporating parameter passing by value and by reference. |
-| _ **Meaning** _ |
-| UNDERSTANDINGS_Students will understand that…_
-- Methods allow us to reuse and modularize code.
-- Methods have a specific syntax and structure.
-- Calling a method executes the code inside it.
-- Methods can return values back to the calling code.
-- Arguments can be passed into methods to modify their behavior.
- | ESSENTIAL QUESTIONS
-- How do methods help us organize and reuse code?
-- What are the components of a method declaration?
-- How do you call a method to execute its code?
-- How does return work to send back values from methods?
-- What is the difference between pass-by-value and pass-by-reference arguments?
- |
-| _ **Acquisition** _ |
-| _Students will know…_
-- How to identify the components of a method declaration including access modifier, return type, name, parameters, and method body.
-- How to modularize code by extracting parts into reusable methods.
-- Whether their parameters are passed by reference or by value, and the implications of each.
- | _Students will be skilled at…_
-- Writing simple void and value-returning methods.
-- Calling/invoking methods correctly to run the code inside them.
- |
-| **Stage 2 - Evidence** |
-| **Evaluative Criteria** | **Assessment Evidence** |
-| Rubric (see below) | PERFORMANCE TASK(S):
-- Coding activities - writing methods, calling methods, handling returns.
-- Writing a program that demonstrates the use of custom methods to repeat code.
-- Writing a simple class with methods to model something like a bank account.
- |
-|
- | OTHER EVIDENCE:
-- Methods quiz - short answer questions on declaring and calling methods.
-- Rubrics for coding activities and project.
-- Teacher observation of student coding.
-- Worksheets on method components and calling methods.
-- Coding activities extracting logic into methods.
- |
-| **Stage 3 – Learning Plan** |
-| _Summary of Key Learning Events and Instruction_
-- Lesson on method components and syntax.
-- Analyzing method examples for key features.
-- Writing simple methods with different return types.
-- Calling methods and using return values.
-- Passing arguments to methods to modify behavior.
-- Coding tasks to extract logic into reusable methods.
-- Writing methods to model behaviors and properties of objects.
-- Peer code reviews and refactoring.
-
-Scaffolds:
-
-- Syntax templates and method signatures.
-- Commented code examples modeling methods.
-- Pair programming and peer feedback.
-- Incremental coding tasks before complex projects.
-- Cheat sheets on method components.
-- Rubrics detailing expectations.
- |
+| _ **Meaning** _                                                                                                                                                                         |
+| UNDERSTANDINGS_Students will understand that…_                                                                                                                                          |
+| - Methods allow us to reuse and modularize code.                                                                                                                                        |
+| - Methods have a specific syntax and structure.                                                                                                                                         |
+| - Calling a method executes the code inside it.                                                                                                                                         |
+| - Methods can return values back to the calling code.                                                                                                                                   |
+| - Arguments can be passed into methods to modify their behavior.                                                                                                                        |
+|                                                                                                                                                                                         | ESSENTIAL QUESTIONS |
+| - How do methods help us organize and reuse code?                                                                                                                                       |
+| - What are the components of a method declaration?                                                                                                                                      |
+| - How do you call a method to execute its code?                                                                                                                                         |
+| - How does return work to send back values from methods?                                                                                                                                |
+| - What is the difference between pass-by-value and pass-by-reference arguments?                                                                                                         |
+|                                                                                                                                                                                         |
+| _ **Acquisition** _                                                                                                                                                                     |
+| _Students will know…_                                                                                                                                                                   |
+| - How to identify the components of a method declaration including access modifier, return type, name, parameters, and method body.                                                     |
+| - How to modularize code by extracting parts into reusable methods.                                                                                                                     |
+| - Whether their parameters are passed by reference or by value, and the implications of each.                                                                                           |
+|                                                                                                                                                                                         | _Students will be skilled at…_ |
+| - Writing simple void and value-returning methods.                                                                                                                                      |
+| - Calling/invoking methods correctly to run the code inside them.                                                                                                                       |
+|                                                                                                                                                                                         |
+| **Stage 2 - Evidence**                                                                                                                                                                  |
+| **Evaluative Criteria**                                                                                                                                                                 | **Assessment Evidence** |
+| Rubric (see below)                                                                                                                                                                      | PERFORMANCE TASK(S): |
+| - Coding activities - writing methods, calling methods, handling returns.                                                                                                               |
+| - Writing a program that demonstrates the use of custom methods to repeat code.                                                                                                         |
+| - Writing a simple class with methods to model something like a bank account.                                                                                                           |
+|                                                                                                                                                                                         |
+|                                                                                                                                                                                         |
+|                                                                                                                                                                                         | OTHER EVIDENCE: |
+| - Methods quiz - short answer questions on declaring and calling methods.                                                                                                               |
+| - Rubrics for coding activities and project.                                                                                                                                            |
+| - Teacher observation of student coding.                                                                                                                                                |
+| - Worksheets on method components and calling methods.                                                                                                                                  |
+| - Coding activities extracting logic into methods.                                                                                                                                      |
+|                                                                                                                                                                                         |
+| **Stage 3 – Learning Plan**                                                                                                                                                             |
+| _Summary of Key Learning Events and Instruction_                                                                                                                                        |
+| - Lesson on method components and syntax.                                                                                                                                               |
+| - Analyzing method examples for key features.                                                                                                                                           |
+| - Writing simple methods with different return types.                                                                                                                                   |
+| - Calling methods and using return values.                                                                                                                                              |
+| - Passing arguments to methods to modify behavior.                                                                                                                                      |
+| - Coding tasks to extract logic into reusable methods.                                                                                                                                  |
+| - Writing methods to model behaviors and properties of objects.                                                                                                                         |
+| - Peer code reviews and refactoring.                                                                                                                                                    |
+|                                                                                                                                                                                         |
+| Scaffolds:                                                                                                                                                                              |
+|                                                                                                                                                                                         |
+| - Syntax templates and method signatures.                                                                                                                                               |
+| - Commented code examples modeling methods.                                                                                                                                             |
+| - Pair programming and peer feedback.                                                                                                                                                   |
+| - Incremental coding tasks before complex projects.                                                                                                                                     |
+| - Cheat sheets on method components.                                                                                                                                                    |
+| - Rubrics detailing expectations.                                                                                                                                                       |
+|                                                                                                                                                                                         |
  
 ### Rubric
 
@@ -143,54 +143,54 @@ In the `main()` method, call `getNumbers()` to populate the array. Then call `pr
 
 ## Sample Lesson Plan for Pair Programming Activity
 
-# Lesson Plan: Collaborative Function Writing
+### Lesson Plan: Collaborative Function Writing
 
-## Objective:
+#### Objective:
 To reinforce understanding of function declarations and function bodies by working collaboratively to write and call functions based on provided specifications.
 
-## Duration:
+#### Duration:
 45 minutes to 1 hour
 
-## Materials:
+#### Materials:
 - Computers or laptops with programming environments installed (e.g., Python, Java, C++)
 - Sample function specifications (prepared by the teacher)
 - Test program template (prepared by the teacher)
 
-## Procedure:
+#### Procedure:
 
-### Introduction (5 minutes)
+##### Introduction (5 minutes)
 - Begin the lesson by explaining the importance of functions in programming and how they help organize code and promote reusability.
 - Briefly discuss the structure of a function, including the function declaration (header) and the function body.
 - Explain that in this lesson, students will work collaboratively in pairs to write functions based on provided specifications.
 
-### Pairing Up (5 minutes)
+##### Pairing Up (5 minutes)
 - Divide the students into pairs and assign each pair a computer or laptop.
 - Encourage students to work with someone they haven't partnered with before to foster collaboration and learning from each other.
 
-### Function Writing Activity (20 minutes)
+##### Function Writing Activity (20 minutes)
 - Provide each pair with a set of function specifications, either on a handout or projected on a screen.
 - Instruct one student in each pair to write the function declarations based on the specifications, while the other student writes the function bodies.
 - Explain that they should discuss their approaches and syntax with each other, ensuring they have a clear understanding of the task before writing the code.
 - Encourage students to ask questions and seek clarification if needed.
 - Remind them to follow the standard naming conventions and use appropriate variable names for clarity.
 
-### Role Switch and Function Review (10 minutes)
+##### Role Switch and Function Review (10 minutes)
 - After the first function is completed, instruct the students to switch roles. The student who wrote the function declaration should now write the function body, and vice versa.
 - Encourage students to discuss their approaches again and provide feedback to each other on the code they've written.
 - Emphasize the importance of clear communication and collaboration in the programming process.
 
-### Test Program (10 minutes)
+##### Test Program (10 minutes)
 - Provide the students with a test program template, which includes a simple program structure with placeholders for function calls.
 - Instruct the students to switch computers with their partner and insert function calls to test the functions they wrote.
 - Remind them to pay attention to the function return values and any potential errors or bugs that may arise during testing.
 - Encourage students to discuss the output of their test program with their partner and troubleshoot any issues together.
 
-### Conclusion and Discussion (5 minutes)
+##### Conclusion and Discussion (5 minutes)
 - Bring the class back together for a brief discussion on the activity.
 - Ask students to share their experiences and challenges encountered during the collaborative function writing process.
 - Highlight the benefits of working in pairs, such as sharing ideas, learning from each other, and catching errors more effectively.
 - Reinforce the importance of clear communication and teamwork in programming, as it reflects real-world collaborative coding environments.
 
-### Extension Activity (optional)
+##### Extension Activity (optional)
 - As an extension, you can assign additional function specifications to pairs of students as homework.
 - Encourage them to continue practicing collaborative function writing and testing independently.
