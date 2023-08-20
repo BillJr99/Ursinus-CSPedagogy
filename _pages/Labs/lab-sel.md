@@ -12,31 +12,31 @@ info:
     - Develop a lesson plan that integrates SEL into a computer science topic
     - Reflect on the importance of SEL in teaching and learning
 
-  rubric:
   - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
+    description: Lesson Plan Development
+    preemerging: Lesson plan lacks clear structure and integration of SEL principles.
+    beginning: Lesson plan includes basic structure but integration of SEL is superficial or forced.
+    progressing: Lesson plan is well-structured with thoughtful integration of SEL, but lacks depth in some areas.
+    proficient: Lesson plan is comprehensive, well-structured, and seamlessly integrates SEL into the ASCII encoding topic.
   - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
+    description: Activities Design
+    preemerging: Activities are unclear or unrelated to SEL and ASCII encoding.
+    beginning: Activities include some connection to SEL and ASCII encoding but lack engagement or creativity.
+    progressing: Activities are engaging and foster SEL skills, but could be more closely aligned with ASCII encoding.
+    proficient: Activities are highly engaging, foster specific SEL skills, and are closely aligned with ASCII encoding.
   - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
+    description: Assessment Strategies
+    preemerging: Assessment strategies are missing or do not align with the goals of teaching SEL and ASCII encoding.
+    beginning: Assessment strategies are present but lack clarity or alignment with SEL and ASCII encoding objectives.
+    progressing: Assessment strategies are clear and aligned with SEL and ASCII encoding objectives but lack variety or depth.
+    proficient: Assessment strategies are clear, varied, and deeply aligned with both SEL and ASCII encoding objectives.
   - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
+    description: Reflection and Considerations
+    preemerging: Reflection is missing or lacks insight into the importance of integrating SEL into computer science education.
+    beginning: Reflection includes basic insights but lacks depth or consideration of specific SEL skills and resources.
+    progressing: Reflection is thoughtful and includes consideration of specific SEL skills and resources but could be more comprehensive.
+    proficient: Reflection is insightful, comprehensive, and includes deep consideration of specific SEL skills, resources, and the broader context of computer science education.
+
     
   questions:
     - "How can SEL principles be applied to teaching data encoding using ASCII characters?"

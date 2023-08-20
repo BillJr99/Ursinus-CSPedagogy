@@ -90,4 +90,4 @@ Finally, you will present a summary of your project to our class, and summarize 
 
 ## Unit and Lesson Activities
 
-Your final report will include the complete unit and lesson activities you developed throughout the semester.  Consider this your portfolio!  I encourage you to publish this publicly.
+Your final report will include the complete unit and lesson activities you developed throughout the semester.  Consider this your portfolio!  I encourage you to publish this publicly.  Your design should include a unit of at least 3 lessons that includes (and discusses explicitly) several of the 12 pedagogical principles of computing, along with formative and summative assessments that span Bloom's taxonomy, and whose lesson activities differentiate instruction using scaffolding of multiple entry points according to UDL principles.

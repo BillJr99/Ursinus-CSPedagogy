@@ -12,38 +12,46 @@ info:
     - Understand the goals and strategies of Computer Science for All (CS4All)
     - Apply UDL and CS4All principles to lesson planning in computer science
 
-  rubric:
-  - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
-  - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
-  - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
-  - weight: 25
-    description: xxx
-    preemerging: xxx
-    beginning: xxx
-    progressing: xxx
-    proficient: xxx 
+  - weight: 20
+    description: Summary of UDL Principles
+    preemerging: Fails to summarize UDL principles or provides incorrect information.
+    beginning: Provides a basic summary of UDL principles but lacks detail on how they enhance accessibility and engagement in CS lessons.
+    progressing: Provides a clear summary of UDL principles and some insight into how they enhance accessibility and engagement in CS lessons.
+    proficient: Provides a comprehensive and insightful summary of UDL principles, clearly explaining how they enhance accessibility and engagement in CS lessons.
+  - weight: 20
+    description: Summary of CS4All Goals and Pedagogical Principles
+    preemerging: Fails to summarize CS4All goals and principles or provides incorrect information.
+    beginning: Provides a basic summary of CS4All goals and principles but lacks detail on how they promote equity in CS education.
+    progressing: Provides a clear summary of CS4All goals and principles and some insight into how they promote equity in CS education.
+    proficient: Provides a comprehensive and insightful summary of CS4All goals and principles, clearly explaining how they promote equity in CS education.
+  - weight: 20
+    description: Integration of UDL and CS4All Principles into Lesson Planning
+    preemerging: Fails to discuss integration or provides incorrect information.
+    beginning: Discusses integration but lacks clarity or concrete examples.
+    progressing: Provides clear discussion of integration with concrete examples but could be more comprehensive.
+    proficient: Provides clear, comprehensive, and insightful discussion of integration with concrete examples, aligning UDL and CS4All principles in a CS lesson plan.
+  - weight: 20
+    description: Thesis and Support with Relevant Research Literature
+    preemerging: Lacks a clear thesis or fails to support it with relevant research literature.
+    beginning: Presents a thesis but lacks strong support with relevant research literature.
+    progressing: Presents a clear thesis and supports it with relevant research literature but could be more insightful or comprehensive.
+    proficient: Presents a clear, insightful, and comprehensive thesis, strongly supported with relevant research literature, addressing the future of computing education.
+  - weight: 20
+    description: Overall Clarity, Organization, and Citation
+    preemerging: Report is disorganized, lacks clarity, and fails to properly cite sources.
+    beginning: Report has basic organization and clarity but lacks proper citation or could be more polished.
+    progressing: Report is well-organized and clear, with proper citation, but could be more polished or insightful.
+    proficient: Report is well-organized, clear, and polished, with proper citation, logical flow, and coherent presentation.
+
     
   readings:
     - rlink: "https://www.cast.org/impact/universal-design-for-learning-udl"
       rtitle: "Universal Design for Learning (UDL) - CAST"
     - rlink: "https://www.csforall.org/"
       rtitle: "Computer Science for All (CS4All)"
-
+    - rlink: "https://teachcomputing.org/pedagogy"
+      rtitle: "Promoting Effective Computing Pedagogy"
+      
   questions:
     - "What are the key principles of Universal Design for Learning (UDL)?"
     - "What are the goals and strategies of Computer Science for All (CS4All)?"
@@ -55,17 +63,21 @@ tags:
 
 ---
 
-# Assignment Overview
-In this written report assignment, you will reflect on how to apply the principles of Universal Design for Learning (UDL) and Computer Science for All (CS4All) to your lesson plan. You will explore the key concepts, goals, and strategies of UDL and CS4All, and discuss how they can be integrated into computer science education.
+# Applying UDL and CS4All to Lesson Planning
 
-# Instructions
-- **Review the Readings**: Review the provided materials on UDL and CS4All.
-- **Reflect on UDL Principles**: Reflect on the principles of UDL and how they can be applied to make computer science education more accessible and inclusive.
-- **Reflect on CS4All Goals and Strategies**: Reflect on the goals and strategies of CS4All and how they can be implemented to promote equitable access to computer science education.
-- **Apply to Lesson Planning**: Discuss how UDL and CS4All principles can be integrated into your lesson planning to enhance engagement, accessibility, and equity.
-- **Write the Report**: Compile your reflections and discussions into a comprehensive written report.
+## Overview
+In this assignment, you will explore how the principles of Universal Design for Learning (UDL) and the Computer Science for All (CS4All) movement can be applied to make computer science education more accessible, engaging, and equitable.
 
-# Notes
-- **Understanding UDL and CS4All**: Familiarize yourself with the principles of UDL and the goals and strategies of CS4All by reading the provided materials.
-- **Application to Lesson Planning**: Consider how you can apply these principles and strategies to enhance the engagement, accessibility, and equity of your lesson planning in computer science.
-- **Reflection**: Reflecting on UDL and CS4All is a key component of this assignment. Consider what you learned and how it applies to your teaching practice in computer science.
+Reflect on each of the 9 elements of the UDL framework, and the [12 Principles of Computing Pedagogy](https://teachcomputing.org/pedagogy).  Think about how they could be used to truly bring computing to *all* learners: across gender and other underrepresented axes, to other disciplines, and/or across all grade levels.  Your report does not need to address every one of these ideas.  Instead, you should form a thesis addressing what you believe is the most important change that needs to happen in the next 10 years to improve and facilitate access to computing education.  Support your claim with relevant research literature, and frame your ideas within these existing frameworks.  What should computing education look like for the next generation so that it represents and improvement over your own experiences?
+
+You will reflect on these principles and write a report discussing how they could be integrated into your own lesson planning.
+
+## Instructions
+Read the provided materials on UDL and CS4All to understand the core principles and goals of each framework.
+
+In a written report, address the following:
+- Summary of UDL principles and how they can enhance accessibility and engagement in CS lessons.
+- Summary of CS4All goals and pedagogical principles, and how they promote equity in CS education.
+- Discussion of how UDL and CS4All principles align, and could be integrated into a CS lesson plan.
+- Concrete examples of how you could apply these principles to make your own CS lesson plan more accessible, engaging, and equitable.
+- Properly cite at least 5 sources on UDL and CS4All in your report.
