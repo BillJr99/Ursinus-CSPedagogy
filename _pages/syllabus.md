@@ -394,6 +394,9 @@ schedule:
       - dtitle: "Technical Project and Presentation: Project Handed Out"
         dlink: "Projects/TechnicalProject"
         points: 100
+      - dtitle: "Written Assignment: CS4All and UDL Handed Out"
+        dlink: "Assignments/CS4AllUDL"
+        points: 100
   - week: "8"
     date: "1"
     title: "CS4All and UDL: Multiple Means of Action and Expression"
@@ -408,9 +411,6 @@ schedule:
       - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
         dlink: "Labs/Unplugged"
         points: 10
-      - dtitle: "Written Assignment: CS4All and UDL Handed Out"
-        dlink: "Assignments/CS4AllUDL"
-        points: 100
   - week: "9"
     date: "1"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
@@ -425,6 +425,13 @@ schedule:
   - week: "10"
     date: "0"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+    deliverables:
+      - dtitle: "Written Assignment: CS4All and UDL Due"
+        dlink: "Assignments/CS4AllUDL"
+        points: 100
+      - dtitle: "Written Assignment: CS Across the Disciplines Handed Out"
+        dlink: "Assignments/UbiquitousCS"
+        points: 100
   - week: "10"
     date: "1"
     title: "Computer Science Unit Design"
@@ -444,10 +451,6 @@ schedule:
     date: "0"
     title: "From Grades to Feedback: Formative and Summative Assessments"
     link: "./Activities/Feedback"
-    deliverables:
-      - dtitle: "Written Assignment: CS4All and UDL Due"
-        dlink: "Assignments/CS4AllUDL"
-        points: 100
     readings:
       - rtitle: "Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education"
         rlink: "https://ctrl.education.illinois.edu/TACTICal/udl.html"
@@ -533,6 +536,10 @@ schedule:
   - week: "14"
     date: "0"
     title: "Review and Workshop"
+    deliverables:
+      - dtitle: "Written Assignment: CS Across the Disciplines Due"
+        dlink: "Assignments/UbiquitousCS"
+        points: 100
   - week: "14"
     date: "1"
     title: "Review and Workshop"
