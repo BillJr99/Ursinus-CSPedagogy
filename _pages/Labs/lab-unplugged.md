@@ -11,6 +11,31 @@ info:
     - Understand the principles of CS Unplugged and kinesthetic learning
     - Design a lesson plan incorporating CS Unplugged activities
     - Reflect on the importance of hands-on, kinesthetic learning in computer science education
+
+  - weight: 25
+    description: "Clarity of Learning Objectives"
+    preemerging: "Learning objectives are missing or unclear."
+    beginning: "Learning objectives are present but lack specificity or alignment with the chosen computing concept."
+    progressing: "Learning objectives are clear and somewhat aligned with the chosen computing concept."
+    proficient: "Learning objectives are clear, specific, and well-aligned with the chosen computing concept."
+  - weight: 25
+    description: "Alignment of Activity to Concept"
+    preemerging: "Activity lacks alignment with the chosen computing concept."
+    beginning: "Activity shows minimal alignment with the chosen computing concept."
+    progressing: "Activity shows good alignment with the chosen computing concept but may lack depth."
+    proficient: "Activity shows excellent alignment with the chosen computing concept, demonstrating thoughtful integration."
+  - weight: 25
+    description: "Creativity and Engagement Potential of the Activity"
+    preemerging: "Activity lacks creativity and is unlikely to engage students."
+    beginning: "Activity shows some creativity but may not fully engage all students."
+    progressing: "Activity is creative and likely to engage most students."
+    proficient: "Activity is highly creative and designed to engage all students through movement and hands-on participation."
+  - weight: 25
+    description: "Completeness and Clarity of Lesson Plan, Depth of Reflection"
+    preemerging: "Lesson plan is incomplete or unclear; reflection lacks depth."
+    beginning: "Lesson plan is mostly complete but may lack clarity; reflection shows some depth but may be superficial."
+    progressing: "Lesson plan is complete and mostly clear; reflection shows good depth and application of course principles."
+    proficient: "Lesson plan is complete, clear, and well-organized; reflection is insightful, demonstrating deep understanding and application of course principles."  
     
   readings:
     - rlink: "https://www.csunplugged.org/en/"
@@ -31,17 +56,26 @@ tags:
 
 ---
 
-# Assignment Overview
-In this assignment, you will design a lesson plan that incorporates Computer Science Unplugged (CS Unplugged) activities and principles of kinesthetic learning. You will explore the importance of hands-on, movement-based learning in computer science education.
+## Kinesthetic Lesson Plan Activity
 
-# Instructions
-- **Choose a Computing Lesson Concept**: Select a computing lesson concept that you would like to teach.
-- **Design an Unplugged Activity**: Create a hands-on, kinesthetic activity that aligns with the lesson concept.
-- **Write the Lesson Plan**: Develop a comprehensive lesson plan that includes the unplugged activity, learning objectives, materials, procedures, and assessment.
-- **Reflect on the Process**: Write a reflection on the process of using CS Unplugged principles, including insights, challenges, and the importance of hands-on learning.
+### Overview
+For this assignment, you will design an unplugged or kinesthetic activity to teach a computing concept of your choice. This activity should allow students to learn through movement and hands-on participation.
 
-# Notes
-- **Understanding CS Unplugged**: Familiarize yourself with the CS Unplugged framework by reading the provided materials.
-- **Creativity**: Feel free to be creative in designing engaging and meaningful unplugged activities.
-- **Alignment**: Ensure that the unplugged activity aligns with the overall lesson objectives and content.
-- **Reflection**: Reflecting on the process is a key component of this assignment. Consider what you learned and how you might apply CS Unplugged in the future.
+### Instructions
+1. **Choose a computing concept** you want students to learn. This can be an abstract concept like algorithms, or a more specific skill like binary numbers.  You are encouraged to choose the lesson activity you have been developing throughout the semester.
+2. **Develop a 10-15 minute unplugged activity** that teaches this concept through movement and hands-on participation. Refer to [CS Unplugged](https://csunplugged.org/en/) for inspiration.
+3. **Write a complete lesson plan** for this activity. Include:
+   - Learning objectives
+   - Prerequisite skills/knowledge
+   - Materials needed
+   - Step-by-step instructions for the activity
+   - Ways to make the activity accessible to all students
+   - Assessment strategies (formative and/or summative)
+   - Explanations for how the activity aligns to standards
+4. **Write a reflection** on the process of developing this activity. Discuss the following:
+   - Why you chose this concept and activity
+   - How the activity embodies principles of kinesthetic learning
+   - Challenges you faced and how you overcame them
+   - How you might improve the activity in the future
+   - The importance of incorporating kinesthetic learning in computer science
+

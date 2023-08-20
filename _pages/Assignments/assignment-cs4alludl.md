@@ -12,6 +12,32 @@ info:
     - Understand the goals and strategies of Computer Science for All (CS4All)
     - Apply UDL and CS4All principles to lesson planning in computer science
 
+  rubric:
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+    
   readings:
     - rlink: "https://www.cast.org/impact/universal-design-for-learning-udl"
       rtitle: "Universal Design for Learning (UDL) - CAST"

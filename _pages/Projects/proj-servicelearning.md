@@ -87,3 +87,7 @@ It is **highly recommended** that you review your first draft with a [Writing Fe
 ## Class Presentation
 
 Finally, you will present a summary of your project to our class, and summarize your experience and reflections during the experience.
+
+## Unit and Lesson Activities
+
+Your final report will include the complete unit and lesson activities you developed throughout the semester.  Consider this your portfolio!  I encourage you to publish this publicly.

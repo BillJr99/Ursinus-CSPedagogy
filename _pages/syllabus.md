@@ -289,6 +289,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: UbD Lesson Plan Handed Out"
         dlink: "Labs/UbDLessonPlan"
         points: 10
+        rubricpath: "_pages/Labs/lab-ubdlessonplan.md"
     readings:
       - rtitle: "A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz"
         rlink: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
@@ -335,9 +336,11 @@ schedule:
       - dtitle: "Curriculum Development Lab: UbD Lesson Plan Due"
         dlink: "Labs/UbDLessonPlan"
         points: 10
+        rubricpath: "_pages/Labs/lab-ubdlessonplan.md"
       - dtitle: "Curriculum Development Lab: Assessment Plan Handed Out"
         dlink: "Labs/Assessment"
         points: 10
+        rubricpath: "_pages/Labs/lab-assessment.md"
     readings:
       - rtitle: "CS Education Chapters 4 and 5"
         rlink: false
@@ -365,9 +368,11 @@ schedule:
       - dtitle: "Curriculum Development Lab: Assessment Plan Due"
         dlink: "Labs/Assessment"
         points: 10
+        rubricpath: "_pages/Labs/lab-assessment.md"
       - dtitle: "Curriculum Development Lab: Unplugged Activity Handed Out"
         dlink: "Labs/Unplugged"
         points: 10
+        rubricpath: "_pages/Labs/lab-unplugged.md"
     readings:
       - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
         rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
@@ -399,6 +404,7 @@ schedule:
       - dtitle: "Written Assignment: CS4All and UDL Handed Out"
         dlink: "Assignments/CS4AllUDL"
         points: 100
+        rubricpath: "_pages/Assignments/assignment-cs4alludl.md"
   - week: "8"
     date: "1"
     title: "CS4All and UDL: Multiple Means of Action and Expression"
@@ -413,6 +419,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
         dlink: "Labs/Unplugged"
         points: 10
+        rubricpath: "_pages/Labs/lab-unplugged.md"
   - week: "9"
     date: "1"
     title: "Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
@@ -431,6 +438,7 @@ schedule:
       - dtitle: "Written Assignment: CS4All and UDL Due"
         dlink: "Assignments/CS4AllUDL"
         points: 100
+        rubricpath: "_pages/Assignments/assignment-cs4alludl.md"
       - dtitle: "Written Assignment: CS Across the Disciplines Handed Out"
         dlink: "Assignments/UbiquitousCS"
         points: 100
@@ -443,6 +451,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: POGIL Activity Handed Out"
         dlink: "Labs/POGIL"
         points: 10
+        rubricpath: "_pages/Labs/lab-pogil.md"
     readings:
       - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
         rlink: "http://ispython.com/pedagogy/"
@@ -476,6 +485,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: POGIL Activity Due"
         dlink: "Labs/POGIL"
         points: 10
+        rubricpath: "_pages/Labs/lab-pogil.md"
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
         rlink: "https://www.w3.org/TR/WCAG21/"
@@ -525,6 +535,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: SEL Handed Out"
         dlink: "Labs/SEL"
         points: 10
+        rubricpath: "_pages/Labs/lab-sel.md"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -554,6 +565,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: SEL Due"
         dlink: "Labs/SEL"
         points: 10
+        rubricpath: "_pages/Labs/lab-sel.md"
           
 university:
   semester: "Fall"

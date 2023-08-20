@@ -12,6 +12,32 @@ info:
     - Develop a lesson plan that integrates SEL into a computer science topic
     - Reflect on the importance of SEL in teaching and learning
 
+  rubric:
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+    
   questions:
     - "How can SEL principles be applied to teaching data encoding using ASCII characters?"
     - "What are the key SEL skills that can be developed through this lesson?"

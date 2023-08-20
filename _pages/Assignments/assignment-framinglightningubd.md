@@ -11,6 +11,7 @@ info:
     - Understand the principles of Understanding by Design (UbD) and Backward Design
     - Apply UbD principles to the design of a lightning talk
     - Reflect on the video by Grant Wiggins and its implications for computer science education
+    - Reflect on the importance of backward design in lesson planning
 
   rubric:
   - weight: 25

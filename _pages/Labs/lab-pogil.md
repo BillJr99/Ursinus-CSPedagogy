@@ -12,6 +12,32 @@ info:
     - Design a POGIL activity for a specific computer science concept
     - Reflect on the importance of collaborative and active learning in computer science education
 
+  rubric:
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+  - weight: 25
+    description: xxx
+    preemerging: xxx
+    beginning: xxx
+    progressing: xxx
+    proficient: xxx 
+    
   readings:
     - rlink: "https://cspogil.org/Computer+Science+1"
       rtitle: "CS POGIL: Examples and Resources"

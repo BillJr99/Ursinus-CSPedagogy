@@ -10,8 +10,33 @@ info:
   goals:
     - Understand the principles of Understanding by Design (UbD)
     - Develop a lesson plan using the UbD framework
-    - Reflect on the importance of backward design in lesson planning
 
+  rubric:
+  - weight: 25
+    description: Application of UbD Principles and Backward Design
+    preemerging: Does not apply the stages of Backward Design in the lesson plan.
+    beginning: Merges or skips at least one stage of Backward Design in the UbD lesson plan.
+    progressing: Applies all three stages of Backward Design at a superficial level of detail and connectivity.
+    proficient: Effectively applies the three stages of Backward Design to the lesson plan.
+  - weight: 25
+    description: Identification of Desired Results
+    preemerging: Lacks clarity in defining learning goals, objectives, and essential questions; fails to identify key knowledge and skills.
+    beginning: Defines basic learning goals and objectives but lacks depth in essential questions and identification of key knowledge and skills.
+    progressing: Clearly defines learning goals, objectives, and essential questions; identifies key knowledge and skills with some effectiveness.
+    proficient: Articulates well-defined learning goals, objectives, and essential questions; thoroughly identifies key knowledge and skills.
+  - weight: 25
+    description: Determination of Acceptable Evidence
+    preemerging: Fails to identify appropriate assessments or evidence; lacks clear criteria for evaluating performance.
+    beginning: Identifies basic assessments or evidence but lacks clear and specific criteria for evaluating performance.
+    progressing: Chooses appropriate assessments or evidence and defines clear criteria for evaluating performance with some effectiveness.
+    proficient: Selects well-suited assessments or evidence and defines clear, specific, and thoughtful criteria for evaluating performance.
+  - weight: 25
+    description: Design of Learning Experiences
+    preemerging: Lacks coherence in the design of instructional strategies, activities, and materials; fails to incorporate differentiation strategies.
+    beginning: Designs basic instructional strategies, activities, and materials but lacks depth in differentiation strategies.
+    progressing: Develops effective instructional strategies, activities, and materials; incorporates differentiation strategies with some effectiveness.
+    proficient: Designs comprehensive and engaging instructional strategies, activities, and materials; skillfully incorporates differentiation strategies.
+    
   readings:
     - rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
       rtitle: "Understanding by Design Framework"
@@ -29,53 +54,44 @@ tags:
 
 ---
 
-# Assignment Overview
-In this assignment, you will develop a lesson plan for a computing lesson concept using the Understanding by Design (UbD) framework. You will apply the principles of backward design to create a comprehensive and aligned lesson plan.
+In this assignment, you will create a comprehensive lesson plan using the Understanding by Design (UbD) template. The goal is to apply the principles of UbD effectively in designing a lesson plan. You may choose between using your lightning talk topic, or you are welcome a new topic for this lab.
 
-# UbD Template
-Please fill in the following UbD template for your lesson plan:
+## Instructions:
 
-## Stage 1: Identify Desired Results
-- **Enduring Understandings**: What big ideas do you want students to understand?
-- **Essential Questions**: What questions will guide learning and inquiry?
-- **Knowledge and Skills**: What knowledge and skills will students acquire?
+### Familiarize Yourself with UbD Principles:
+Review the principles of Understanding by Design and become familiar with the UbD template. Understand the three stages of backward design: identifying desired results, determining acceptable evidence, and designing learning experiences.
 
-## Stage 2: Determine Acceptable Evidence
-- **Performance Tasks**: What tasks will students perform to demonstrate understanding?
-- **Other Evidence**: What other evidence will you collect to assess student learning?
+### Choose a Topic:
+Select either your lightning talk topic or a new topic of your choice. Ensure that the topic is suitable for creating a lesson plan and aligns with the scope of the assignment.
 
-## Stage 3: Plan Learning Experiences and Instruction
-- **Learning Activities**: What activities and experiences will engage students in learning?
-- **Materials and Resources**: What materials and resources will you use?
-- **Differentiation**: How will you differentiate instruction to meet diverse learner needs?
+### Stage One: Identify Desired Results:
+1. Clearly define the learning goals and objectives for the lesson. Consider what you want students to know, understand, and be able to do by the end of the lesson.
+2. Determine the essential questions that will guide the learning process and encourage critical thinking.
+3. Identify the knowledge and skills students should master during the lesson.
 
-# Instructions
-- **Choose a Computing Lesson Concept**: Select a computing lesson concept that you would like to teach.
-- **Fill in the UbD Template**: Use the UbD template provided to develop your lesson plan.
-- **Reflect on the Process**: Write a reflection on the process of using the UbD framework, including insights, challenges, and the importance of backward design.
+### Stage Two: Determine Acceptable Evidence:
+1. Decide on the assessments or evidence that will demonstrate student achievement of the desired results. Consider a variety of formative and summative assessment methods.
+2. Define the criteria for evaluating student performance and understanding.
 
-# Notes
-- **Understanding UbD**: Familiarize yourself with the UbD framework by reading the provided materials.
-- **Alignment**: Ensure that all components of your lesson plan are aligned with each other and with the desired results.
-- **Creativity**: Feel free to be creative in designing engaging and meaningful learning experiences.
-- **Reflection**: Reflecting on the process is a key component of this assignment. Consider what you learned and how you might apply UbD in the future.
+### Stage Three: Design Learning Experiences:
+1. Develop the instructional strategies, activities, and materials that will engage students and facilitate their learning.
+2. Ensure that the learning experiences are aligned with the desired results and provide opportunities for students to meet the assessment criteria.
+3. Incorporate differentiation strategies to address the diverse needs of learners.
 
+### Complete the UbD Template:
+Utilize the [Understanding by Design template](https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Backward-Design-Template-with-Descriptions.docx) (shown below) to organize and structure your lesson plan. Include all the necessary components in each stage, such as learning goals, essential questions, assessments, instructional strategies, and materials.
+
+### Submission:
+Submit your completed UbD lesson plan.
 
 
 
 
 
 
+## Understanding by Design Lesson / Unit Template
 
-
-
-
-
-
-
-
-
-| From https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/ - used under a Creative Commons Attribution-NonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/) |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                   |            |           |                    |
+| From [https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/) - used under a Creative Commons Attribution-NonCommercial 4.0 International License ([http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)) |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                   |            |           |                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------|--------------------|
 |                                                                                            Stage 1 – Desired Results                                                                                           |                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                   |            |           | Expected time (TE) |
 | ESTABLISHED   GOALS                                                                                                                                                                                            |                                                                                                                                                     Transfer                                                                                                                                                     |                                                                                                                                                                                                                                                                                                   | Normal (M) | Pess. (P) |                    |
