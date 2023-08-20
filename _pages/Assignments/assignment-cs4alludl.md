@@ -53,6 +53,8 @@ info:
       rtitle: "Promoting Effective Computing Pedagogy"
     - rlink: "https://ctrl.education.ufl.edu/projects/tactic/"
       rtitle: "CS for ALL: Teaching All Computational Thinking through Inclusion and Collaboration (TACTIC)"
+    - rlink: "https://csteachers.org/improving-accessibility-in-the-classroom-with-the-udl4cs-interactive-table/"
+      rtitle: "https://csteachers.org/improving-accessibility-in-the-classroom-with-the-udl4cs-interactive-table/"
       
   questions:
     - "What are the key principles of Universal Design for Learning (UDL)?"
@@ -74,7 +76,7 @@ Reflect on each of the 9 elements of the UDL framework, and the [12 Principles o
 
 You will reflect on these principles and write a report discussing how they could be integrated into your own lesson planning.
 
-I highly encourage you to explore the [Project TACTIC](https://ctrl.education.ufl.edu/projects/tactic/) webpage from the University of Florida, which was a multi-year project to understand the specific needs for and to develop inclusivity in computing education for students with disabilities or at risk.  You will find their recommendations highly relevant to your exploration.  I recommend that you incorporate and cite their findings in your report.
+I highly encourage you to explore the [Project TACTIC](https://ctrl.education.ufl.edu/projects/tactic/) webpage from the University of Florida, which was a multi-year project to understand the specific needs for and to develop inclusivity in computing education for students with disabilities or at risk.  You will find their recommendations highly relevant to your exploration.  I recommend that you incorporate and cite their findings in your report.  Additionally, the [CSTA UDL4CS](https://csteachers.org/improving-accessibility-in-the-classroom-with-the-udl4cs-interactive-table/) interactive table and [presentations](https://udl4cs.education.ufl.edu/interactive-table/) offer tangible suggestions about how to put these ideas into practice.
 
 ## Instructions
 Read the provided materials on UDL and CS4All to understand the core principles and goals of each framework.

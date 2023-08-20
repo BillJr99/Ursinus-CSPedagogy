@@ -12,7 +12,10 @@ info:
   guidingquestions:
     - "In what ways could this lesson plan be improved to promote inclusivity and the 12 pedagogical principles?"
     - "Adapt your lightning talk topic into a unit plan with lessons using this template."
-    
+  additional_reading:
+    - title: "Balanced CS Instruction from the CSTA"
+      link: "https://docs.google.com/document/d/1rW3_m82FV4F2p1RTixIIUK_P-oysMqGDJ4RU9lO_m8s/edit"
+      
 tags:
   - udl
   - ubd
