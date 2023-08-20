@@ -15,23 +15,35 @@ info:
 
           <!-- Inclusive Design Section -->
           <rect x="50" y="60" width="300" height="100" fill="#e6f7ff"/>
-          <text x="200" y="90" text-anchor="middle" font-weight="bold">Inclusive Design</text>
-          <text x="200" y="110" text-anchor="middle" font-size="12">Applying universal design principles to create accessible computing environments.</text>
+          <text x="200" y="80" text-anchor="middle" font-weight="bold">Inclusive Design</text>
+          <text x="200" y="100" text-anchor="middle" font-size="12">
+            <tspan x="200" dy="15">Applying universal design principles</tspan>
+            <tspan x="200" dy="15">to create accessible computing environments.</tspan>
+          </text>
 
           <!-- Assistive Technologies Section -->
           <rect x="450" y="60" width="300" height="100" fill="#ffebcc"/>
-          <text x="600" y="90" text-anchor="middle" font-weight="bold">Assistive Technologies</text>
-          <text x="600" y="110" text-anchor="middle" font-size="12">Integration of tools like screen readers, alternative input devices, etc.</text>
+          <text x="600" y="80" text-anchor="middle" font-weight="bold">Assistive Technologies</text>
+          <text x="600" y="100" text-anchor="middle" font-size="12">
+            <tspan x="600" dy="15">Integration of tools like screen readers,</tspan>
+            <tspan x="600" dy="15">alternative input devices, etc.</tspan>
+          </text>
 
           <!-- Collaboration Section -->
           <rect x="50" y="180" width="300" height="100" fill="#d9f7be"/>
-          <text x="200" y="210" text-anchor="middle" font-weight="bold">Collaboration</text>
-          <text x="200" y="230" text-anchor="middle" font-size="12">Collaboration between special education professionals and computing educators.</text>
+          <text x="200" y="200" text-anchor="middle" font-weight="bold">Collaboration</text>
+          <text x="200" y="220" text-anchor="middle" font-size="12">
+            <tspan x="200" dy="15">Collaboration between special education</tspan>
+            <tspan x="200" dy="15">professionals and computing educators.</tspan>
+          </text>
 
           <!-- Barriers & Solutions Section -->
           <rect x="450" y="180" width="300" height="100" fill="#ffd1e8"/>
-          <text x="600" y="210" text-anchor="middle" font-weight="bold">Barriers & Solutions</text>
-          <text x="600" y="230" text-anchor="middle" font-size="12">Identifying and addressing common barriers faced by neurodiverse students.</text>
+          <text x="600" y="200" text-anchor="middle" font-weight="bold">Barriers & Solutions</text>
+          <text x="600" y="220" text-anchor="middle" font-size="12">
+            <tspan x="600" dy="15">Identifying and addressing common barriers</tspan>
+            <tspan x="600" dy="15">faced by neurodiverse students.</tspan>
+          </text>
         </svg>
       title: "Promoting Accessibility in Computing Education"
       questions:
@@ -46,29 +58,44 @@ info:
           <text x="500" y="30" text-anchor="middle" font-size="20" font-weight="bold">Career Pathways to Computing</text>
 
           <!-- Education & Training Section -->
-          <rect x="50" y="60" width="180" height="100" fill="#e6f7ff"/>
-          <text x="140" y="90" text-anchor="middle" font-weight="bold">Education & Training</text>
-          <text x="140" y="110" text-anchor="middle" font-size="12">Aligning curricula with industry demands and fostering growth mindset.</text>
+          <rect x="50" y="60" width="200" height="120" fill="#e6f7ff"/>
+          <text x="150" y="90" text-anchor="middle" font-weight="bold">Education & Training</text>
+          <text x="150" y="110" text-anchor="middle" font-size="12">
+            <tspan x="150" dy="15">Aligning curricula with industry demands</tspan>
+            <tspan x="150" dy="15">and fostering growth mindset.</tspan>
+          </text>
 
           <!-- Diversity & Inclusion Section -->
-          <rect x="250" y="60" width="180" height="100" fill="#ffebcc"/>
-          <text x="340" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
-          <text x="340" y="110" text-anchor="middle" font-size="12">Promoting diversity in computing careers for underrepresented groups.</text>
+          <rect x="270" y="60" width="200" height="120" fill="#ffebcc"/>
+          <text x="370" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
+          <text x="370" y="110" text-anchor="middle" font-size="12">
+            <tspan x="370" dy="15">Promoting diversity in computing careers</tspan>
+            <tspan x="370" dy="15">for underrepresented groups.</tspan>
+          </text>
 
           <!-- Internships & Mentorships Section -->
-          <rect x="450" y="60" width="180" height="100" fill="#d9f7be"/>
-          <text x="540" y="90" text-anchor="middle" font-weight="bold">Internships & Mentorships</text>
-          <text x="540" y="110" text-anchor="middle" font-size="12">Role of practical experience in expanding career pathways.</text>
+          <rect x="50" y="200" width="200" height="120" fill="#d9f7be"/>
+          <text x="150" y="230" text-anchor="middle" font-weight="bold">Internships & Mentorships</text>
+          <text x="150" y="250" text-anchor="middle" font-size="12">
+            <tspan x="150" dy="15">Role of practical experience in expanding</tspan>
+            <tspan x="150" dy="15">career pathways.</tspan>
+          </text>
 
           <!-- Industry Trends Section -->
-          <rect x="650" y="60" width="180" height="100" fill="#ffd1e8"/>
-          <text x="740" y="90" text-anchor="middle" font-weight="bold">Industry Trends</text>
-          <text x="740" y="110" text-anchor="middle" font-size="12">Understanding current trends and future directions in computing.</text>
+          <rect x="270" y="200" width="200" height="120" fill="#ffd1e8"/>
+          <text x="370" y="230" text-anchor="middle" font-weight="bold">Industry Trends</text>
+          <text x="370" y="250" text-anchor="middle" font-size="12">
+            <tspan x="370" dy="15">Understanding current trends and</tspan>
+            <tspan x="370" dy="15">future directions in computing.</tspan>
+          </text>
 
           <!-- Ethical Considerations Section -->
-          <rect x="850" y="60" width="180" height="100" fill="#ffe7e7"/>
-          <text x="940" y="90" text-anchor="middle" font-weight="bold">Ethical Considerations</text>
-          <text x="940" y="110" text-anchor="middle" font-size="12">Instilling a sense of responsibility and ethics in computing professionals.</text>
+          <rect x="50" y="340" width="200" height="120" fill="#ffe7e7"/>
+          <text x="150" y="370" text-anchor="middle" font-weight="bold">Ethical Considerations</text>
+          <text x="150" y="390" text-anchor="middle" font-size="12">
+            <tspan x="150" dy="15">Instilling a sense of responsibility and</tspan>
+            <tspan x="150" dy="15">ethics in computing professionals.</tspan>
+          </text>
         </svg>
       title: "Expanding Career Pathways to Computing"
       questions:
