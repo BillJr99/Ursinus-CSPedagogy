@@ -16,16 +16,6 @@ info:
     - "In what ways does this framework aid the instructor in planning their classroom activities?"
     - "Design a lesson plan of class activities for one or more of the activities described in the learning plan."
     - "Identify some ways that you could assess for evidence of competence in the desired goals."
-  models:
-    - model: |
-        <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2017/05/03135727/backwarddesign-650x537.png" alt="CC 4.0 BY-NC Understanding by Design workflow stages">
-      title: "The Stages of the UbD Framework"
-      questions:
-        - "Why do you think the UbD framework promotes &quot;backwards design&quot;?  Why not plan your lessons, and then your assessments, and then the class activities?"
-        - "What should you do if you find that you have &quot;too many&quot; big ideas identified in Stage 1?  How might you prioritize them?"
-        - "What are some class activities, assignments, or projects you have encountered in school that might work toward demonstrating competence in Stage 2?  Can you recall a particularly well-matched or poorly-matched assessment from your own life?"
-        - "What are some examples of &quot;low-stakes&quot; questions you could ask your class to quickly assess their learning, prior to giving a larger assessment or assignment?"
-        - "What is your favorite classroom activity format?  Do you prefer lecture, or flipped classroom, or guided inquiry, or class discussions, etc.?  What is the benefit of using a blend of activities rather than a single approach?"
         
 tags:
   - ubd

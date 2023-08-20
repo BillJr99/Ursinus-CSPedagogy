@@ -51,6 +51,8 @@ info:
       rtitle: "Computer Science for All (CS4All)"
     - rlink: "https://teachcomputing.org/pedagogy"
       rtitle: "Promoting Effective Computing Pedagogy"
+    - rlink: "https://ctrl.education.ufl.edu/projects/tactic/"
+      rtitle: "CS for ALL: Teaching All Computational Thinking through Inclusion and Collaboration (TACTIC)"
       
   questions:
     - "What are the key principles of Universal Design for Learning (UDL)?"
@@ -71,6 +73,8 @@ In this assignment, you will explore how the principles of Universal Design for 
 Reflect on each of the 9 elements of the UDL framework, and the [12 Principles of Computing Pedagogy](https://teachcomputing.org/pedagogy).  Think about how they could be used to truly bring computing to *all* learners: across gender and other underrepresented axes, to other disciplines, and/or across all grade levels.  Your report does not need to address every one of these ideas.  Instead, you should form a thesis addressing what you believe is the most important change that needs to happen in the next 10 years to improve and facilitate access to computing education.  Support your claim with relevant research literature, and frame your ideas within these existing frameworks.  What should computing education look like for the next generation so that it represents and improvement over your own experiences?
 
 You will reflect on these principles and write a report discussing how they could be integrated into your own lesson planning.
+
+I highly encourage you to explore the [Project TACTIC](https://ctrl.education.ufl.edu/projects/tactic/) webpage from the University of Florida, which was a multi-year project to understand the specific needs for and to develop inclusivity in computing education for students with disabilities or at risk.  You will find their recommendations highly relevant to your exploration.  I recommend that you incorporate and cite their findings in your report.
 
 ## Instructions
 Read the provided materials on UDL and CS4All to understand the core principles and goals of each framework.

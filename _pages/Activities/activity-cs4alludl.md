@@ -66,6 +66,8 @@ info:
   additional_reading:
     - title: "CAST (2018). Universal Design for Learning Guidelines version 2.2. Retrieved from http://udlguidelines.cast.org"
       link: "http://udlguidelines.cast.org"
+    - title: "Project TACTIC - Teaching All Computational Thinking through Inclusion and Collaboration"
+      link: "https://ctrl.education.ufl.edu/projects/tactic/"
       
 tags:
   - cs4all
