@@ -154,7 +154,7 @@ BEGIN:VEVENT
 UID:00000000-0000-0000-0000-0448a1e07c0c
 DTSTAMP:20230912T000000Z
 DTSTART;VALUE=DATE:20230912
-SUMMARY:CS471 Computer Science Pedagogy: Reflection: code.org Lightning Talk Reflection Handed Out
+SUMMARY:CS471 Computer Science Pedagogy: Reflection: code.org Lightning Talk Reflection Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
@@ -165,7 +165,7 @@ DTSTAMP:20230912T000000Z
 DTSTART;VALUE=DATE:20230912
 SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
 LOCATION:
-DESCRIPTION:\nReading: Bloom's Taxonomy https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/\nDeliverable: Reflection: code.org Lightning Talk Reflection Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/CodeOrgLightningTalk
+DESCRIPTION:\nReading: Bloom's Taxonomy https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/\nDeliverable: Reflection: code.org Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/CodeOrgLightningTalk
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
