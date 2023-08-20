@@ -246,7 +246,7 @@ schedule:
     date: "0"
     title: "Pedagogy Background: Understanding by Design and Backwards Design"
     deliverables:
-      - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
+      - dtitle: "Reflection: code.org Lightning Talk Reflection Due"
         dlink: "Reflections/CodeOrgLightningTalk"
         points: 10
         submission_types: "onpaper"
@@ -273,6 +273,7 @@ schedule:
         dlink: "Assignments/FramingLightningUBD"
         points: 100
         submission_types: "onpaper"
+        rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
     readings:
       - rtitle: "Maslow's Hierarchy of Needs"
         rlink: "https://www.simplypsychology.org/maslow.html"
@@ -321,6 +322,7 @@ schedule:
         dlink: "Assignments/FramingLightningUbD"
         points: 100
         submission_types: "onpaper"
+        rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
       - dtitle: "Reflection: UbD Lightning Talk Reflection Handed Out"
         dlink: "Reflections/UbDLightningTalk"
         points: 10
@@ -432,6 +434,7 @@ schedule:
       - dtitle: "Written Assignment: CS Across the Disciplines Handed Out"
         dlink: "Assignments/UbiquitousCS"
         points: 100
+        rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
   - week: "10"
     date: "1"
     title: "Computer Science Unit Design"
@@ -540,6 +543,7 @@ schedule:
       - dtitle: "Written Assignment: CS Across the Disciplines Due"
         dlink: "Assignments/UbiquitousCS"
         points: 100
+        rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
   - week: "14"
     date: "1"
     title: "Review and Workshop"
@@ -624,7 +628,7 @@ Welcome to our Computer Science Pedagogy class!
 
 This course was inspired by a partnership between the instructor and the Pennsylvania Department of Education, in collaboration with the Montgomery County Intermediate Unit (MCIU).  We will collaborate together and with local in the development of K-12 computing curriculum and in the development of computing skills needed to teach both computer science and instructional technology across the disciplines.
 
-We will partner across disciplines (i.e., computing students will work with education students) to further develop your technical knowledge through a teaching lens.  We will explore the unique nuances of computing pedagogy in the context of classical educational theory.  As a service-learning course, students will work with K-12 teachers in the county to develop and present their developed lessons in the classroom setting.  This will qualify as field experience time for students seeking a teaching certification through the Education department here at Ursinus.  In addition, we will assess, refine, and make publicly available all developed lesson materials.
+We will partner across disciplines (i.e., computing students will work with education students) to further develop your technical knowledge through a teaching lens.  We will explore the unique nuances of computing pedagogy in the context of classical educational theory.  As a service-learning course, students will work with K-12 teachers in the county to develop and present their developed lessons in the classroom setting.  This may qualify as field experience time for students seeking a teaching certification through the Education department here at Ursinus.  In addition, we will assess, refine, and make publicly available all developed lesson materials.
 
 A key ingredient of this course is the intended blending of the audience between STEM and education students.  It is my goal that a foundation in education and a foundation in computing will be attained, in part, by organic collaboration between students who are becoming experts in technology with students who are becoming experts in teaching.  The course will focus on the unique opportunities in blending and applying computing in education (and vice-versa), and in doing so, will yield opportunities for students to share with one another, and to benefit from one another.
 
