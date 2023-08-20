@@ -42,7 +42,7 @@ info:
     proficient: References are provided in a quantity and relevance to support the theme of the paper.  Consistent use of a citation standard format (e.g., APA, MLA).   
   - weight: 20
     description: Organization and Writing Quality
-    preemerging: At least two of the following are missing from the paper, or are written in an unclear manner: introduction, conclusion, and abstract.
+    preemerging: At least two of the following are missing from the paper, or are written in an unclear manner - introduction, conclusion, and abstract.
     beginning: An introduction, conclusion, or abstract are missing from the paper.  Writing lacks formality, structure, and/or syntax.
     progressing: Generally clear writing with minor inconsistencies in structure or citation format. Few grammatical errors. A cohesive abstract, introduction, and conclusion are provided.
     proficient: Clear, concise, and well-structured writing. A cohesive abstract, introduction, and conclusion are provided.  Error-free grammar and syntax.     

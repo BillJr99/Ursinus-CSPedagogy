@@ -12,6 +12,7 @@ info:
     - Design a POGIL activity for a specific computer science concept
     - Reflect on the importance of collaborative and active learning in computer science education
 
+  rubric:
   - weight: 25
     description: Clarity of Learning Objectives
     preemerging: Learning objectives are missing or unclear.

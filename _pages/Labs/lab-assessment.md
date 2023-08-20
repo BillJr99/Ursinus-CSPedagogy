@@ -12,7 +12,7 @@ info:
     - Design a comprehensive assessment plan, including a rubric and contract grading specifications
     - Reflect on the importance of aligned and transparent assessment in computer science education
     - Provide both formative and summative assessment goals and criteria
-
+  rubric:
   - weight: 25
     description: "Alignment with Learning Objectives"
     preemerging: "Learning objectives are not clearly defined or aligned with the chosen lesson topic. Bloom's Taxonomy levels are not considered."

@@ -11,7 +11,7 @@ info:
     - Understand the principles of social emotional learning (SEL)
     - Develop a lesson plan that integrates SEL into a computer science topic
     - Reflect on the importance of SEL in teaching and learning
-
+  rubric:
   - weight: 25
     description: Lesson Plan Development
     preemerging: Lesson plan lacks clear structure and integration of SEL principles.

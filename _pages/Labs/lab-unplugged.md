@@ -11,7 +11,7 @@ info:
     - Understand the principles of CS Unplugged and kinesthetic learning
     - Design a lesson plan incorporating CS Unplugged activities
     - Reflect on the importance of hands-on, kinesthetic learning in computer science education
-
+  rubric:
   - weight: 25
     description: "Clarity of Learning Objectives"
     preemerging: "Learning objectives are missing or unclear."

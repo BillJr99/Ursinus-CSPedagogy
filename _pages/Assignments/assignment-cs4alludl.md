@@ -11,7 +11,7 @@ info:
     - Understand the principles of Universal Design for Learning (UDL)
     - Understand the goals and strategies of Computer Science for All (CS4All)
     - Apply UDL and CS4All principles to lesson planning in computer science
-
+  rubric:
   - weight: 20
     description: Summary of UDL Principles
     preemerging: Fails to summarize UDL principles or provides incorrect information.
