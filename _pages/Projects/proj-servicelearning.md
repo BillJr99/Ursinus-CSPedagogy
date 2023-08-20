@@ -49,12 +49,6 @@ This open-ended project aims to give you space to explore computing and its appl
 
 * Designing a lesson plan for K-12 students to get exposed to computing in an area related to your major (or other interest!).  
 * Identifying an existing K-12 lesson in partnership with a local teacher, and revising it to employ a targeted pedagogy practice such as [POGIL](https://cspogil.org/Home) or [Universal Design for Learning (UDL)](https://udlguidelines.cast.org/).
-* Develop a "hardware or software hack" that solves a practical problem, and develop it into a unit of modules for a CS classroom.  Here are a few specific (but not limiting) examples:
-  * Collecting and analyzing local environmental data using a computing statistical package
-  * Writing a program to predict modeled behavior in physics (like an object in free-fall), and calculating the percentage error from the theoretical model in practice.
-  * Using a computing system to assist in the generation of music for beginners by suggesting chord progressions and other theoretical elements.
-  * Using a human-centric approach to design an algorithm that replicates an "Air Tag" by playing "hide and seek" with radios.
-  * Conducting statistical analysis to determine authorship of the Federalist Papers for a Social Studies class.
 
 ## Group Formation and Proposal 
 
@@ -79,7 +73,7 @@ In your report and class presentation, you will present not only your lesson, it
 1. Has design thinking changed the way you look at everyday things?
 2. What are some examples of outcomes in design that would benefit from a more holistic stakeholder design experience, and how might you lead a class of learners (in any subject) in a discussion about human-centric design?
 3. How might design thinking be incorporated into your own subject area?
-4. How might you transform an “ordinary” classroom activity to use guided inquiry and discovery processes such as those found within design thinking?
+4. How might you transform an "ordinary" classroom activity to use guided inquiry and discovery processes such as those found within design thinking?
 5. What kinds of community partnerships would be helpful to facilitate authentic design thinking activities or service learning for your students?
 
 ## First Draft 

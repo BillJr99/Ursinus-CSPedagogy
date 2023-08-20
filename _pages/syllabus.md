@@ -397,6 +397,10 @@ schedule:
   - week: "8"
     date: "1"
     title: "CS4All and UDL: Multiple Means of Action and Expression"
+    deliverables:
+      - dtitle: "Service Learning Classroom Project: Project Handed Out"
+        dlink: "Projects/ServiceLearning"
+        points: 100
   - week: "9"
     date: "0"
     title: "CS4All and UDL: Multiple Means of Engagement"
@@ -460,7 +464,7 @@ schedule:
     title: "Accessibility in CS Educational Design"
     link: "./Activities/Accessibility"
     deliverables:
-      - dtitle: "Service Learning Classroom Project: Project Handed Out"
+      - dtitle: "Service Learning Classroom Project: Project First Draft Due"
         dlink: "Projects/ServiceLearning"
         points: 100
       - dtitle: "Curriculum Development Lab: POGIL Activity Due"

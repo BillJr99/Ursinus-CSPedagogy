@@ -44,11 +44,17 @@ tags:
 In this assignment, you will propose and complete a computing hackathon project using devices like Arduino or micro:bit. Your team will then develop a presentation to teach other students how to design and implement your project.
 
 # Project Ideas
-- **Light Control System**: Design a system to control lights using Arduino, with features like dimming, color changing, and scheduling.
-- **Radio Communication**: Build a simple radio communication system using micro:bit to send and receive messages.
-- **Weather Station**: Create a weather monitoring station that collects and displays data using sensors connected to Arduino.
-- **Smart Plant Care System**: Develop a plant care system that monitors soil moisture and controls watering using micro:bit.
-- **Digital Signature Podcast Projects**: Implement and enhance a project featured on the Digital Signature Podcast.
+* Develop a "hardware or software hack" that solves a practical problem, and develop it into a unit of modules for a CS classroom.  Here are a few specific (but not limiting) examples:
+  - **Light Control System**: Design a system to control lights using Arduino, with features like dimming, color changing, and scheduling.
+  - **Radio Communication**: Build a simple radio communication system using micro:bit to send and receive messages.
+  - **Weather Station**: Create a weather monitoring station that collects and displays data using sensors connected to Arduino.
+  - **Smart Plant Care System**: Develop a plant care system that monitors soil moisture and controls watering using micro:bit.
+  - **Digital Signature Podcast Projects**: Implement and enhance a project featured on the Digital Signature Podcast.
+  - **Environmental Data Analysis**: Collecting and analyzing local environmental data using a computing statistical package.  As a proof-of-concept the micro:bit can be used as a hygrometer to monitor soil moisture levels.
+  - **Scientific Simulation**: Writing a program to predict modeled behavior in physics (like an object in free-fall), and calculating the percentage error from the theoretical model in practice.
+  - **Sound Generation**: Using a computing system to assist in the generation of music for beginners by suggesting chord progressions and other theoretical elements.
+  - **Finding Lost Items**: Using a human-centric approach to design an algorithm that replicates an "Air Tag" by playing "hide and seek" with radios.
+  - **Text Analysis**: Conducting statistical analysis to determine authorship of the Federalist Papers for a Social Studies class.
 
 # What to Do
 1. **Form a Team**: Collaborate with your peers to form a team.
