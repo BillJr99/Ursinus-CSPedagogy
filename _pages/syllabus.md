@@ -12,7 +12,7 @@ info:
   course_title: "Computer Science Pedagogy"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/Ursinus-CSPedagogy/"
-  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS471%20Spring%202023
+  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS471%20CS%20Pedagogy%20Fall%202023
   ical: files/CS471.ics
   course_prerequisites: "None.  Students interested in Computer Science and/or Education are encouraged to join!"
   course_start_date: "2023/08/28"
