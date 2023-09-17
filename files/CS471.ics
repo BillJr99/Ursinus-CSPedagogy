@@ -22,9 +22,9 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-0448a1e07c00
-DTSTAMP;TZID=US-Eastern:20230828T120000
-DTSTART;TZID=US-Eastern:20230828T120000
-DTEND;TZID=US-Eastern:20230828T132000
+DTSTAMP;TZID=US-Eastern:20230829T120000
+DTSTART;TZID=US-Eastern:20230829T120000
+DTEND;TZID=US-Eastern:20230829T132000
 RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=1;UNTIL=20231208T235959Z
 EXDATE:20231014
 EXDATE:20231015
@@ -42,9 +42,9 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-0448a1e07c01
-DTSTAMP;TZID=US-Eastern:20230828T120000
-DTSTART;TZID=US-Eastern:20230828T120000
-DTEND;TZID=US-Eastern:20230828T132000
+DTSTAMP;TZID=US-Eastern:20230831T120000
+DTSTART;TZID=US-Eastern:20230831T120000
+DTEND;TZID=US-Eastern:20230831T132000
 RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=1;UNTIL=20231208T235959Z
 EXDATE:20231014
 EXDATE:20231015
@@ -71,15 +71,6 @@ PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
 UID:00000000-0000-0000-0000-0448a1e07c03
-DTSTAMP:20230829T000000Z
-DTSTART;VALUE=DATE:20230829
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/../Ursinus-CSPedagogy-Overview\nReading: Hello World: The Big Book of Computing Pedagogy https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723\nDeliverable: Written Assignment: Warmup Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/Warmup
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c04
 DTSTAMP:20230831T000000Z
 DTSTART;VALUE=DATE:20230831
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: code.org Lightning Talk Handed Out
@@ -88,16 +79,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c05
-DTSTAMP:20230831T000000Z
-DTSTART;VALUE=DATE:20230831
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/WhatIsCS\nReading: CSTA Standards for CS Teachers https://www.csteachers.org/page/standards-for-cs-teachers\nReading: Seven Big Ideas of Computer Science from the AP CS Principles Curriculum Framework https://w3.cs.jmu.edu/cs101/big-ideas.pdf\nReading: CS Principles with code.org https://code.org/educate/facilitator-landing/CSP\nDeliverable: Curriculum Development Lab: code.org Lightning Talk Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/CodeOrgLightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c06
+UID:00000000-0000-0000-0000-0448a1e07c04
 DTSTAMP:20230905T000000Z
 DTSTART;VALUE=DATE:20230905
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: code.org Lightning Talk Due
@@ -106,7 +88,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c07
+UID:00000000-0000-0000-0000-0448a1e07c05
 DTSTAMP:20230905T000000Z
 DTSTART;VALUE=DATE:20230905
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: code.org Lightning Talk Reflection Handed Out
@@ -115,16 +97,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c08
-DTSTAMP:20230905T000000Z
-DTSTART;VALUE=DATE:20230905
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Curriculum Development Lab: code.org Lightning Talk Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/CodeOrgLightningTalk\nDeliverable: Reflection: code.org Lightning Talk Reflection Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/CodeOrgLightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c09
+UID:00000000-0000-0000-0000-0448a1e07c06
 DTSTAMP:20230907T000000Z
 DTSTART;VALUE=DATE:20230907
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: Warmup Due
@@ -133,7 +106,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0a
+UID:00000000-0000-0000-0000-0448a1e07c07
 DTSTAMP:20230907T000000Z
 DTSTART;VALUE=DATE:20230907
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Lightning Talk Handed Out
@@ -142,16 +115,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0b
-DTSTAMP:20230907T000000Z
-DTSTART;VALUE=DATE:20230907
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/UBD\nReading: Understanding by Design https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/\nReading: CS Education Chapters 1 and 2\nReading: Big Book of Pedagogy - Concept Maps\nDeliverable: Written Assignment: Warmup Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/Warmup\nDeliverable: Curriculum Development Lab: Lightning Talk Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/LightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0c
+UID:00000000-0000-0000-0000-0448a1e07c08
 DTSTAMP:20230912T000000Z
 DTSTART;VALUE=DATE:20230912
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: code.org Lightning Talk Reflection Due
@@ -160,43 +124,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0d
-DTSTAMP:20230912T000000Z
-DTSTART;VALUE=DATE:20230912
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: Bloom's Taxonomy https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/\nDeliverable: Reflection: code.org Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/CodeOrgLightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0e
-DTSTAMP:20230914T000000Z
-DTSTART;VALUE=DATE:20230914
-SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Lightning Talk Due
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c0f
-DTSTAMP:20230914T000000Z
-DTSTART;VALUE=DATE:20230914
-SUMMARY:CS471 Computer Science Pedagogy: Reflection: Lightning Talk Reflection Handed Out
-LOCATION:
-DESCRIPTION:
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c10
-DTSTAMP:20230914T000000Z
-DTSTART;VALUE=DATE:20230914
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Curriculum Development Lab: Lightning Talk Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/LightningTalk\nDeliverable: Reflection: Lightning Talk Reflection Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/LightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c11
+UID:00000000-0000-0000-0000-0448a1e07c09
 DTSTAMP:20230919T000000Z
 DTSTART;VALUE=DATE:20230919
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: Framing Your Lightning Talk in UbD Handed Out
@@ -205,25 +133,25 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c12
-DTSTAMP:20230919T000000Z
-DTSTART;VALUE=DATE:20230919
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Bloom\nReading: Maslow's Hierarchy of Needs https://www.simplypsychology.org/maslow.html\nDeliverable: Written Assignment: Framing Your Lightning Talk in UbD Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/FramingLightningUBD
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c13
+UID:00000000-0000-0000-0000-0448a1e07c0a
 DTSTAMP:20230921T000000Z
 DTSTART;VALUE=DATE:20230921
-SUMMARY:CS471 Computer Science Pedagogy: Reflection: Lightning Talk Reflection Due
+SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Lightning Talk Due
 LOCATION:
 DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c14
+UID:00000000-0000-0000-0000-0448a1e07c0b
+DTSTAMP:20230921T000000Z
+DTSTART;VALUE=DATE:20230921
+SUMMARY:CS471 Computer Science Pedagogy: Reflection: Lightning Talk Reflection Handed Out
+LOCATION:
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-0448a1e07c0c
 DTSTAMP:20230921T000000Z
 DTSTART;VALUE=DATE:20230921
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: UbD Lesson Plan Handed Out
@@ -232,34 +160,16 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c15
-DTSTAMP:20230921T000000Z
-DTSTART;VALUE=DATE:20230921
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/RubricContract\nReading: A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs\nReading: Techniques for Using Specifications Grading in Computer Science https://dl.acm.org/doi/abs/10.5555/3205191.3205226\nDeliverable: Reflection: Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/LightningTalk\nDeliverable: Curriculum Development Lab: UbD Lesson Plan Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/UbDLessonPlan
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c16
-DTSTAMP:20230926T000000Z
-DTSTART;VALUE=DATE:20230926
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/UniqueChallengesCS\nReading: Achieving a Differentiated Computer Science Classroom: An Approach to Promote Equity https://www.techsmart.codes/achieving-a-differentiated-computer-science-classroom-an-approach-to-promote-equity/\nReading: Inclusive CS Teaching https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1\nReading: CSTA: Reflecting on Computer Science Pedagogy - 12 Pedagogical Principles (Sentance) https://csteachers.org/Stories/reflecting-on-computer-science-pedagogy
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c17
+UID:00000000-0000-0000-0000-0448a1e07c0d
 DTSTAMP:20230928T000000Z
 DTSTART;VALUE=DATE:20230928
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
+SUMMARY:CS471 Computer Science Pedagogy: Reflection: Lightning Talk Reflection Due
 LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CSUnplugged\nReading: Big Book of Pedagogy - Go Unplugged\nReading: CS Education Chapter 3
+DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c18
+UID:00000000-0000-0000-0000-0448a1e07c0e
 DTSTAMP:20231003T000000Z
 DTSTART;VALUE=DATE:20231003
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: Framing Your Lightning Talk in UbD Due
@@ -268,7 +178,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c19
+UID:00000000-0000-0000-0000-0448a1e07c0f
 DTSTAMP:20231003T000000Z
 DTSTART;VALUE=DATE:20231003
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: UbD Lightning Talk Reflection Handed Out
@@ -277,16 +187,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1a
-DTSTAMP:20231003T000000Z
-DTSTART;VALUE=DATE:20231003
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Written Assignment: Framing Your Lightning Talk in UbD Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/FramingLightningUbD\nDeliverable: Reflection: UbD Lightning Talk Reflection Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/UbDLightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1b
+UID:00000000-0000-0000-0000-0448a1e07c10
 DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: UbD Lesson Plan Due
@@ -295,7 +196,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1c
+UID:00000000-0000-0000-0000-0448a1e07c11
 DTSTAMP:20231005T000000Z
 DTSTART;VALUE=DATE:20231005
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Assessment Plan Handed Out
@@ -304,25 +205,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1d
-DTSTAMP:20231005T000000Z
-DTSTART;VALUE=DATE:20231005
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Collaboration\nReading: CS Education Chapters 4 and 5\nReading: Big Book of Pedagogy - Work Together\nReading: Think-pair-share in a large CS1 class: Does learning really happen? https://www.researchgate.net/publication/266656934_Think-pair-share_in_a_large_CS1_class_Does_learning_really_happen\nReading: The Costs and Benefits of Pair Programming https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF\nDeliverable: Curriculum Development Lab: UbD Lesson Plan Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/UbDLessonPlan\nDeliverable: Curriculum Development Lab: Assessment Plan Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Assessment
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1e
-DTSTAMP:20231010T000000Z
-DTSTART;VALUE=DATE:20231010
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/UDL\nReading: UDL Guidelines https://udlguidelines.cast.org/\nReading: Big Book of Pedagogy - UDL\nReading: Pedagogy That Supports Computer Science for All (Ryoo) https://dl.acm.org/doi/10.1145/3322210
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c1f
+UID:00000000-0000-0000-0000-0448a1e07c12
 DTSTAMP:20231012T000000Z
 DTSTART;VALUE=DATE:20231012
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Assessment Plan Due
@@ -331,7 +214,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c20
+UID:00000000-0000-0000-0000-0448a1e07c13
 DTSTAMP:20231012T000000Z
 DTSTART;VALUE=DATE:20231012
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Unplugged Activity Handed Out
@@ -340,16 +223,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c21
-DTSTAMP:20231012T000000Z
-DTSTART;VALUE=DATE:20231012
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: Pedagogy that Supports Computer Science for All (Ryoo) https://dl.acm.org/doi/pdf/10.1145/3322210\nDeliverable: Curriculum Development Lab: Assessment Plan Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Assessment\nDeliverable: Curriculum Development Lab: Unplugged Activity Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Unplugged
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c22
+UID:00000000-0000-0000-0000-0448a1e07c14
 DTSTAMP:20231019T000000Z
 DTSTART;VALUE=DATE:20231019
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: UbD Lightning Talk Reflection Due
@@ -358,16 +232,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c23
-DTSTAMP:20231019T000000Z
-DTSTART;VALUE=DATE:20231019
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CS4All\nReading: How Might I Proactively Differentiate my CS Instruction to Reach All Learners? https://blueprint.cs4all.nyc/resources/differentiate-instruction\nReading: Project TACTIC: Teaching All Computational Thinking through Inclusion and Collaboration https://ctrl.education.ufl.edu/wp-content/uploads/sites/5/2020/06/CTRL-TACTIC-UniversalDesign.pdf\nReading: Universal Design for Learning for Computer Science (UDL4CS) https://udl4cs.education.ufl.edu/interactive-table/\nReading: CS Education Chapter 10\nDeliverable: Reflection: UbD Lightning Talk Reflection Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/UbDLightningTalk
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c24
+UID:00000000-0000-0000-0000-0448a1e07c15
 DTSTAMP:20231024T000000Z
 DTSTART;VALUE=DATE:20231024
 SUMMARY:CS471 Computer Science Pedagogy: Technical Project and Presentation: Project Handed Out
@@ -376,7 +241,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c25
+UID:00000000-0000-0000-0000-0448a1e07c16
 DTSTAMP:20231024T000000Z
 DTSTART;VALUE=DATE:20231024
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: CS4All and UDL Handed Out
@@ -385,16 +250,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c26
-DTSTAMP:20231024T000000Z
-DTSTART;VALUE=DATE:20231024
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Technical Project and Presentation: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject\nDeliverable: Written Assignment: CS4All and UDL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c27
+UID:00000000-0000-0000-0000-0448a1e07c17
 DTSTAMP:20231026T000000Z
 DTSTART;VALUE=DATE:20231026
 SUMMARY:CS471 Computer Science Pedagogy: Service Learning Classroom Project: Project Handed Out
@@ -403,16 +259,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c28
-DTSTAMP:20231026T000000Z
-DTSTART;VALUE=DATE:20231026
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Service Learning Classroom Project: Project Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c29
+UID:00000000-0000-0000-0000-0448a1e07c18
 DTSTAMP:20231031T000000Z
 DTSTART;VALUE=DATE:20231031
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: Unplugged Activity Due
@@ -421,25 +268,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2a
-DTSTAMP:20231031T000000Z
-DTSTART;VALUE=DATE:20231031
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Curriculum Development Lab: Unplugged Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/Unplugged
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2b
-DTSTAMP:20231102T000000Z
-DTSTART;VALUE=DATE:20231102
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/POGIL\nReading: CS-POGIL https://cspogil.org/Home\nReading: CS-POGIL Roles and Role Cards https://cspogil.org/Roles+and+Role+Cards\nReading: CS Education Chapters 11 through 13
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2c
+UID:00000000-0000-0000-0000-0448a1e07c19
 DTSTAMP:20231107T000000Z
 DTSTART;VALUE=DATE:20231107
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: CS4All and UDL Due
@@ -448,7 +277,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2d
+UID:00000000-0000-0000-0000-0448a1e07c1a
 DTSTAMP:20231107T000000Z
 DTSTART;VALUE=DATE:20231107
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: CS Across the Disciplines Handed Out
@@ -457,16 +286,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2e
-DTSTAMP:20231107T000000Z
-DTSTART;VALUE=DATE:20231107
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Written Assignment: CS4All and UDL Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/CS4AllUDL\nDeliverable: Written Assignment: CS Across the Disciplines Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/UbiquitousCS
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c2f
+UID:00000000-0000-0000-0000-0448a1e07c1b
 DTSTAMP:20231109T000000Z
 DTSTART;VALUE=DATE:20231109
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: POGIL Activity Handed Out
@@ -475,25 +295,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c30
-DTSTAMP:20231109T000000Z
-DTSTART;VALUE=DATE:20231109
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/CSUnitDesign\nReading: Learning and Teaching - a Philosophy, a Guideline, a Discussion http://ispython.com/pedagogy/\nReading: Promoting Effective Computing Pedagogy (TeachComputing) https://teachcomputing.org/pedagogy\nReading: Effective Computing Pedagogy Examples https://blog.teachcomputing.org/tag/pedagogy/\nDeliverable: Curriculum Development Lab: POGIL Activity Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/POGIL
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c31
-DTSTAMP:20231114T000000Z
-DTSTART;VALUE=DATE:20231114
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Feedback\nReading: Project TACTIC: Utilizing the Universal Design for Learning Framework in Computer Science Education https://ctrl.education.illinois.edu/TACTICal/udl.html\nReading: Project TACTIC: UDL Planning Process Example https://ctrl.education.illinois.edu/TACTICal/udl/planning-process-example.html\nReading: CS Education Chapter 6\nReading: CS Education Chapter 16\nReading: Big Book of Pedagogy - Assessment for Learning
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c32
+UID:00000000-0000-0000-0000-0448a1e07c1c
 DTSTAMP:20231116T000000Z
 DTSTART;VALUE=DATE:20231116
 SUMMARY:CS471 Computer Science Pedagogy: Service Learning Classroom Project: Project First Draft Due
@@ -502,7 +304,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c33
+UID:00000000-0000-0000-0000-0448a1e07c1d
 DTSTAMP:20231116T000000Z
 DTSTART;VALUE=DATE:20231116
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: POGIL Activity Due
@@ -511,16 +313,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c34
-DTSTAMP:20231116T000000Z
-DTSTART;VALUE=DATE:20231116
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Accessibility\nReading: Web Content Accessibility Guidelines (WCAG) https://www.w3.org/TR/WCAG21/\nReading: Web Accessibility Evaluation (WAVE) Tool https://wave.webaim.org/\nReading: How to Design Computer Science for Students with Disabilities https://www.edweek.org/teaching-learning/how-to-design-computer-science-for-students-with-disabilities/2018/10\nReading: Promoting persistence: Can computer science career and technical education courses support educational advancement for students with learning disabilities? (Plasman et al) https://www.researchgate.net/publication/358630604_Promoting_persistence_Can_computer_science_career_and_technical_education_courses_support_educational_advancement_for_students_with_learning_disabilities\nReading: Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs by Bonnette https://par.nsf.gov/biblio/10356929\nDeliverable: Service Learning Classroom Project: Project First Draft Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: POGIL Activity Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/POGIL
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c35
+UID:00000000-0000-0000-0000-0448a1e07c1e
 DTSTAMP:20231121T000000Z
 DTSTART;VALUE=DATE:20231121
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: Peer Review and Assessment Handed Out
@@ -529,16 +322,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c36
-DTSTAMP:20231121T000000Z
-DTSTART;VALUE=DATE:20231121
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/SEL\nReading: Fundamentals of SEL https://casel.org/fundamentals-of-sel/\nReading: The Big Book of Computing Content\nDeliverable: Reflection: Peer Review and Assessment Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c37
+UID:00000000-0000-0000-0000-0448a1e07c1f
 DTSTAMP:20231128T000000Z
 DTSTART;VALUE=DATE:20231128
 SUMMARY:CS471 Computer Science Pedagogy: Technical Project and Presentation: Project Due
@@ -547,16 +331,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c38
-DTSTAMP:20231128T000000Z
-DTSTART;VALUE=DATE:20231128
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nReading: Make Computational Thinking a Social-Emotional Learning Experience https://equip.learning.com/computational-thinking-social-emotional-learning\nReading: Importance of SEL in a CS Environment http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html\nDeliverable: Technical Project and Presentation: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/TechnicalProject
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c39
+UID:00000000-0000-0000-0000-0448a1e07c20
 DTSTAMP:20231130T000000Z
 DTSTART;VALUE=DATE:20231130
 SUMMARY:CS471 Computer Science Pedagogy: Reflection: Peer Review and Assessment Due
@@ -565,7 +340,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3a
+UID:00000000-0000-0000-0000-0448a1e07c21
 DTSTAMP:20231130T000000Z
 DTSTART;VALUE=DATE:20231130
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: SEL Handed Out
@@ -574,16 +349,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3b
-DTSTAMP:20231130T000000Z
-DTSTART;VALUE=DATE:20231130
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:https://www.billmongan.com/Ursinus-CSPedagogy/./Activities/Equity\nReading: Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed) https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf\nReading: CS Education Chapters 7 through 9\nReading: Big Book of Pedagogy - Culturally Relevant Pedagogy\nReading: CS Education Chapter 14\nReading: Equity in Computer Science Education https://k12cs.org/equity-in-computer-science-education/\nDeliverable: Reflection: Peer Review and Assessment Due https://www.billmongan.com/Ursinus-CSPedagogy/Reflections/PeerReviewAssessment\nDeliverable: Curriculum Development Lab: SEL Handed Out https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3c
+UID:00000000-0000-0000-0000-0448a1e07c22
 DTSTAMP:20231205T000000Z
 DTSTART;VALUE=DATE:20231205
 SUMMARY:CS471 Computer Science Pedagogy: Written Assignment: CS Across the Disciplines Due
@@ -592,16 +358,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3d
-DTSTAMP:20231205T000000Z
-DTSTART;VALUE=DATE:20231205
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Written Assignment: CS Across the Disciplines Due https://www.billmongan.com/Ursinus-CSPedagogy/Assignments/UbiquitousCS
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3e
+UID:00000000-0000-0000-0000-0448a1e07c23
 DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
 SUMMARY:CS471 Computer Science Pedagogy: Service Learning Classroom Project: Project Due
@@ -610,7 +367,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c3f
+UID:00000000-0000-0000-0000-0448a1e07c24
 DTSTAMP:20231207T000000Z
 DTSTART;VALUE=DATE:20231207
 SUMMARY:CS471 Computer Science Pedagogy: Curriculum Development Lab: SEL Due
@@ -619,16 +376,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c40
-DTSTAMP:20231207T000000Z
-DTSTART;VALUE=DATE:20231207
-SUMMARY:CS471 Computer Science Pedagogy: Class Meeting
-LOCATION:
-DESCRIPTION:\nDeliverable: Service Learning Classroom Project: Project Due https://www.billmongan.com/Ursinus-CSPedagogy/Projects/ServiceLearning\nDeliverable: Curriculum Development Lab: SEL Due https://www.billmongan.com/Ursinus-CSPedagogy/Labs/SEL
-PRIORITY:3
-END:VEVENT
-BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c41
+UID:00000000-0000-0000-0000-0448a1e07c25
 DTSTAMP;TZID=US-Eastern:20230828T100000
 DTSTART;TZID=US-Eastern:20230828T100000
 DTEND;TZID=US-Eastern:20230828T120000
@@ -648,7 +396,7 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c42
+UID:00000000-0000-0000-0000-0448a1e07c26
 DTSTAMP;TZID=US-Eastern:20230828T130000
 DTSTART;TZID=US-Eastern:20230828T130000
 DTEND;TZID=US-Eastern:20230828T140000
@@ -668,10 +416,10 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c43
-DTSTAMP;TZID=US-Eastern:20230828T111500
-DTSTART;TZID=US-Eastern:20230828T111500
-DTEND;TZID=US-Eastern:20230828T120000
+UID:00000000-0000-0000-0000-0448a1e07c27
+DTSTAMP;TZID=US-Eastern:20230829T111500
+DTSTART;TZID=US-Eastern:20230829T111500
+DTEND;TZID=US-Eastern:20230829T120000
 RRULE:FREQ=WEEKLY;BYDAY=TU;INTERVAL=1;UNTIL=20231208T235959Z
 EXDATE:20231014
 EXDATE:20231015
@@ -688,10 +436,10 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c44
-DTSTAMP;TZID=US-Eastern:20230828T111500
-DTSTART;TZID=US-Eastern:20230828T111500
-DTEND;TZID=US-Eastern:20230828T120000
+UID:00000000-0000-0000-0000-0448a1e07c28
+DTSTAMP;TZID=US-Eastern:20230831T111500
+DTSTART;TZID=US-Eastern:20230831T111500
+DTEND;TZID=US-Eastern:20230831T120000
 RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=1;UNTIL=20231208T235959Z
 EXDATE:20231014
 EXDATE:20231015
@@ -708,10 +456,10 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c45
-DTSTAMP;TZID=US-Eastern:20230828T160000
-DTSTART;TZID=US-Eastern:20230828T160000
-DTEND;TZID=US-Eastern:20230828T170000
+UID:00000000-0000-0000-0000-0448a1e07c29
+DTSTAMP;TZID=US-Eastern:20230831T160000
+DTSTART;TZID=US-Eastern:20230831T160000
+DTEND;TZID=US-Eastern:20230831T170000
 RRULE:FREQ=WEEKLY;BYDAY=TH;INTERVAL=1;UNTIL=20231208T235959Z
 EXDATE:20231014
 EXDATE:20231015
@@ -728,7 +476,17 @@ DESCRIPTION:
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c46
+UID:00000000-0000-0000-0000-0448a1e07c2a
+DTSTAMP;TZID=US-Eastern:20231213T090000
+DTSTART;TZID=US-Eastern:20231213T090000
+DTEND;TZID=US-Eastern:20231213T120000
+SUMMARY:CS471 Computer Science Pedagogy: Final Exam
+LOCATION:Pfahler 109
+DESCRIPTION:
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:00000000-0000-0000-0000-0448a1e07c2b
 DTSTAMP:20230908T000000Z
 DTSTART;VALUE=DATE:20230908
 SUMMARY:Add Deadline
@@ -737,7 +495,7 @@ DESCRIPTION:Add Deadline
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c47
+UID:00000000-0000-0000-0000-0448a1e07c2c
 DTSTAMP:20231013T000000Z
 DTSTART;VALUE=DATE:20231013
 SUMMARY:Mid Semester Grades Posted
@@ -746,7 +504,7 @@ DESCRIPTION:Mid Semester Grades Posted
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c48
+UID:00000000-0000-0000-0000-0448a1e07c2d
 DTSTAMP:20231025T000000Z
 DTSTART;VALUE=DATE:20231025
 SUMMARY:Drop with a W Deadline
@@ -755,7 +513,7 @@ DESCRIPTION:Drop with a W Deadline
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c49
+UID:00000000-0000-0000-0000-0448a1e07c2e
 DTSTAMP:20231209T000000Z
 DTSTART;VALUE=DATE:20231209
 SUMMARY:Reading Day
@@ -764,7 +522,7 @@ DESCRIPTION:Reading Day
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c4a
+UID:00000000-0000-0000-0000-0448a1e07c2f
 DTSTAMP:20231211T000000Z
 DTSTART;VALUE=DATE:20231211
 SUMMARY:Finals Week Begins
@@ -773,7 +531,7 @@ DESCRIPTION:Finals Week Begins
 PRIORITY:3
 END:VEVENT
 BEGIN:VEVENT
-UID:00000000-0000-0000-0000-0448a1e07c4b
+UID:00000000-0000-0000-0000-0448a1e07c30
 DTSTAMP:20231216T000000Z
 DTSTART;VALUE=DATE:20231216
 SUMMARY:Finals Week Ends
