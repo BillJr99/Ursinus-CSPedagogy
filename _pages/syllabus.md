@@ -255,19 +255,12 @@ schedule:
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
   - week: "2"
     date: "1"
-    title: "Lightning Talks"
-    deliverables:
-      - dtitle: "Curriculum Development Lab: Lightning Talk Due"
-        dlink: "Labs/LightningTalk"
-        points: 10
-      - dtitle: "Reflection: Lightning Talk Reflection Handed Out"
-        dlink: "Reflections/LightningTalk"
-        points: 10
-        submission_types: "onpaper"
-  - week: "3"
-    date: "0"
     title: "Assessing Learning: Bloom's Taxonomy"
     link: "./Activities/Bloom"
+  - week: "3"
+    date: "0"
+    title: "Assessing Learning: Rubrics and Contract Grading"
+    link: "./Activities/RubricContract"
     deliverables:
       - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Handed Out"
         dlink: "Assignments/FramingLightningUBD"
@@ -279,10 +272,12 @@ schedule:
         rlink: "https://www.simplypsychology.org/maslow.html"
   - week: "3"
     date: "1"
-    title: "Assessing Learning: Rubrics and Contract Grading"
-    link: "./Activities/RubricContract"
+    title: "Lightning Talks"
     deliverables:
-      - dtitle: "Reflection: Lightning Talk Reflection Due"
+      - dtitle: "Curriculum Development Lab: Lightning Talk Due"
+        dlink: "Labs/LightningTalk"
+        points: 10
+      - dtitle: "Reflection: Lightning Talk Reflection Handed Out"
         dlink: "Reflections/LightningTalk"
         points: 10
         submission_types: "onpaper"
@@ -310,6 +305,11 @@ schedule:
     date: "1"
     title: "Using Kinesthetics: Computer Science Unplugged"
     link: "./Activities/CSUnplugged"
+    deliverables:
+      - dtitle: "Reflection: Lightning Talk Reflection Due"
+        dlink: "Reflections/LightningTalk"
+        points: 10
+        submission_types: "onpaper"
     readings:
       - rtitle: "Big Book of Pedagogy - Go Unplugged"
         rlink: false
