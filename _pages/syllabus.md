@@ -320,7 +320,7 @@ schedule:
     title: "UbD Lightning Talks"
     deliverables:
       - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Due"
-        dlink: "Assignments/FramingLightningUbD"
+        dlink: "Assignments/FramingLightningUBD"
         points: 100
         submission_types: "onpaper"
         rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
