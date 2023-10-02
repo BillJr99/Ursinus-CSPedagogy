@@ -46,11 +46,11 @@ info:
     - day: "T"
       starttime: "12:00 PM"
       endtime: "1:20 PM"
-      place: "PFA 109"
+      place: "Musser Auditorium"
     - day: "R"
       starttime: "12:00 PM"
       endtime: "1:20 PM"
-      place: "PFA 109" 
+      place: "Musser Auditorium" 
   midtermexam: 
     - mdate: "TBD"
       mstarttime: "TBD"
