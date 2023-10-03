@@ -324,10 +324,6 @@ schedule:
         points: 100
         submission_types: "onpaper"
         rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
-      - dtitle: "Reflection: UbD Lightning Talk Reflection Handed Out"
-        dlink: "Reflections/UbDLightningTalk"
-        points: 10
-        submission_types: "onpaper"
   - week: "5"
     date: "1"
     title: "Collaboration in the CS Classroom: Pair Programming and Think-Pair-Share"
@@ -380,11 +376,6 @@ schedule:
     date: "1"
     title: "CS4All: UDL for Inclusive Computing Pedagogy"
     link: "./Activities/CS4All"
-    deliverables:
-      - dtitle: "Reflection: UbD Lightning Talk Reflection Due"
-        dlink: "Reflections/UbDLightningTalk"
-        points: 10
-        submission_types: "onpaper"
     readings:
       - rtitle: "How Might I Proactively Differentiate my CS Instruction to Reach All Learners?"
         rlink: "https://blueprint.cs4all.nyc/resources/differentiate-instruction"
