@@ -10,6 +10,8 @@ info:
   additional_reading:
     - title: "CS Unplugged Book"
       link: "https://classic.csunplugged.org/documents/books/english/CSUnplugged_OS_2015_v3.1.pdf"
+    - title: "CS Unplugged Activities from NCWIT"
+      link: "https://ncwit.org/resource/unplugged/"
   guidingquestions:
     - "Brainstorm a series of unplugged activities for your lightning talk topic.  Share with your small group, and choose one activity to design and share with the class."
     
