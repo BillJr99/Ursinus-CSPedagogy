@@ -11,6 +11,8 @@ info:
   additional_reading:
     - title: "Bloom's Taxonomy"
       link: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
+    - title: "Feedback in Practice - Research for Teachers"
+      link: "https://tanginstitute.andover.edu/files/Feedback-in-Practice.pdf"
   guidingquestions:
     - "Why might learning goals that say students will &quot;understand&quot; be less effective than other verbs?  What are good alternatives, and why?"      
     - "Is it a good goal to aim at the top of Bloom's Taxonomy all the time, or vary assessment between all layers?"
