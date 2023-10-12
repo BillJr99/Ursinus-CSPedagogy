@@ -357,8 +357,6 @@ schedule:
         rlink: "https://udlguidelines.cast.org/"
       - rtitle: "Big Book of Pedagogy - UDL"
         rlink: false
-      - rtitle: "Pedagogy That Supports Computer Science for All (Ryoo)"
-        rlink: "https://dl.acm.org/doi/10.1145/3322210"
   - week: "6"
     date: "1"
     title: "Inclusive Pedagogy: Universal Design for Learning (UDL)"
