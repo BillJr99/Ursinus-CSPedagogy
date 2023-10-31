@@ -44,6 +44,8 @@ info:
       rtitle: "CS Fundamentals Unplugged"
     - rlink: "https://www.digitalsignature.fm/"
       rtitle: "The Digital Signature Podcast"
+    - rtitle: "CSTA Teaching Standards"
+      rlink: "https://csteachers.org/k12standards/interactive/"
     
   questions:
     - "What are the key principles of CS Unplugged and kinesthetic learning?"
@@ -71,7 +73,7 @@ For this assignment, you will design an unplugged or kinesthetic activity to tea
    - Step-by-step instructions for the activity
    - Ways to make the activity accessible to all students
    - Assessment strategies (formative and/or summative)
-   - Explanations for how the activity aligns to standards
+   - Explanations for how the activity aligns to [standards](https://csteachers.org/k12standards/interactive/)
 4. **Write a reflection** on the process of developing this activity. Discuss the following:
    - Why you chose this concept and activity
    - How the activity embodies principles of kinesthetic learning
