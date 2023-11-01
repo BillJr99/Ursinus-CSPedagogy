@@ -131,7 +131,7 @@ objectives:
 - objective: "To develop lessons in computing that engage learners according to pedagogical best practices"
 - objective: "To design educational activities that leverage the unique opportunities for collaboration in a computing classroom"
 - objective: "To engage learners across a diverse set of learning needs"
-- objective: "To construct and maintain an equitible and inclusive computing classroom environment"
+- objective: "To construct and maintain an equitable and inclusive computing classroom environment"
 - objective: "To employ multiple modalities and pathways to computing, including kinesthetics, design thinking, and effective group collaboration"
 
 goals:
