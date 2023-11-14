@@ -46,12 +46,54 @@ info:
             </marker>
           </defs>
         </svg>
-    title: "The Structure of Summative Assessment"
-    questions:
+      title: "The Structure of Summative Assessment"
+      questions:
       - "Why are summative assessments typically conducted at the end of an instructional period, and what are their main purposes?"
       - "How can summative assessments be designed to align with the learning objectives and competencies outlined in the curriculum?"
       - "What are some common types of summative assessments, and how do they vary in terms of format, content, and evaluation criteria?"
       - "How can the results of summative assessments be used to inform future instructional planning, and what ethical considerations must be taken into account?"
+    - model: |
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+        <!-- Title -->
+        <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold">Formative Assessment Cycle</text>
+
+        <!-- Cycle Components -->
+        <!-- Identify Learning Goals -->
+        <circle cx="400" cy="200" r="50" fill="#f2a365"/>
+        <text x="400" y="200" text-anchor="middle" font-size="14" fill="white">Identify Learning Goals</text>
+
+        <!-- Gather Evidence -->
+        <circle cx="200" cy="400" r="50" fill="#f28d35"/>
+        <text x="200" y="400" text-anchor="middle" font-size="14" fill="white">Gather Evidence</text>
+
+        <!-- Provide Feedback -->
+        <circle cx="400" cy="400" r="50" fill="#d83367"/>
+        <text x="400" y="400" text-anchor="middle" font-size="14" fill="white">Provide Feedback</text>
+
+        <!-- Adjust Teaching -->
+        <circle cx="600" cy="400" r="50" fill="#a32a44"/>
+        <text x="600" y="400" text-anchor="middle" font-size="14" fill="white">Adjust Teaching</text>
+
+        <!-- Arrows -->
+        <path d="M400 250 L200 350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M200 350 L400 350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M400 350 L600 350" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+        <path d="M600 350 L400 250" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+        <!-- Arrow Definition -->
+        <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+          <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
+        </marker>
+        </defs>
+        </svg>
+    title: "The Cycle of Formative Assessment"
+    questions:
+      - "Why is formative assessment known as a cycle?"
+      - "How does formative assessment differ from summative assessment, and why is it considered an ongoing process?"
+      - "What are some examples of tools or methods that can be used in the &quot;Gather Evidence&quot; stage of formative assessment?"
+      - "How can formative assessment be integrated into various teaching strategies such as lectures, discussions, or project-based learning?"
+      - "What challenges might educators face in implementing formative assessment, and how can they be addressed?"
       
 tags:
   - assessment
