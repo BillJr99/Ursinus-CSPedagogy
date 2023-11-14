@@ -13,39 +13,39 @@ info:
     - "What are some ways that we can move beyond grades as a means of giving feedback?"
   models:
     - model: |
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-          <!-- Title -->
-          <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold">Summative Assessment Framework</text>
-      
-          <!-- Framework Components -->
-          <!-- Define Objectives -->
-          <circle cx="200" cy="200" r="80" fill="#6db1bf"/>
-          <text x="200" y="200" text-anchor="middle" font-size="14" fill="white">Define Objectives</text>
-      
-          <!-- Design Assessment -->
-          <circle cx="400" cy="200" r="80" fill="#4a90a4"/>
-          <text x="400" y="200" text-anchor="middle" font-size="14" fill="white">Design Assessment</text>
-      
-          <!-- Administer Assessment -->
-          <circle cx="600" cy="200" r="80" fill="#2f5f6b"/>
-          <text x="600" y="200" text-anchor="middle" font-size="14" fill="white">Administer Assessment</text>
-      
-          <!-- Evaluate Results -->
-          <circle cx="400" cy="400" r="80" fill="#1c3d40"/>
-          <text x="400" y="400" text-anchor="middle" font-size="14" fill="white">Evaluate Results</text>
-      
-          <!-- Arrows -->
-          <path d="M280 200 L400 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-          <path d="M400 200 L520 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-          <path d="M600 200 L400 320" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-      
-          <!-- Arrow Definition -->
-          <defs>
-              <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
-                  <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
-              </marker>
-          </defs>
-      </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+            <!-- Title -->
+            <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold">Summative Assessment Framework</text>
+        
+            <!-- Framework Components -->
+            <!-- Define Objectives -->
+            <circle cx="200" cy="200" r="80" fill="#6db1bf"/>
+            <text x="200" y="200" text-anchor="middle" font-size="14" fill="white">Define Objectives</text>
+        
+            <!-- Design Assessment -->
+            <circle cx="400" cy="200" r="80" fill="#4a90a4"/>
+            <text x="400" y="200" text-anchor="middle" font-size="14" fill="white">Design Assessment</text>
+        
+            <!-- Administer Assessment -->
+            <circle cx="600" cy="200" r="80" fill="#2f5f6b"/>
+            <text x="600" y="200" text-anchor="middle" font-size="14" fill="white">Administer Assessment</text>
+        
+            <!-- Evaluate Results -->
+            <circle cx="400" cy="400" r="80" fill="#1c3d40"/>
+            <text x="400" y="400" text-anchor="middle" font-size="14" fill="white">Evaluate Results</text>
+        
+            <!-- Arrows -->
+            <path d="M280 200 L400 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+            <path d="M400 200 L520 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+            <path d="M600 200 L400 320" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+        
+            <!-- Arrow Definition -->
+            <defs>
+                <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+                    <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
+                </marker>
+            </defs>
+        </svg>
       title: "The Structure of Summative Assessment"
       questions:
       - "Why are summative assessments typically conducted at the end of an instructional period, and what are their main purposes?"
@@ -53,40 +53,40 @@ info:
       - "What are some common types of summative assessments, and how do they vary in terms of format, content, and evaluation criteria?"
       - "How can the results of summative assessments be used to inform future instructional planning, and what ethical considerations must be taken into account?"
     - model: |
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
-          <!-- Title -->
-          <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold">Formative Assessment Cycle</text>
-      
-          <!-- Cycle Components -->
-          <!-- Identify Learning Goals -->
-          <circle cx="400" cy="200" r="80" fill="#f2a365"/>
-          <text x="400" y="200" text-anchor="middle" font-size="14" fill="white">Identify Learning Goals</text>
-      
-          <!-- Gather Evidence -->
-          <circle cx="200" cy="400" r="80" fill="#f28d35"/>
-          <text x="200" y="400" text-anchor="middle" font-size="14" fill="white">Gather Evidence</text>
-      
-          <!-- Provide Feedback -->
-          <circle cx="400" cy="400" r="80" fill="#d83367"/>
-          <text x="400" y="400" text-anchor="middle" font-size="14" fill="white">Provide Feedback</text>
-      
-          <!-- Adjust Teaching -->
-          <circle cx="600" cy="400" r="80" fill="#a32a44"/>
-          <text x="600" y="400" text-anchor="middle" font-size="14" fill="white">Adjust Teaching</text>
-      
-          <!-- Arrows -->
-          <path d="M480 200 L200 320" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-          <path d="M200 400 L400 400" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-          <path d="M400 400 L600 400" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-          <path d="M600 400 L480 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
-      
-          <!-- Arrow Definition -->
-          <defs>
-              <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
-                  <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
-              </marker>
-          </defs>
-      </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+            <!-- Title -->
+            <text x="400" y="40" text-anchor="middle" font-size="24" font-weight="bold">Formative Assessment Cycle</text>
+        
+            <!-- Cycle Components -->
+            <!-- Identify Learning Goals -->
+            <circle cx="400" cy="200" r="80" fill="#f2a365"/>
+            <text x="400" y="200" text-anchor="middle" font-size="14" fill="white">Identify Learning Goals</text>
+        
+            <!-- Gather Evidence -->
+            <circle cx="200" cy="400" r="80" fill="#f28d35"/>
+            <text x="200" y="400" text-anchor="middle" font-size="14" fill="white">Gather Evidence</text>
+        
+            <!-- Provide Feedback -->
+            <circle cx="400" cy="400" r="80" fill="#d83367"/>
+            <text x="400" y="400" text-anchor="middle" font-size="14" fill="white">Provide Feedback</text>
+        
+            <!-- Adjust Teaching -->
+            <circle cx="600" cy="400" r="80" fill="#a32a44"/>
+            <text x="600" y="400" text-anchor="middle" font-size="14" fill="white">Adjust Teaching</text>
+        
+            <!-- Arrows -->
+            <path d="M480 200 L200 320" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+            <path d="M200 400 L400 400" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+            <path d="M400 400 L600 400" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+            <path d="M600 400 L480 200" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+        
+            <!-- Arrow Definition -->
+            <defs>
+                <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+                    <path d="M0,0 L0,6 L9,3 z" fill="#333"/>
+                </marker>
+            </defs>
+        </svg>
       title: "The Cycle of Formative Assessment"
       questions:
       - "Why is formative assessment known as a cycle?"
