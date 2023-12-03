@@ -523,10 +523,6 @@ schedule:
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
         submission_types: "onpaper"
-      - dtitle: "Curriculum Development Lab: SEL Handed Out"
-        dlink: "Labs/SEL"
-        points: 10
-        rubricpath: "_pages/Labs/lab-sel.md"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -553,10 +549,6 @@ schedule:
       - dtitle: "Service Learning Classroom Project: Project Due"
         dlink: "Projects/ServiceLearning"
         points: 100
-      - dtitle: "Curriculum Development Lab: SEL Due"
-        dlink: "Labs/SEL"
-        points: 10
-        rubricpath: "_pages/Labs/lab-sel.md"
           
 university:
   semester: "Fall"
