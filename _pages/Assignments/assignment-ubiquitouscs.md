@@ -16,7 +16,7 @@ info:
       rlink: "https://dl.acm.org/doi/10.1145/3287324.3287469"
 
   rubric:
-  - weight: 25
+  - weight: 20
     description: Forming the Research Question
     preemerging: Presents a question that is not answerable from a consideration of research literature (for example, a superficial statement of opinion).
     beginning: Presents a reasonable research question about the applicability of CS across the disciplines, but presents the question in a one-sided way (such that the answer is trivially in the affirmative or in the negative).
