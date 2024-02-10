@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/POGIL
 title: "CS471: Computer Science Pedagogy - POGIL Activity"
-excerpt: "CS471: Computer Science Pedagogy - POGIL Activity"
+
 
 info:
   coursenum: CS471

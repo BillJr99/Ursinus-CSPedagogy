@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Projects/TechnicalProject
 title: "CS471: Computer Science Pedagogy - Technical Project and Presentation"
-excerpt: "CS471: Computer Science Pedagogy - Technical Project and Presentation"
+
 
 info:
   coursenum: CS471

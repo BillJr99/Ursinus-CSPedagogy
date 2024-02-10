@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/Equity
 title: "CS471: Computer Science Pedagogy - Equity Pedagogies in Computer Science"
-excerpt: "CS471: Computer Science Pedagogy - Equity Pedagogies in Computer Science"
+
 
 info:
   goals: 

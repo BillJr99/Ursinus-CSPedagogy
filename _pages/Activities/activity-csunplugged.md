@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/CSUnplugged
 title: "CS471: Computer Science Pedagogy - CS Unplugged"
-excerpt: "CS471: Computer Science Pedagogy - CS Unplugged"
+
 
 info:
   goals: 

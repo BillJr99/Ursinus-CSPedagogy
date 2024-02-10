@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/UbDLessonPlan
 title: "CS471: Computer Science Pedagogy - UbD Lesson Plan"
-excerpt: "CS471: Computer Science Pedagogy - UbD Lesson Plan"
+
 
 info:
   coursenum: CS471

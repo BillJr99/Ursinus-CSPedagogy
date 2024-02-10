@@ -2,7 +2,7 @@
 layout: assignment
 permalink: /Assignments/Participation/PreAssessment
 title: "CS471: Computer Science Pedagogy - Participation Pre Assessment"
-excerpt: "CS471: Computer Science Pedagogy - Participation Pre Assessment"
+
 
 info:
   coursenum: CS471

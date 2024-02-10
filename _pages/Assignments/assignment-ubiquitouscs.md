@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Assignments/UbiquitousCS
 title: "CS471: Computer Science Pedagogy - CS Across the Disciplines"
-excerpt: "CS471: Computer Science Pedagogy - CS Across the Disciplines"
+
 
 info:
   coursenum: CS471

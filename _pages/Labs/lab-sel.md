@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/SEL
 title: "CS471: Computer Science Pedagogy - Incorporating SEL into Lesson Planning"
-excerpt: "CS471: Computer Science Pedagogy - Incorporating SEL into Lesson Planning"
+
 
 info:
   coursenum: CS471

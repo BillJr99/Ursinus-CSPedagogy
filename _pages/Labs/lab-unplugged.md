@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/Unplugged
 title: "CS471: Computer Science Pedagogy - Unplugged Activity"
-excerpt: "CS471: Computer Science Pedagogy - Unplugged Activity"
+
 
 info:
   coursenum: CS471

@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Reflections/PeerReviewAssessment
 title: "CS471: Computer Science Pedagogy - Peer Review and Assessment"
-excerpt: "CS471: Computer Science Pedagogy - Peer Review and Assessment"
+
 
 info:
   coursenum: CS471

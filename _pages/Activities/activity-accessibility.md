@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/Accessibility
 title: "CS471: Computer Science Pedagogy - Accessibility"
-excerpt: "CS471: Computer Science Pedagogy - Accessibility"
+
 
 info:
   goals: 

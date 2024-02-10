@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/RubricContract
 title: "CS471: Computer Science Pedagogy - Rubrics and Contract Grading"
-excerpt: "CS471: Computer Science Pedagogy - Rubrics and Contract Grading"
+
 
 info:
   goals: 

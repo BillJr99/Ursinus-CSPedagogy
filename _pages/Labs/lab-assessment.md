@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/Assessment
 title: "CS471: Computer Science Pedagogy - Assessment Plan"
-excerpt: "CS471: Computer Science Pedagogy - Assessment Plan"
+
 
 info:
   coursenum: CS471

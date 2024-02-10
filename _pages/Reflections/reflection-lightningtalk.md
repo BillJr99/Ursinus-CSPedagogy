@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Reflections/LightningTalk
 title: "CS471: Computer Science Pedagogy - Lightning Talk"
-excerpt: "CS471: Computer Science Pedagogy - Lightning Talk"
+
 
 info:
   coursenum: CS471

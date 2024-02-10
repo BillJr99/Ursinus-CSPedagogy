@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Assignments/FramingLightningUBD
 title: "CS471: Computer Science Pedagogy - Framing Your Lightning Talk in UbD"
-excerpt: "CS471: Computer Science Pedagogy - Framing Your Lightning Talk in UbD"
+
 
 info:
   coursenum: CS471

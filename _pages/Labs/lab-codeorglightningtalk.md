@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Labs/CodeOrgLightningTalk
 title: "CS471: Computer Science Pedagogy - code.org Lightning Talk"
-excerpt: "CS471: Computer Science Pedagogy - code.org Lightning Talk"
+
 
 info:
   coursenum: CS471

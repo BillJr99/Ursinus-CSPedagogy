@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/CS4All
 title: "CS471: Computer Science Pedagogy - CS4All: UDL for Inclusive Computing Pedagogy"
-excerpt: "CS471: Computer Science Pedagogy - CS4All: UDL for Inclusive Computing Pedagogy"
+
 
 info:
   goals: 

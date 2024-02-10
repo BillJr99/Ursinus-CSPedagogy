@@ -2,7 +2,7 @@
 layout: syllabus
 permalink: /
 title: "CS471: Computer Science Pedagogy"
-excerpt: "CS471: Computer Science Pedagogy"
+
     
 info:
   course_number: CS471

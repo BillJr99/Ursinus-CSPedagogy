@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/SEL
 title: "CS471: Computer Science Pedagogy - Social Emotional Learning"
-excerpt: "CS471: Computer Science Pedagogy - Social Emotional Learning"
+
 
 info:
   goals: 

@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/Feedback
 title: "CS471: Computer Science Pedagogy - From Grades to Feedback: Formative and Summative Assessments"
-excerpt: "CS471: Computer Science Pedagogy - From Grades to Feedback: Formative and Summative Assessments"
+
 
 info:
   goals: 

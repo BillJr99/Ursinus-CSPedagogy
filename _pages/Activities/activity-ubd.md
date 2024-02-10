@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/UBD
 title: "CS471: Computer Science Pedagogy - Understanding by Design"
-excerpt: "CS471: Computer Science Pedagogy - Understanding by Design"
+
 
 info:
   next: ./UBD2

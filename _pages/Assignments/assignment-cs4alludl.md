@@ -2,7 +2,7 @@
 layout: assignment
 permalink: Assignments/CS4AllUDL
 title: "CS471: Computer Science Pedagogy - CS4All and UDL"
-excerpt: "CS471: Computer Science Pedagogy - Applying CS4All and UDL Principles to Lesson Planning"
+
 
 info:
   coursenum: CS471

@@ -2,7 +2,7 @@
 layout: assignment
 permalink: /Projects/ServiceLearning
 title: "CS471: Computer Science Pedagogy - Service Learning Project"
-excerpt: "CS471: Computer Science Pedagogy - Service Learning Project"
+
 
 info:
   coursenum: CS471

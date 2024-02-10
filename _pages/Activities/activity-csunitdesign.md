@@ -2,7 +2,7 @@
 layout: activity
 permalink: /Activities/CSUnitDesign
 title: "CS471: Computer Science Pedagogy - Computer Science Unit Design"
-excerpt: "CS471: Computer Science Pedagogy - Computer Science Unit Design"
+
 
 info:
   goals:
