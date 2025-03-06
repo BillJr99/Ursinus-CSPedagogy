@@ -58,7 +58,7 @@ info:
           <text x="500" y="30" text-anchor="middle" font-size="20" font-weight="bold">Career Pathways to Computing</text>
 
           <!-- Education & Training Section -->
-          <rect x="50" y="60" width="200" height="120" fill="#e6f7ff"/>
+          <rect x="50" y="60" width="400" height="120" fill="#e6f7ff"/>
           <text x="150" y="90" text-anchor="middle" font-weight="bold">Education & Training</text>
           <text x="150" y="110" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Aligning curricula with industry demands</tspan>
@@ -66,15 +66,15 @@ info:
           </text>
 
           <!-- Diversity & Inclusion Section -->
-          <rect x="270" y="60" width="200" height="120" fill="#ffebcc"/>
-          <text x="370" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
-          <text x="370" y="110" text-anchor="middle" font-size="12">
-            <tspan x="370" dy="15">Promoting diversity in computing careers</tspan>
-            <tspan x="370" dy="15">for underrepresented groups.</tspan>
+          <rect x="470" y="60" width="400" height="120" fill="#ffebcc"/>
+          <text x="570" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
+          <text x="570" y="110" text-anchor="middle" font-size="12">
+            <tspan x="570" dy="15">Promoting diversity in computing careers</tspan>
+            <tspan x="570" dy="15">for underrepresented groups.</tspan>
           </text>
 
           <!-- Internships & Mentorships Section -->
-          <rect x="50" y="200" width="200" height="120" fill="#d9f7be"/>
+          <rect x="50" y="200" width="400" height="120" fill="#d9f7be"/>
           <text x="150" y="230" text-anchor="middle" font-weight="bold">Internships & Mentorships</text>
           <text x="150" y="250" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Role of practical experience in expanding</tspan>
@@ -82,15 +82,15 @@ info:
           </text>
 
           <!-- Industry Trends Section -->
-          <rect x="270" y="200" width="200" height="120" fill="#ffd1e8"/>
-          <text x="370" y="230" text-anchor="middle" font-weight="bold">Industry Trends</text>
-          <text x="370" y="250" text-anchor="middle" font-size="12">
-            <tspan x="370" dy="15">Understanding current trends and</tspan>
-            <tspan x="370" dy="15">future directions in computing.</tspan>
+          <rect x="470" y="200" width="400" height="120" fill="#ffd1e8"/>
+          <text x="570" y="230" text-anchor="middle" font-weight="bold">Industry Trends</text>
+          <text x="570" y="250" text-anchor="middle" font-size="12">
+            <tspan x="570" dy="15">Understanding current trends and</tspan>
+            <tspan x="570" dy="15">future directions in computing.</tspan>
           </text>
 
           <!-- Ethical Considerations Section -->
-          <rect x="50" y="340" width="200" height="120" fill="#ffe7e7"/>
+          <rect x="50" y="340" width="400" height="120" fill="#ffe7e7"/>
           <text x="150" y="370" text-anchor="middle" font-weight="bold">Ethical Considerations</text>
           <text x="150" y="390" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Instilling a sense of responsibility and</tspan>
@@ -127,7 +127,7 @@ Accessibility is an important aspect of educational design in the field of Compu
 
 ## Web Content Accessibility Guidelines (WCAG)
 
-The **Web Content Accessibility Guidelines (WCAG)** provide a comprehensive set of guidelines for making web content more accessible. These guidelines, formulated by the World Wide Web Consortium (W3C), aim to ensure that web content can be perceivable, operable, understandable, and robust for all users, including those with disabilities[^1].
+The **Web Content Accessibility Guidelines (WCAG)** provide a comprehensive set of guidelines for making web content more accessible. These guidelines, formulated by the World Wide Web Consortium (W3C), aim to ensure that web content can be perceivable, operable, understandable, and robust for all users, including those with disabilities.
 
 To implement WCAG guidelines, CS educators can adopt techniques such as:
 
@@ -151,7 +151,7 @@ For a more detailed understanding of WCAG guidelines and techniques, refer to th
 
 ## Web Accessibility Evaluation (WAVE) Tool
 
-The **Web Accessibility Evaluation (WAVE) Tool** is a web-based tool that helps in the evaluation of web content accessibility. It provides visual representations and detailed reports of the accessibility features and issues present in a web page. WAVE can be used by CS educators to identify and correct accessibility issues in their educational materials and websites[^2].
+The **Web Accessibility Evaluation (WAVE) Tool** is a web-based tool that helps in the evaluation of web content accessibility. It provides visual representations and detailed reports of the accessibility features and issues present in a web page. WAVE can be used by CS educators to identify and correct accessibility issues in their educational materials and websites.
 
 To utilize the WAVE Tool, educators can follow these steps:
 
@@ -162,7 +162,7 @@ To utilize the WAVE Tool, educators can follow these steps:
 
 ## How to Design Computer Science for Students with Disabilities
 
-The article "How to Design Computer Science for Students with Disabilities" published in EdWeek provides valuable insights into designing CS education that accommodates and supports students with disabilities[^3]. The article emphasizes the importance of Universal Design for Learning (UDL) principles, which promote accessible and flexible educational materials and activities.
+The article "How to Design Computer Science for Students with Disabilities" published in EdWeek provides valuable insights into designing CS education that accommodates and supports students with disabilities. The article emphasizes the importance of Universal Design for Learning (UDL) principles, which promote accessible and flexible educational materials and activities.
 
 CS educators can implement UDL principles in various ways such as:
 
@@ -172,7 +172,7 @@ CS educators can implement UDL principles in various ways such as:
 
 ## Promoting Persistence: Can Computer Science Career and Technical Education Courses Support Educational Advancement for Students with Learning Disabilities?
 
-The research study conducted by Plasman et al. explores the potential of computer science career and technical education (CTE) courses to support the educational advancement of students with learning disabilities[^4]. The study investigates the experiences of students and educators and highlights strategies that can foster persistence and success for students with disabilities in CS education.
+The research study conducted by Plasman et al. explores the potential of computer science career and technical education (CTE) courses to support the educational advancement of students with learning disabilities. The study investigates the experiences of students and educators and highlights strategies that can foster persistence and success for students with disabilities in CS education.
 
 CS educators can consider the following strategies based on the study's findings:
 
@@ -182,7 +182,7 @@ CS educators can consider the following strategies based on the study's findings
 
 ## Building Ecosystems of Belonging for Neurodiverse Students: A Discussion of Instructor Practices and Training Needs
 
-The article by Bonnette discusses the importance of creating inclusive learning environments for neurodiverse students in CS education[^5]. It provides valuable insights into instructor practices and training needs to ensure the inclusion and success of these students.
+The article by Bonnette discusses the importance of creating inclusive learning environments for neurodiverse students in CS education. It provides valuable insights into instructor practices and training needs to ensure the inclusion and success of these students.
 
 CS educators can consider the following practices to build inclusive environments:
 
