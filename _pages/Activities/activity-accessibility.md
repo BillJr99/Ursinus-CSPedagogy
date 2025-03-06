@@ -58,7 +58,7 @@ info:
           <text x="500" y="30" text-anchor="middle" font-size="20" font-weight="bold">Career Pathways to Computing</text>
 
           <!-- Education & Training Section -->
-          <rect x="50" y="60" width="400" height="120" fill="#e6f7ff"/>
+          <rect x="50" y="60" width="300" height="120" fill="#e6f7ff"/>
           <text x="150" y="90" text-anchor="middle" font-weight="bold">Education & Training</text>
           <text x="150" y="110" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Aligning curricula with industry demands</tspan>
@@ -66,15 +66,15 @@ info:
           </text>
 
           <!-- Diversity & Inclusion Section -->
-          <rect x="470" y="60" width="400" height="120" fill="#ffebcc"/>
-          <text x="570" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
-          <text x="570" y="110" text-anchor="middle" font-size="12">
-            <tspan x="570" dy="15">Promoting diversity in computing careers</tspan>
-            <tspan x="570" dy="15">for underrepresented groups.</tspan>
+          <rect x="370" y="60" width="300" height="120" fill="#ffebcc"/>
+          <text x="470" y="90" text-anchor="middle" font-weight="bold">Diversity & Inclusion</text>
+          <text x="470" y="110" text-anchor="middle" font-size="12">
+            <tspan x="470" dy="15">Promoting diversity in computing careers</tspan>
+            <tspan x="470" dy="15">for underrepresented groups.</tspan>
           </text>
 
           <!-- Internships & Mentorships Section -->
-          <rect x="50" y="200" width="400" height="120" fill="#d9f7be"/>
+          <rect x="50" y="200" width="300" height="120" fill="#d9f7be"/>
           <text x="150" y="230" text-anchor="middle" font-weight="bold">Internships & Mentorships</text>
           <text x="150" y="250" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Role of practical experience in expanding</tspan>
@@ -82,15 +82,15 @@ info:
           </text>
 
           <!-- Industry Trends Section -->
-          <rect x="470" y="200" width="400" height="120" fill="#ffd1e8"/>
-          <text x="570" y="230" text-anchor="middle" font-weight="bold">Industry Trends</text>
-          <text x="570" y="250" text-anchor="middle" font-size="12">
-            <tspan x="570" dy="15">Understanding current trends and</tspan>
-            <tspan x="570" dy="15">future directions in computing.</tspan>
+          <rect x="370" y="200" width="300" height="120" fill="#ffd1e8"/>
+          <text x="470" y="230" text-anchor="middle" font-weight="bold">Industry Trends</text>
+          <text x="470" y="250" text-anchor="middle" font-size="12">
+            <tspan x="470" dy="15">Understanding current trends and</tspan>
+            <tspan x="470" dy="15">future directions in computing.</tspan>
           </text>
 
           <!-- Ethical Considerations Section -->
-          <rect x="50" y="340" width="400" height="120" fill="#ffe7e7"/>
+          <rect x="50" y="340" width="300" height="120" fill="#ffe7e7"/>
           <text x="150" y="370" text-anchor="middle" font-weight="bold">Ethical Considerations</text>
           <text x="150" y="390" text-anchor="middle" font-size="12">
             <tspan x="150" dy="15">Instilling a sense of responsibility and</tspan>
