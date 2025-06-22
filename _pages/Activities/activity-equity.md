@@ -9,46 +9,52 @@ info:
     - To describe strategies for equity in CS pedagogy, including culturally responsive teaching   
   models:
     - model: |
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450">
             <!-- Title: Equity in Computer Science Education -->
-            <text x="500" y="40" text-anchor="middle" font-weight="bold">Equity in Computer Science Education</text>
-        
+            <text x="500" y="40" text-anchor="middle" font-weight="bold" font-size="20">Equity in Computer Science Education</text>
+
             <!-- Impacts of Computing -->
             <rect x="50" y="80" width="475" height="150" fill="#FFC300"/>
-            <text x="275" y="145" text-anchor="middle" font-weight="bold" fill="black">Impacts of Computing</text>
-            <text x="275" y="175" text-anchor="middle" font-size="10" fill="black">
-                <tspan x="275" dy="1.2em">The design and use of computing technologies and artifacts can improve, worsen, or maintain</tspan>
-                <tspan x="275" dy="1.2em">inequitable access to information and opportunities.</tspan>
+            <text x="275" y="125" text-anchor="middle" font-weight="bold" fill="black" font-size="14">Impacts of Computing</text>
+            <text x="275" y="145" text-anchor="middle" font-size="11" fill="black">
+                <tspan x="275" dy="0em">The design and use of computing technologies and artifacts can</tspan>
+                <tspan x="275" dy="1.2em">improve, worsen, or maintain inequitable access to information</tspan>
+                <tspan x="275" dy="1.2em">and opportunities.</tspan>
             </text>
-        
+
             <!-- Algorithms and Programming -->
             <rect x="550" y="80" width="475" height="150" fill="#3498DB"/>
-            <text x="775" y="145" text-anchor="middle" font-weight="bold" fill="black">Algorithms and Programming</text>
-            <text x="775" y="175" text-anchor="middle" font-size="10" fill="black">
-                <tspan x="775" dy="1.2em">People design meaningful solutions for others by defining a problem’s criteria and constraints,</tspan>
-                <tspan x="775" dy="1.2em">carefully considering the diverse needs and wants of the community, and testing whether criteria</tspan>
-                <tspan x="775" dy="1.2em">and constraints were met.</tspan>
+            <text x="775" y="125" text-anchor="middle" font-weight="bold" fill="black" font-size="14">Algorithms and Programming</text>
+            <text x="775" y="145" text-anchor="middle" font-size="11" fill="black">
+                <tspan x="775" dy="0em">People design meaningful solutions for others by defining a problem’s</tspan>
+                <tspan x="775" dy="1.2em">criteria and constraints, carefully considering the diverse needs and</tspan>
+                <tspan x="775" dy="1.2em">wants of the community, and testing whether criteria and constraints</tspan>
+                <tspan x="775" dy="1.2em">were met.</tspan>
             </text>
-        
+
             <!-- Fostering an Inclusive Computing Culture -->
             <rect x="50" y="260" width="475" height="150" fill="#E74C3C"/>
-            <text x="275" y="325" text-anchor="middle" font-weight="bold" fill="black">Fostering an Inclusive Computing Culture</text>
-            <text x="275" y="355" text-anchor="middle" font-size="10" fill="black">
-                <tspan x="275" dy="1.2em">Address the needs of diverse end users during the design process to produce artifacts with</tspan>
-                <tspan x="275" dy="1.2em">broad accessibility and usability.</tspan>
+            <text x="275" y="305" text-anchor="middle" font-weight="bold" fill="black" font-size="14">Fostering an Inclusive Computing Culture</text>
+            <text x="275" y="325" text-anchor="middle" font-size="11" fill="black">
+                <tspan x="275" dy="0em">Address the needs of diverse end users during the design process to</tspan>
+                <tspan x="275" dy="1.2em">produce artifacts with broad accessibility and usability.</tspan>
             </text>
-        
+
             <!-- Collaborating Around Computing -->
             <rect x="550" y="260" width="475" height="150" fill="#2ECC71"/>
-            <text x="775" y="325" text-anchor="middle" font-weight="bold" fill="black">Collaborating Around Computing</text>
-            <text x="775" y="355" text-anchor="middle" font-size="10" fill="black">
-                <tspan x="775" dy="1.2em">Cultivate working relationships with individuals possessing diverse perspectives, skills,</tspan>
-                <tspan x="775" dy="1.2em">and personalities.</tspan>
+            <text x="775" y="305" text-anchor="middle" font-weight="bold" fill="black" font-size="14">Collaborating Around Computing</text>
+            <text x="775" y="325" text-anchor="middle" font-size="11" fill="black">
+                <tspan x="775" dy="0em">Cultivate working relationships with individuals possessing diverse</tspan>
+                <tspan x="775" dy="1.2em">perspectives, skills, and personalities.</tspan>
             </text>
-        
+
             <!-- Source and License -->
-            <text x="500" y="750" text-anchor="middle" font-size="10" fill="black">Source: https://k12cs.org/equity-in-computer-science-education/</text>
-            <text x="500" y="770" text-anchor="middle" font-size="10" fill="black">License: CC BY-NC-SA 4.0</text>
+            <text x="500" y="430" text-anchor="middle" font-size="11" fill="black">
+                Source: https://k12cs.org/equity-in-computer-science-education/
+            </text>
+            <text x="500" y="445" text-anchor="middle" font-size="11" fill="black">
+                License: CC BY-NC-SA 4.0
+            </text>
         </svg>
       title: "Equity Statements in Computer Science Education (from K12CS.org)"
       questions:

@@ -9,7 +9,7 @@ info:
     - To engage learners to promote, develop, and assess Social Emotional Learning
   models:
     - model: |
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
           <!-- Title -->
           <text x="400" y="50" text-anchor="middle" font-size="24" font-weight="bold">Social-Emotional Learning in Computer Science</text>
 
