@@ -9,7 +9,7 @@ info:
     - To engage learners to promote, develop, and assess Social Emotional Learning
   models:
     - model: |
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
           <!-- Title -->
           <text x="400" y="50" text-anchor="middle" font-size="24" font-weight="bold">Social-Emotional Learning in Computer Science</text>
 
@@ -32,10 +32,9 @@ info:
           <!-- Reflection -->
           <rect x="50" y="250" width="675" height="100" fill="#f23f69"/>
           <text x="400" y="300" text-anchor="middle" font-size="14" fill="white">Reflection</text>
-
-          <!-- Description -->
-          <text x="400" y="400" text-anchor="middle" font-size="14" fill="black" width="600">Social-Emotional Learning (SEL) in computer science focuses on fostering collaboration, empathy, ethics, resilience, and reflection. These principles enhance teamwork, ethical decision-making, problem-solving, and personal growth within the computing context.</text>
         </svg>
+        <br>
+        Social-Emotional Learning (SEL) in computer science focuses on fostering collaboration, empathy, ethics, resilience, and reflection. These principles emphasize teamwork, ethical decision-making, problem-solving, and personal growth within the computing context.
       title: "Applying Social-Emotional Learning (SEL) to Computing Activities"
       questions:
         - "What are the main challenges and opportunities presented in the scenario? How do you see collaboration, empathy, ethics, or resilience playing a role in this scenario?"

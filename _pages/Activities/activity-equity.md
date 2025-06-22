@@ -9,12 +9,12 @@ info:
     - To describe strategies for equity in CS pedagogy, including culturally responsive teaching   
   models:
     - model: |
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400">
             <!-- Title: Equity in Computer Science Education -->
             <text x="500" y="40" text-anchor="middle" font-weight="bold">Equity in Computer Science Education</text>
         
             <!-- Impacts of Computing -->
-            <rect x="50" y="80" width="450" height="150" fill="#FFC300"/>
+            <rect x="50" y="80" width="475" height="150" fill="#FFC300"/>
             <text x="275" y="145" text-anchor="middle" font-weight="bold" fill="black">Impacts of Computing</text>
             <text x="275" y="175" text-anchor="middle" font-size="10" fill="black">
                 <tspan x="275" dy="1.2em">The design and use of computing technologies and artifacts can improve, worsen, or maintain</tspan>
@@ -22,7 +22,7 @@ info:
             </text>
         
             <!-- Algorithms and Programming -->
-            <rect x="550" y="80" width="450" height="150" fill="#3498DB"/>
+            <rect x="550" y="80" width="475" height="150" fill="#3498DB"/>
             <text x="775" y="145" text-anchor="middle" font-weight="bold" fill="black">Algorithms and Programming</text>
             <text x="775" y="175" text-anchor="middle" font-size="10" fill="black">
                 <tspan x="775" dy="1.2em">People design meaningful solutions for others by defining a problem’s criteria and constraints,</tspan>
@@ -31,7 +31,7 @@ info:
             </text>
         
             <!-- Fostering an Inclusive Computing Culture -->
-            <rect x="50" y="260" width="450" height="150" fill="#E74C3C"/>
+            <rect x="50" y="260" width="475" height="150" fill="#E74C3C"/>
             <text x="275" y="325" text-anchor="middle" font-weight="bold" fill="black">Fostering an Inclusive Computing Culture</text>
             <text x="275" y="355" text-anchor="middle" font-size="10" fill="black">
                 <tspan x="275" dy="1.2em">Address the needs of diverse end users during the design process to produce artifacts with</tspan>
@@ -39,7 +39,7 @@ info:
             </text>
         
             <!-- Collaborating Around Computing -->
-            <rect x="550" y="260" width="450" height="150" fill="#2ECC71"/>
+            <rect x="550" y="260" width="475" height="150" fill="#2ECC71"/>
             <text x="775" y="325" text-anchor="middle" font-weight="bold" fill="black">Collaborating Around Computing</text>
             <text x="775" y="355" text-anchor="middle" font-size="10" fill="black">
                 <tspan x="775" dy="1.2em">Cultivate working relationships with individuals possessing diverse perspectives, skills,</tspan>

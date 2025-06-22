@@ -256,50 +256,50 @@ Some of these principles include prioritizing foundational concepts, using a var
 
 These principles are designed to guide effective teaching and learning in computing, particularly as the field continues to evolve. Here is a summary of the 12 principles along with examples that exemplify each principle:
 
-1. **Lead with Concepts:**
+* **Lead with Concepts:**
 
-* Example: Utilizing glossaries, concept maps, and regular recall and revision to support the acquisition of key concepts, terms, and vocabulary.
+** Example: Utilizing glossaries, concept maps, and regular recall and revision to support the acquisition of key concepts, terms, and vocabulary.
 
-2. **Work Together:**
+* **Work Together:**
 
-* Example: Encouraging collaboration through pair programming, peer instruction, and structured group tasks to stimulate classroom dialogue and shared understanding.
+** Example: Encouraging collaboration through pair programming, peer instruction, and structured group tasks to stimulate classroom dialogue and shared understanding.
 
-3. **Get Hands-On:**
+* **Get Hands-On:**
 
-* Example: Using physical computing and making activities, such as combining electronics and programming with arts and crafts, to provide tactile and sensory experiences.
+** Example: Using physical computing and making activities, such as combining electronics and programming with arts and crafts, to provide tactile and sensory experiences.
 
-4. **Unplug, Unpack, Repack:**
+* **Unplug, Unpack, Repack:**
 
-* Example: Teaching new concepts by unpacking complex terms, exploring them in unplugged contexts, and then repacking the understanding into the original concept, using an approach called semantic waves.
+** Example: Teaching new concepts by unpacking complex terms, exploring them in unplugged contexts, and then repacking the understanding into the original concept, using an approach called semantic waves.
 
-5. **Model Everything:**
+* **Model Everything:**
 
-* Example: Modeling processes or practices, such as debugging code or binary number conversions, using techniques like worked examples and live coding.
+** Example: Modeling processes or practices, such as debugging code or binary number conversions, using techniques like worked examples and live coding.
 
-6. **Foster Program Comprehension:**
+* **Foster Program Comprehension:**
 
-* Example: Utilizing activities like debugging, tracing, and Parson's Problems to consolidate knowledge and understanding of program function and structure.
+** Example: Utilizing activities like debugging, tracing, and Parson's Problems to consolidate knowledge and understanding of program function and structure.
 
-7. **Create Projects:**
+* **Create Projects:**
 
-* Example: Implementing project-based learning activities, focusing on design and evaluation against specific criteria, to apply and consolidate knowledge.
+** Example: Implementing project-based learning activities, focusing on design and evaluation against specific criteria, to apply and consolidate knowledge.
 
-8. **Add Variety:**
+* **Add Variety:**
 
-* Example: Providing activities with varying levels of direction and support, ranging from highly structured to exploratory tasks, to engage all pupils and encourage independence.
+** Example: Providing activities with varying levels of direction and support, ranging from highly structured to exploratory tasks, to engage all pupils and encourage independence.
 
-9. **Challenge Misconceptions:**
+* **Challenge Misconceptions:**
 
-* Example: Using formative questioning, concept mapping, peer instruction, or quizzes to uncover and address misconceptions.
+** Example: Using formative questioning, concept mapping, peer instruction, or quizzes to uncover and address misconceptions.
 
-10. **Make Concrete:**
+* **Make Concrete:**
 
-* Example: Bringing abstract concepts to life with real-world examples, analogies, storytelling, and connections to other curriculum subjects.
+** Example: Bringing abstract concepts to life with real-world examples, analogies, storytelling, and connections to other curriculum subjects.
 
-11. **Structure Lessons:**
+* **Structure Lessons:**
 
-* Example: Using supportive frameworks like PRIMM (Predict, Run, Investigate, Modify, Make) and Use-Modify-Create when planning lessons to ensure differentiation.
+** Example: Using supportive frameworks like PRIMM (Predict, Run, Investigate, Modify, Make) and Use-Modify-Create when planning lessons to ensure differentiation.
 
-12. **Read and Explore Code First:**
+* **Read and Explore Code First:**
 
-* Example: Focusing first on code 'reading' activities, encouraging pupils to review and interpret blocks of code, to augment their ability to write code.
+** Example: Focusing first on code 'reading' activities, encouraging pupils to review and interpret blocks of code, to augment their ability to write code.

@@ -54,7 +54,7 @@ info:
     - rlink: "https://ctrl.education.ufl.edu/projects/tactic/"
       rtitle: "CS for ALL: Teaching All Computational Thinking through Inclusion and Collaboration (TACTIC)"
     - rlink: "https://csteachers.org/improving-accessibility-in-the-classroom-with-the-udl4cs-interactive-table/"
-      rtitle: "https://csteachers.org/improving-accessibility-in-the-classroom-with-the-udl4cs-interactive-table/"
+      rtitle: "csteachers.org: UDL4CS Interactive Table"
       
   questions:
     - "What are the key principles of Universal Design for Learning (UDL)?"
