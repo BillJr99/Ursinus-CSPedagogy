@@ -1,24 +1,24 @@
 ---
 layout: syllabus
 permalink: /
-title: "CS471: Computer Science Pedagogy"
+title: "CS352: Computer Science Pedagogy"
 
     
 info:
-  course_number: CS471
-  course_number: CS471
+  course_number: CS352
+  course_number: CS352
   course_sections: 
   - section: "A"
   course_title: "Computer Science Pedagogy"
   credit_hours: "4 Semester Hours"
-  course_homepage: "https://www.billmongan.com/Ursinus-CSPedagogy/"
-  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS471%20CS%20Pedagogy%20Fall%202023
-  ical: files/CS471.ics
+  course_homepage: "https://www.billmongan.com/Ursinus-CS352-Fall2025/"
+  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS352%20Fall%202025
+  ical: files/CS352.ics
   course_prerequisites: "None.  Students interested in Computer Science and/or Education are encouraged to join!"
-  course_start_date: "2023/08/28"
-  course_end_date: "2023/12/8"
-  course_description: "This course is a collaborative service-learning effort among students with an interest in computing and in education.  The course is intended to prepare pre-service teachers for certification in K-12 Computer Science in Pennsylvania, and to provide students with a research-based background in science communication and pedagogy.  We explore unique aspects of educational design in a computing environment, as well as current challenges, trends, and opportunities in computing education.  Particular emphasis will center upon equitable computing pedagogy and practice, and creating a classroom environment that is inclusive of diverse learning needs, culturally relevant, and learner-centric.  Students will design educational activities according to pedagogical best practices, and work with K-12 teachers at local schools to deliver and assess those educational materials.  Students will collectively create a portfolio of open-source curricular materials for teaching computing in the K-12 classroom for subsequent adoption and revision."
-  designation: "LINQ"
+  course_start_date: "2025/08/25"
+  course_end_date: "2025/12/8"
+  course_description: "This course is a collaborative service-learning effort among students with an interest in computing and in education. The course is intended to prepare pre-service teachers for certification in K-12 Computer Science in Pennsylvania, and to provide students with a research-based background in science communication and pedagogy. We explore unique aspects of educational design in a computing environment, as well as current challenges, trends, and opportunities in computing education. Particular emphasis will center upon equitable computing pedagogy and practice, and creating a classroom environment that is inclusive of diverse learning needs, culturally relevant, and learner-centric. Students will design educational activities according to pedagogical best practices, and work with K-12 teachers at local schools to deliver and assess those educational materials. Students will collectively create a portfolio of open-source curricular materials for teaching computing in the K-12 classroom for subsequent adoption and revision. Offered in the fall of odd years. Three hours per week. Four semester hours."
+  designation: "LINQ with EDUC-350W"
   questions: |
     Specifically, we will collectively consider questions like:
     <ul>
@@ -32,7 +32,7 @@ info:
     <li>How do we effectively democratize computing skills across all disciplines and for all learners?</li>
     <li>How can we bridge computing across K-12 disciplines through the lens of human-centric design thinking?</li>
     </ul>    
-  welcome_message: "Welcome to CS471!"
+  welcome_message: "Welcome to CS352!"
   class_meets_days:
     isM: false
     isT: true
@@ -45,24 +45,24 @@ info:
   - section:
     - day: "T"
       starttime: "12:00 PM"
-      endtime: "1:20 PM"
-      place: "Musser Auditorium"
+      endtime: "1:15 PM"
+      place: "Pfahler 109"
     - day: "R"
       starttime: "12:00 PM"
-      endtime: "1:20 PM"
-      place: "Musser Auditorium" 
+      endtime: "1:15 PM"
+      place: "Pfahler 109" 
   midtermexam: 
     - mdate: "TBD"
       mstarttime: "TBD"
       mendtime: "TBD"
       mroom: "TBD"       
   finalexam: 
-    - fdate: "2023/12/13"
-      fstarttime: "9:00 AM"
-      fendtime: "12:00 PM"
-      froom: "Musser Auditorium" 
-  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 4% per day if submitted before 10:59 PM Eastern Time on the day submitted.  Each student will receive a total of 10 &quot;slack days&quot; for the semester with which to waive these grade reductions; for example, one assignment may be submitted 10 days late, or two assignments may be submitted 5 days late, with no grade reduction.  Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
-  late_penalty_per_period: 4
+    - fdate: "TBD"
+      fstarttime: "TBD"
+      fendtime: "TBD"
+      froom: "TBD" 
+  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 11:59 PM Eastern Time on the date(s) stated on the schedule.  With prior permission and a reasonable first draft submission by the deliverable deadline, any student may request a three day extension on any deliverable, as often as needed.  Assignments will be accepted without prior permission following the original deadline, or, if requested, following the three-day extension deadline, with a points deduction of 10% per day if submitted before 11:59 PM Eastern Time on the day submitted.  If a student adds the course late, deliverables due prior to or on the day of that student's registration will be due twice the number of days following the first day of the semester that they registered (for example, a student who registers on the third day of the semester shall receive six days to submit assignments from the first three days, and then the remainder of this policy takes effect for those and for all other deliverables).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
+  late_penalty_per_period: 10
   late_penalty_period: "day"
   banner: |
     <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
@@ -89,26 +89,14 @@ instructors:
   picture: /images/profile.png
   officehourssignup: "https://cal.com/billmongan/10min"
   officehours:
-  - day: "M"
+  - day: "T"
     starttime: "10:00 AM"
     endtime: "12:00 PM"
     location: "Pfahler Hall 101L"  
-  - day: "M"
-    starttime: "1:00 PM"
-    endtime: "2:00 PM"
+  - day: "R"
+    starttime: "10:00 AM"
+    endtime: "12:00 PM"
     location: "Pfahler Hall 101L"          
-  - day: "T"
-    starttime: "11:15 AM"
-    endtime: "12:00 PM"
-    location: "Pfahler Hall 101L"        
-  - day: "R"
-    starttime: "11:15 AM"
-    endtime: "12:00 PM"
-    location: "Pfahler Hall 101L" 
-  - day: "R"
-    starttime: "4:00 PM"
-    endtime: "5:00 PM"
-    location: "Pfahler Hall 101L"            
     
 textbooks:
 - title: "The Big Book of Computing Pedagogy"
@@ -552,74 +540,91 @@ schedule:
           
 university:
   semester: "Fall"
-  academicyear: "2023-24"
+  academicyear: "2025-26"
   fall:
-  - kname: "Add Deadline"
-    kdate: "2023/09/8"
+  - kname: "Add Deadline; Last Day for S/S-/U Choice"
+    kdate: "2025/09/5"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2023/10/13"
-    kdisplay: false    
+    kdate: "2025/10/10"
+    kdisplay: true    
   - kname: "Drop with a W Deadline"
-    kdate: "2023/10/25"
+    kdate: "2025/11/25"
     kdisplay: true  
-  - kname: "Reading Day"
-    kdate: "2023/12/9"
-    kdisplay: true     
-  - kname: "Finals Week Begins"
-    kdate: "2023/12/11"
-    kdisplay: false
-  - kname: "Finals Week Ends"
-    kdate: "2023/12/16"
-    kdisplay: false
-  spring:
-  - kname: "Add Deadline"
-    kdate: "2024/01/30"
-    kdisplay: true
-  - kname: "Mid Semester Grades Posted"
-    kdate: "2024/03/1"
-    kdisplay: false    
-  - kname: "Drop with a W Deadline"
-    kdate: "2024/03/20"
+  - kname: "Designated Wednesday Schedule"
+    kdate: "2025/12/8"
     kdisplay: true    
   - kname: "Reading Day"
-    kdate: "2024/05/2"
-    kdisplay: false    
+    kdate: "2025/12/9"
+    kdisplay: true     
   - kname: "Finals Week Begins"
-    kdate: "2024/05/03"
-    kdisplay: false
+    kdate: "2025/12/10"
+    kdisplay: true
   - kname: "Finals Week Ends"
-    kdate: "2024/05/09"
-    kdisplay: false       
-  - kname: "Baccalaureate"
-    kdate: "2024/05/10"
-    kdisplay: false
+    kdate: "2025/12/16"
+    kdisplay: true
+  spring:
+  - kname: "Experiential Learning Week Begins"
+    kdate: "2026/01/20"
+    kdisplay: true  
+  - kname: "Experiential Learning Week Ends"
+    kdate: "2026/01/23"
+    kdisplay: true      
+  - kname: "Add Deadline"
+    kdate: "2026/02/6; Last Day for S/S-/U Choice"
+    kdisplay: true
+  - kname: "Mid Semester Grades Posted"
+    kdate: "2026/03/13"
+    kdisplay: true    
+  - kname: "Drop with a W Deadline"
+    kdate: "2026/04/21"
+    kdisplay: true   
+  - kname: "CoSA"
+    kdate: "2026/04/22"
+    kdisplay: true    
+  - kname: "Experiential Learning Day"
+    kdate: "2026/04/23"
+    kdisplay: true
+  - kname: "Designated Thursday Schedule"
+    kdate: "2026/05/12"
+    kdisplay: true  
+  - kname: "Reading Day"
+    kdate: "2026/05/13"
+    kdisplay: true    
+  - kname: "Finals Week Begins"
+    kdate: "2026/05/14"
+    kdisplay: true
+  - kname: "Finals Week Ends"
+    kdate: "2026/05/20"
+    kdisplay: true       
+  - kname: "Senior Programming"
+    kdate: "2026/05/20"
+    kdisplay: true
+  - kname: "Senior Programming"
+    kdate: "2026/05/21"
+    kdisplay: true    
   - kname: "Commencement"
-    kdate: "2024/05/11"
-    kdisplay: false 
+    kdate: "2026/05/22"
+    kdisplay: true 
   fallholidays:
-  - date: "2023/10/14"
-  - date: "2023/10/15"
-  - date: "2023/10/16"
-  - date: "2023/10/17"
-  - date: "2023/11/22"
-  - date: "2023/11/23"
-  - date: "2023/11/24"
-  - date: "2023/11/25"
-  - date: "2023/11/26"
+  - date: "2025/10/13"
+  - date: "2025/10/14"
+  - date: "2025/10/15"
+  - date: "2025/11/27"
+  - date: "2025/11/28"
   springholidays:
-  - date: "2024/01/15"  
-  - date: "2024/03/4"  
-  - date: "2024/03/5"  
-  - date: "2024/03/6"  
-  - date: "2024/03/7"  
-  - date: "2024/03/8"     
+  - date: "2026/01/19"  
+  - date: "2026/03/16"  
+  - date: "2026/03/17"  
+  - date: "2026/03/18"  
+  - date: "2026/03/19"  
+  - date: "2026/03/20"     
   
 ---
 
 ## Overview 
 
-Welcome to our Computer Science Pedagogy class!
+Welcome to CS352!
 
 This course was inspired by a partnership between the instructor and the Pennsylvania Department of Education, in collaboration with the Montgomery County Intermediate Unit (MCIU).  We will collaborate together and with local in the development of K-12 computing curriculum and in the development of computing skills needed to teach both computer science and instructional technology across the disciplines.
 
