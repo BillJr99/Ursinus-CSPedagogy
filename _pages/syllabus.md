@@ -6,7 +6,6 @@ title: "CS352: Computer Science Pedagogy"
     
 info:
   course_number: CS352
-  course_number: CS352
   course_sections: 
   - section: "A"
   course_title: "Computer Science Pedagogy"
