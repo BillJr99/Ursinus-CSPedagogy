@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Projects/ServiceLearning
-title: "CS471: Computer Science Pedagogy - Service Learning Project"
+title: "CS352: Computer Science Pedagogy - Service Learning Project"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 100
   goals:
     - To explore the breadth of applications of computing in an area of interest

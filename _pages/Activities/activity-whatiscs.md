@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/WhatIsCS
-title: "CS471: Computer Science Pedagogy - What is Computer Science and Why CS Education?"
+title: "CS352: Computer Science Pedagogy - What is Computer Science and Why CS Education?"
 
 
 info:

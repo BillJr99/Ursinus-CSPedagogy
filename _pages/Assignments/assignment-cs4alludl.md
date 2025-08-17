@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Assignments/CS4AllUDL
-title: "CS471: Computer Science Pedagogy - CS4All and UDL"
+title: "CS352: Computer Science Pedagogy - CS4All and UDL"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 100
   goals:
     - Understand the principles of Universal Design for Learning (UDL)

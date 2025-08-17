@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/UBD2
-title: "CS471: Computer Science Pedagogy - Understanding by Design"
+title: "CS352: Computer Science Pedagogy - Understanding by Design"
 
 
 info:

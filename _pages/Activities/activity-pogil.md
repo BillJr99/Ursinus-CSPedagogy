@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/POGIL
-title: "CS471: Computer Science Pedagogy - Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
+title: "CS352: Computer Science Pedagogy - Learning by Discovery: Process Oriented Guided Inquiry Learning in Computer Science (CS-POGIL)"
 
 
 info:

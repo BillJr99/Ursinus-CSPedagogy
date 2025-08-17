@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/RubricContract
-title: "CS471: Computer Science Pedagogy - Rubrics and Contract Grading"
+title: "CS352: Computer Science Pedagogy - Rubrics and Contract Grading"
 
 
 info:

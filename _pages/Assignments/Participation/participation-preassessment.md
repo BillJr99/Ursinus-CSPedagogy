@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/Participation/PreAssessment
-title: "CS471: Computer Science Pedagogy - Participation Pre Assessment"
+title: "CS352: Computer Science Pedagogy - Participation Pre Assessment"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   
 tags:

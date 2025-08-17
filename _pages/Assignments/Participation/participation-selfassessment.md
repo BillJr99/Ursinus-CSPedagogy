@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: /Assignments/Participation/SelfAssessment
-title: "CS471: Computer Science Pedagogy - Participation Self Assessment"
+title: "CS352: Computer Science Pedagogy - Participation Self Assessment"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   
 tags:

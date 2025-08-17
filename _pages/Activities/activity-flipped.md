@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/Flipped
-title: "CS471: Computer Science Pedagogy - The Flipped Classroom"
+title: "CS352: Computer Science Pedagogy - The Flipped Classroom"
 
 
 info:

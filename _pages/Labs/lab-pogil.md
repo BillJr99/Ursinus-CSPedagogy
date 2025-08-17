@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Labs/POGIL
-title: "CS471: Computer Science Pedagogy - POGIL Activity"
+title: "CS352: Computer Science Pedagogy - POGIL Activity"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - Identify and apply the principles of POGIL and inquiry-based learning

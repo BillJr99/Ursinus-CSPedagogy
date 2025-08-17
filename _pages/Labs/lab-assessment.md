@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Labs/Assessment
-title: "CS471: Computer Science Pedagogy - Assessment Plan"
+title: "CS352: Computer Science Pedagogy - Assessment Plan"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - Understand the principles of assessment in education

@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/Collaboration
-title: "CS471: Computer Science Pedagogy - Collaboration in the CS Classroom"
+title: "CS352: Computer Science Pedagogy - Collaboration in the CS Classroom"
 
 
 info:

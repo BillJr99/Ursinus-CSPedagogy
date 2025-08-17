@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Labs/UbDLessonPlan
-title: "CS471: Computer Science Pedagogy - UbD Lesson Plan"
+title: "CS352: Computer Science Pedagogy - UbD Lesson Plan"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - Understand the principles of Understanding by Design (UbD)

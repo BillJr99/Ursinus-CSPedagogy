@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/UniqueChallengesCS
-title: "CS471: Computer Science Pedagogy - Unique Challenges in CS Education"
+title: "CS352: Computer Science Pedagogy - Unique Challenges in CS Education"
 
 
 info:

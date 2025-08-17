@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Assignments/UbiquitousCS
-title: "CS471: Computer Science Pedagogy - CS Across the Disciplines"
+title: "CS352: Computer Science Pedagogy - CS Across the Disciplines"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 100
   goals:
     - To explore the benefits and risks of infusing computing education and computational thinking into the teaching and learning of other disciplines

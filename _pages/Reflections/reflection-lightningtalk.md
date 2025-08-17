@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Reflections/LightningTalk
-title: "CS471: Computer Science Pedagogy - Lightning Talk"
+title: "CS352: Computer Science Pedagogy - Lightning Talk"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - To critically and creatively evaluate the pedagogical lightning talks of your classmates

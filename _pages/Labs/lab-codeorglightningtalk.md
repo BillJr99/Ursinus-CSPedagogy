@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Labs/CodeOrgLightningTalk
-title: "CS471: Computer Science Pedagogy - code.org Lightning Talk"
+title: "CS352: Computer Science Pedagogy - code.org Lightning Talk"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - To present a concept of computing to a broad audience

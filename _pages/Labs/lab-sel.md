@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Labs/SEL
-title: "CS471: Computer Science Pedagogy - Incorporating SEL into Lesson Planning"
+title: "CS352: Computer Science Pedagogy - Incorporating SEL into Lesson Planning"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - Understand the principles of social emotional learning (SEL)

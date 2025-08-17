@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/UDL
-title: "CS471: Computer Science Pedagogy - Universal Design for Learning"
+title: "CS352: Computer Science Pedagogy - Universal Design for Learning"
 
 
 info:

@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Reflections/PeerReviewAssessment
-title: "CS471: Computer Science Pedagogy - Peer Review and Assessment"
+title: "CS352: Computer Science Pedagogy - Peer Review and Assessment"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 10
   goals:
     - Apply principles of effective peer review

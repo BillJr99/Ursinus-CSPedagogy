@@ -1,7 +1,7 @@
 ---
 layout: activity
 permalink: /Activities/Bloom
-title: "CS471: Computer Science Pedagogy - Bloom's Taxonomy"
+title: "CS352: Computer Science Pedagogy - Bloom's Taxonomy"
 
 
 info:

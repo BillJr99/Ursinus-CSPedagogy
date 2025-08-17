@@ -1,11 +1,11 @@
 ---
 layout: assignment
 permalink: Projects/TechnicalProject
-title: "CS471: Computer Science Pedagogy - Technical Project and Presentation"
+title: "CS352: Computer Science Pedagogy - Technical Project and Presentation"
 
 
 info:
-  coursenum: CS471
+  coursenum: CS352
   points: 100
   goals:
     - Develop and implement a computing project using hardware such as Arduino or micro:bit
