@@ -491,8 +491,8 @@ schedule:
         rlink: "https://casel.org/fundamentals-of-sel/"
       - rtitle: "The Big Book of Computing Content"
         rlink: false
-  - week: "13"
-    date: "0"
+  - week: "12"
+    date: "1"
     title: "SEL in Computing Education"
     deliverables:
       - dtitle: "Technical Project and Presentation: Project Due"
@@ -504,7 +504,7 @@ schedule:
       - rtitle: "Importance of SEL in a CS Environment"
         rlink: "http://equity.csteachers.org/importance-of-social-emotional-learning-in-a-cs-environment.html"
   - week: "13"
-    date: "1"
+    date: "0"
     title: "Equity Pedagogies in Computer Science"
     link: "./Activities/Equity"
     deliverables:
