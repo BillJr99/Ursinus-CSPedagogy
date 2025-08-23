@@ -12,6 +12,7 @@ info:
   credit_hours: "4 Semester Hours"
   course_homepage: "https://www.billmongan.com/Ursinus-CS352-Fall2025/"
   class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS352%20Fall%202025
+  teamshelproom: https://teams.microsoft.com/l/team/19%3AJfnEKHvn5Y1aUiqjpamFb1NYp9aP-evBaydsRZrKbqQ1%40thread.tacv2/conversations?groupId=5870ea73-5b9e-4105-ad8b-a92251ec1cab&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe
   ical: files/CS352.ics
   course_prerequisites: "None.  Students interested in Computer Science and/or Education are encouraged to join!"
   course_start_date: "2025/08/25"
