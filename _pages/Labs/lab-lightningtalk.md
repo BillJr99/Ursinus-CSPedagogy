@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Lightning Talk"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit your presentation materials and answers to the questions raised by your peers."
   goals:
     - To present a concept of computing to a broad audience
 

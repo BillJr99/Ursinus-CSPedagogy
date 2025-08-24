@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Incorporating SEL into Lesson Plannin
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit a document corresponding to your lesson plan.  You may include a ZIP file of any supplemental materials."
   goals:
     - Understand the principles of social emotional learning (SEL)
     - Develop a lesson plan that integrates SEL into a computer science topic

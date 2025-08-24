@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - CS Across the Disciplines"
 info:
   coursenum: CS352
   points: 100
+  submission: "Submit this assignment as a PDF document."
   goals:
     - To explore the benefits and risks of infusing computing education and computational thinking into the teaching and learning of other disciplines
     - To identify possible synergistic infusions of computational thinking across the disciplines, and to expand upon one in depth

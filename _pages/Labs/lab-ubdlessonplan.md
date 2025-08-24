@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - UbD Lesson Plan"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit a document for your UbD structured activity.  You may include a ZIP file of any supplemental materials."
   goals:
     - Understand the principles of Understanding by Design (UbD)
     - Develop a lesson plan using the UbD framework

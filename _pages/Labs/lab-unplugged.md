@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Unplugged Activity"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit documents for your lesson plan and activity.  You may include a ZIP file of any supplemental materials."
   goals:
     - Understand the principles of CS Unplugged and kinesthetic learning
     - Design a lesson plan incorporating CS Unplugged activities

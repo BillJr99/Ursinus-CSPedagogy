@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Service Learning Project"
 info:
   coursenum: CS352
   points: 100
+  submission: "Submit a ZIP of documents containing your service learning project and writeup."
   goals:
     - To explore the breadth of applications of computing in an area of interest
     - To apply computing to the benefit of others through service learning

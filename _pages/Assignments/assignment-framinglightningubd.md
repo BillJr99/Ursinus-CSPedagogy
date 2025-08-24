@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Framing Your Lightning Talk in UbD"
 info:
   coursenum: CS352
   points: 100
+  submission: "Submit a ZIP file of the materials specified on this page."
   goals:
     - Understand the principles of Understanding by Design (UbD) and Backward Design
     - Apply UbD principles to the design of a lightning talk

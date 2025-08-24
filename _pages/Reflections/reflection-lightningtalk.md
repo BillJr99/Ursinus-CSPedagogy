@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Lightning Talk"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit documents corresponding to your feedback on each talk.  Be sure to include the names of the students presenting on each document."
   goals:
     - To critically and creatively evaluate the pedagogical lightning talks of your classmates
 

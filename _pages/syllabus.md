@@ -177,12 +177,12 @@ schedule:
   - week: "0"
     date: "0"
     title: "Course Overview"
-    link: "../Ursinus-CSPedagogy-Overview"
+    link: "../Ursinus-CS352-Overview"
     deliverables:
       - dtitle: "Written Assignment: Warmup Handed Out"
         dlink: "Assignments/Warmup"
         points: 15
-        submission_types: "onpaper"
+        submission_types: "written"
     readings:
       - rtitle: "Hello World: The Big Book of Computing Pedagogy"
         rlink: "https://magazines-static.raspberrypi.org/books/full_pdfs/000/000/043/original/Hello_World_The_Big_Book_of_Pedagogy.pdf?1653380723"
@@ -194,6 +194,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: code.org Lightning Talk Handed Out"
         dlink: "Labs/CodeOrgLightningTalk"
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "CSTA Standards for CS Teachers"
         rlink: "https://www.csteachers.org/page/standards-for-cs-teachers"
@@ -208,10 +209,11 @@ schedule:
       - dtitle: "Curriculum Development Lab: code.org Lightning Talk Due"
         dlink: "Labs/CodeOrgLightningTalk"
         points: 10
+        submission_types: "written"
       - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
         dlink: "Reflections/CodeOrgLightningTalk"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
   - week: "1"
     date: "1"
     title: "Pedagogy Background: Understanding by Design and Backwards Design"
@@ -220,10 +222,11 @@ schedule:
       - dtitle: "Written Assignment: Warmup Due"
         dlink: "Assignments/Warmup"
         points: 15
-        submission_types: "onpaper"
+        submission_types: "written"
       - dtitle: "Curriculum Development Lab: Lightning Talk Handed Out"
         dlink: "Labs/LightningTalk"
         points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Understanding by Design"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
@@ -238,7 +241,7 @@ schedule:
       - dtitle: "Reflection: code.org Lightning Talk Reflection Due"
         dlink: "Reflections/CodeOrgLightningTalk"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
     readings:
       - rtitle: "Bloom's Taxonomy"
         rlink: "https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/"
@@ -254,7 +257,7 @@ schedule:
       - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Handed Out"
         dlink: "Assignments/FramingLightningUBD"
         points: 100
-        submission_types: "onpaper"
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
     readings:
       - rtitle: "Maslow's Hierarchy of Needs"
@@ -271,10 +274,11 @@ schedule:
       - dtitle: "Reflection: Lightning Talk Reflection Handed Out"
         dlink: "Reflections/LightningTalk"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
       - dtitle: "Curriculum Development Lab: UbD Lesson Plan Handed Out"
         dlink: "Labs/UbDLessonPlan"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-ubdlessonplan.md"
     readings:
       - rtitle: "A Unilateral Grading Contract to Improve Learning and Teaching by Elbow and Danielewicz"
@@ -300,7 +304,7 @@ schedule:
       - dtitle: "Reflection: Lightning Talk Reflection Due"
         dlink: "Reflections/LightningTalk"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
     readings:
       - rtitle: "Big Book of Pedagogy - Go Unplugged"
         rlink: false
@@ -313,7 +317,7 @@ schedule:
       - dtitle: "Written Assignment: Framing Your Lightning Talk in UbD Due"
         dlink: "Assignments/FramingLightningUBD"
         points: 100
-        submission_types: "onpaper"
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-framinglightningubd.md"
   - week: "5"
     date: "1"
@@ -323,10 +327,12 @@ schedule:
       - dtitle: "Curriculum Development Lab: UbD Lesson Plan Due"
         dlink: "Labs/UbDLessonPlan"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-ubdlessonplan.md"
       - dtitle: "Curriculum Development Lab: Assessment Plan Handed Out"
         dlink: "Labs/Assessment"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-assessment.md"
     readings:
       - rtitle: "CS Education Chapters 4 and 5"
@@ -353,10 +359,12 @@ schedule:
       - dtitle: "Curriculum Development Lab: Assessment Plan Due"
         dlink: "Labs/Assessment"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-assessment.md"
       - dtitle: "Curriculum Development Lab: Unplugged Activity Handed Out"
         dlink: "Labs/Unplugged"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-unplugged.md"
     readings:
       - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
@@ -381,9 +389,11 @@ schedule:
       - dtitle: "Technical Project and Presentation: Project Handed Out"
         dlink: "Projects/TechnicalProject"
         points: 100
+        submission_types: "written"
       - dtitle: "Written Assignment: CS4All and UDL Handed Out"
         dlink: "Assignments/CS4AllUDL"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-cs4alludl.md"
   - week: "8"
     date: "1"
@@ -392,6 +402,7 @@ schedule:
       - dtitle: "Service Learning Classroom Project: Project Handed Out"
         dlink: "Projects/ServiceLearning"
         points: 100
+        submission_types: "written"
   - week: "9"
     date: "0"
     title: "CS4All and UDL: Multiple Means of Engagement"
@@ -399,6 +410,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: Unplugged Activity Due"
         dlink: "Labs/Unplugged"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-unplugged.md"
   - week: "9"
     date: "1"
@@ -418,10 +430,12 @@ schedule:
       - dtitle: "Written Assignment: CS4All and UDL Due"
         dlink: "Assignments/CS4AllUDL"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-cs4alludl.md"
       - dtitle: "Written Assignment: CS Across the Disciplines Handed Out"
         dlink: "Assignments/UbiquitousCS"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
   - week: "10"
     date: "1"
@@ -431,6 +445,7 @@ schedule:
       - dtitle: "Curriculum Development Lab: POGIL Activity Handed Out"
         dlink: "Labs/POGIL"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-pogil.md"
     readings:
       - rtitle: "Learning and Teaching - a Philosophy, a Guideline, a Discussion"
@@ -462,9 +477,11 @@ schedule:
       - dtitle: "Service Learning Classroom Project: Project First Draft Due"
         dlink: "Projects/ServiceLearning"
         points: 100
+        submission_types: "written"
       - dtitle: "Curriculum Development Lab: POGIL Activity Due"
         dlink: "Labs/POGIL"
         points: 10
+        submission_types: "written"
         rubricpath: "_pages/Labs/lab-pogil.md"
     readings:
       - rtitle: "Web Content Accessibility Guidelines (WCAG)"
@@ -485,7 +502,7 @@ schedule:
       - dtitle: "Reflection: Peer Review and Assessment Handed Out"
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
     readings:
       - rtitle: "Fundamentals of SEL"
         rlink: "https://casel.org/fundamentals-of-sel/"
@@ -498,6 +515,7 @@ schedule:
       - dtitle: "Technical Project and Presentation: Project Due"
         dlink: "Projects/TechnicalProject"
         points: 100
+        submission_types: "written"
     readings:
       - rtitle: "Make Computational Thinking a Social-Emotional Learning Experience"
         rlink: "https://equip.learning.com/computational-thinking-social-emotional-learning"
@@ -511,7 +529,7 @@ schedule:
       - dtitle: "Reflection: Peer Review and Assessment Due"
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
-        submission_types: "onpaper"
+        submission_types: "written"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -530,6 +548,7 @@ schedule:
       - dtitle: "Written Assignment: CS Across the Disciplines Due"
         dlink: "Assignments/UbiquitousCS"
         points: 100
+        submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
   - week: "14"
     date: "1"
@@ -538,6 +557,7 @@ schedule:
       - dtitle: "Service Learning Classroom Project: Project Due"
         dlink: "Projects/ServiceLearning"
         points: 100
+        submission_types: "written"
           
 university:
   semester: "Fall"

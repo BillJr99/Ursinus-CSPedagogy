@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - CS4All and UDL"
 info:
   coursenum: CS352
   points: 100
+  submission: "Submit this assignment according to the instructions on this page."
   goals:
     - Understand the principles of Universal Design for Learning (UDL)
     - Understand the goals and strategies of Computer Science for All (CS4All)

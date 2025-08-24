@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Peer Review and Assessment"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit documents containing your reviews."
   goals:
     - Apply principles of effective peer review
     - Analyze and evaluate the pedagogical strategies in a lesson plan

@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Assessment Plan"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit this assignment according to the instructions on this page."
   goals:
     - Understand the principles of assessment in education
     - Design a comprehensive assessment plan, including a rubric and contract grading specifications

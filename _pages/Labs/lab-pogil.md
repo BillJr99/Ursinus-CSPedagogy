@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - POGIL Activity"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit documents for your activity, facilitator's guide, and reflection.  You may include a ZIP file of any supplemental materials."
   goals:
     - Identify and apply the principles of POGIL and inquiry-based learning
     - Design a POGIL activity for a specific computer science concept

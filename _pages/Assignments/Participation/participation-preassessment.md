@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - Participation Pre Assessment"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit a document that discusses the items specified on this page."
   
 tags:
   - participation

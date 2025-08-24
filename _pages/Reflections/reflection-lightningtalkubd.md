@@ -7,6 +7,7 @@ title: "CS352: Computer Science Pedagogy - UbD Lightning Talk"
 info:
   coursenum: CS352
   points: 10
+  submission: "Submit a document of your reflection."
   goals:
     - To critically and creatively evaluate the pedagogical lightning talks of your classmates
     - To incorporate the UbD framework and CS pedagogical principles into your lightning talk topic
