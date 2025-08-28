@@ -205,15 +205,6 @@ schedule:
   - week: "1"
     date: "0"
     title: "code.org Lightning Talks"
-    deliverables:
-      - dtitle: "Curriculum Development Lab: code.org Lightning Talk Due"
-        dlink: "Labs/CodeOrgLightningTalk"
-        points: 10
-        submission_types: "written"
-      - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
-        dlink: "Reflections/CodeOrgLightningTalk"
-        points: 10
-        submission_types: "written"
   - week: "1"
     date: "1"
     title: "Pedagogy Background: Understanding by Design and Backwards Design"
@@ -225,6 +216,14 @@ schedule:
         submission_types: "written"
       - dtitle: "Curriculum Development Lab: Lightning Talk Handed Out"
         dlink: "Labs/LightningTalk"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Curriculum Development Lab: code.org Lightning Talk Due"
+        dlink: "Labs/CodeOrgLightningTalk"
+        points: 10
+        submission_types: "written"
+      - dtitle: "Reflection: code.org Lightning Talk Reflection Handed Out"
+        dlink: "Reflections/CodeOrgLightningTalk"
         points: 10
         submission_types: "written"
     readings:
