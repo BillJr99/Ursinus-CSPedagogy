@@ -207,7 +207,7 @@ schedule:
     link: "./Activities/UBD"
     readings:
       - rtitle: "Understanding by Design"
-        rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+        rlink: "https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Understanding-by-Design.docx"
       - rtitle: "CS Education Chapters 1 and 2"
         rlink: false
       - rtitle: "Big Book of Pedagogy - Concept Maps"
