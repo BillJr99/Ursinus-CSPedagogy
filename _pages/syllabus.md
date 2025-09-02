@@ -205,7 +205,14 @@ schedule:
   - week: "1"
     date: "0"
     title: "Pedagogy Background: Understanding by Design and Backwards Design"
-    link: "./Activities/UBD"    
+    link: "./Activities/UBD"
+    readings:
+      - rtitle: "Understanding by Design"
+        rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+      - rtitle: "CS Education Chapters 1 and 2"
+        rlink: false
+      - rtitle: "Big Book of Pedagogy - Concept Maps"
+        rlink: false    
   - week: "1"
     date: "1"
     title: "code.org Lightning Talks"
@@ -226,13 +233,6 @@ schedule:
         dlink: "Reflections/CodeOrgLightningTalk"
         points: 10
         submission_types: "written"
-    readings:
-      - rtitle: "Understanding by Design"
-        rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
-      - rtitle: "CS Education Chapters 1 and 2"
-        rlink: false
-      - rtitle: "Big Book of Pedagogy - Concept Maps"
-        rlink: false
   - week: "2"
     date: "0"
     title: "Pedagogy Background: Understanding by Design and Backwards Design"
