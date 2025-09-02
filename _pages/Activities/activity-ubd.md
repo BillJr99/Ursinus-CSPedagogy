@@ -11,7 +11,7 @@ info:
     - To utilize the Understanding by Design Framework in Lesson Design
   additional_reading:
     - title: "Understanding by Design (UbD)"
-      link: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+      link: "https://cft.vanderbilt.edu/wp-content/uploads/sites/59/Understanding-by-Design.docx"
   guidingquestions:
     - "What is the goal of the UbD framework?"
     - "Is the UbD framework better suited to a single lesson or to a unit, and why?"
@@ -58,3 +58,4 @@ UbD is organized into a three-stage framework:
 2. **Stage 2: Determine Acceptable Evidence**: Once the desired results are established, educators determine the appropriate assessments and performance tasks that will provide evidence of students' understanding. These assessments should align with the desired outcomes and promote critical thinking and application of knowledge.
 
 3. **Stage 3: Plan Learning Experiences and Instruction**: The final stage involves designing the specific learning experiences, activities, and lessons that will help students achieve the desired outcomes. Educators must ensure that these instructional methods facilitate deep understanding and address students' diverse needs.
+
