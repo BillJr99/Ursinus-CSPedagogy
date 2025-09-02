@@ -2,7 +2,6 @@
 layout: syllabus
 permalink: /
 title: "CS352: Computer Science Pedagogy"
-
     
 info:
   course_number: CS352
@@ -101,13 +100,13 @@ instructors:
     
 textbooks:
 - title: "The Big Book of Computing Pedagogy"
-  link: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy
+  link: https://www.raspberrypi.org/hello-world/issues/the-big-book-of-computing-pedagogy
   isrequired: true 
-  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_pedagogy/pdf
+  freelyavailable: https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
 - title: "The Big Book of Computing Content"
-  link: https://helloworld.raspberrypi.org/books/big_book_of_computing_content
+  link: https://www.raspberrypi.org/hello-world/issues/the-big-book-of-computing-content
   isrequired: true 
-  freelyavailable: https://helloworld.raspberrypi.org/books/big_book_of_computing_content/pdf
+  freelyavailable: https://downloads.ctfassets.net/oshmmv7kdjgm/Xe7HWNgUm9NNTXb6HrQ0h/d2b4d8b7ff3ec4d442be0408c3f676c4/HelloWorld_The_Big_Book_of_Computing_Content.pdf
 - title: "Computer Science Education: Perspectives on Teaching and Learning in School"
   authors: "Sue Sentance (Editor), Erik Barendsen (Editor), Nicol R. Howard (Editor), Carsten Schulte (Editor)"
   edition: "2nd Edition"
