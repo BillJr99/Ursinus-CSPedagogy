@@ -41,7 +41,7 @@ info:
     proficient: The report is exceptionally well-organized, clear, and free of grammatical errors. The discussion and reflections are synthesized into a comprehensive and insightful report.    
 
   readings:
-    - rlink: "https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
+    - rlink: "https://web.archive.org/web/20240404231525/https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/"
       rtitle: "Understanding by Design Guide - Vanderbilt University"
 
   questions:
@@ -54,7 +54,7 @@ tags:
 
 ---
 
-In this written report assignment, you will discuss in detail how to apply the principles of Understanding by Design (UbD), and in particular, Backward Design, to the lightning talk you gave previously. You will also reflect on the video by Grant Wiggins found on the [Understanding by Design guide](https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/) page.
+In this written report assignment, you will discuss in detail how to apply the principles of Understanding by Design (UbD), and in particular, Backward Design, to the lightning talk you gave previously. You will also reflect on the video by Grant Wiggins: [Part 1](https://www.youtube.com/watch?v=4isSHf3SBuQ) and [Part 2](https://www.youtube.com/watch?v=vgNODvvsgxM).
 
 Begin by watching the video by Grant Wiggins on the Understanding by Design guide page.  Reflect on his commentary on education in general.  A few items he raises that catch my attention are:
 
