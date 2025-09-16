@@ -261,7 +261,7 @@ schedule:
       - rtitle: "Maslow's Hierarchy of Needs"
         rlink: "https://www.simplypsychology.org/maslow.html"
       - rtitle: "Feedback in Practice - Research for Teachers"
-        rlink: "https://tanginstitute.andover.edu/files/Feedback-in-Practice.pdf"
+        rlink: "https://web.archive.org/web/20230214045011/https://tanginstitute.andover.edu/files/Feedback-in-Practice.pdf"
   - week: "3"
     date: "1"
     title: "Lightning Talks"
