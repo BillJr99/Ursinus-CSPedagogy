@@ -359,11 +359,6 @@ schedule:
         points: 10
         submission_types: "written"
         rubricpath: "_pages/Labs/lab-assessment.md"
-      - dtitle: "Curriculum Development Lab: Unplugged Activity Handed Out"
-        dlink: "Labs/Unplugged"
-        points: 10
-        submission_types: "written"
-        rubricpath: "_pages/Labs/lab-unplugged.md"
     readings:
       - rtitle: "Pedagogy that Supports Computer Science for All (Ryoo)"
         rlink: "https://dl.acm.org/doi/pdf/10.1145/3322210"
@@ -380,6 +375,12 @@ schedule:
         rlink: "https://udl4cs.education.ufl.edu/interactive-table/"
       - rtitle: "CS Education Chapter 10"
         rlink: false
+    deliverables:
+      - dtitle: "Curriculum Development Lab: Unplugged Activity Handed Out"
+        dlink: "Labs/Unplugged"
+        points: 10
+        submission_types: "written"
+        rubricpath: "_pages/Labs/lab-unplugged.md"
   - week: "8"
     date: "0"
     title: "CS4All and UDL: Multiple Means of Representation"
