@@ -68,13 +68,13 @@ info:
     <div style="width: 100%; display: table; border-collapse:separate; border-spacing:5px;">
     <div style="width: 100%; display: table-row;">
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="chestercroff, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Think_Computer_Science_(CS).jpg"><img width="100%" alt="Think Computer Science (CS)" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Think_Computer_Science_(CS).jpg"></a>
+            <a title="chestercroff, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Think_Computer_Science_(CS).jpg"><img width="100%" alt="Think Computer Science (CS)" src="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Think_Computer_Science_(CS).jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="Giulia Forsythe, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"><img width="100%" alt="Universal Design for Learning from Center for Applied Special Technology (9101797199)" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"></a>
+            <a title="Giulia Forsythe, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"><img width="100%" alt="Universal Design for Learning from Center for Applied Special Technology (9101797199)" src="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Universal_Design_for_Learning_from_Center_for_Applied_Special_Technology_(9101797199).jpg"></a>
         </div>
         <div style="display: table-cell; padding:5px; width:33%;">
-            <a title="Gareth Halfacree from Bradford, UK, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kitronik_micro_bit_Inventor%27s_Kit_(32952992662).png"><img width="100%" alt="Kitronik micro bit Inventor&#039;s Kit (32952992662)" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kitronik_micro_bit_Inventor's_Kit_(32952992662).png"></a>
+            <a title="Gareth Halfacree from Bradford, UK, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Kitronik_micro_bit_Inventor%27s_Kit_(32952992662).png"><img width="100%" alt="Kitronik micro bit Inventor&#039;s Kit (32952992662)" src="https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Kitronik_micro_bit_Inventor's_Kit_(32952992662).png"></a>
         </div>
     </div>
     </div>
