@@ -542,21 +542,33 @@ schedule:
         rlink: "https://k12cs.org/equity-in-computer-science-education/"
   - week: "14"
     date: "0"
-    title: "Review and Workshop"
+    title: "Emerging Topics: Teaching AI in K-12; Review and Workshop"
+    link: "./Activities/AIEducation"
     deliverables:
       - dtitle: "Written Assignment: CS Across the Disciplines Due"
         dlink: "Assignments/UbiquitousCS"
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
+    readings:
+      - rtitle: "AI4K12: The Five Big Ideas in Artificial Intelligence"
+        rlink: "https://ai4k12.org/"
+      - rtitle: "MIT Teaching Systems Lab: An Ethics of Artificial Intelligence Curriculum Guidebook"
+        rlink: "http://tsl.mit.edu/ai-guidebook"
   - week: "14"
     date: "1"
-    title: "Review and Workshop"
+    title: "Emerging Topics: Teaching Data Science; Review and Workshop"
+    link: "./Activities/DataScienceEducation"
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Due"
         dlink: "Projects/ServiceLearning"
         points: 100
         submission_types: "written"
+    readings:
+      - rtitle: "CODAP: Common Online Data Analysis Platform"
+        rlink: "https://codap.concord.org/"
+      - rtitle: "Tuva: Data Literacy for Grades K-12"
+        rlink: "https://tuvalabs.com/"
           
 university:
   semester: "Fall"
