@@ -529,6 +529,10 @@ schedule:
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
         submission_types: "written"
+      - dtitle: "Reflection: LINQ Partnership with EDUC-350W Handed Out"
+        dlink: "Reflections/LINQPartnership"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -563,6 +567,10 @@ schedule:
       - dtitle: "Service Learning Classroom Project: Project Due"
         dlink: "Projects/ServiceLearning"
         points: 100
+        submission_types: "written"
+      - dtitle: "Reflection: LINQ Partnership with EDUC-350W Due"
+        dlink: "Reflections/LINQPartnership"
+        points: 10
         submission_types: "written"
     readings:
       - rtitle: "CODAP: Common Online Data Analysis Platform"
