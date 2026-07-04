@@ -529,6 +529,10 @@ schedule:
         dlink: "Reflections/PeerReviewAssessment"
         points: 10
         submission_types: "written"
+      - dtitle: "Reflection: LINQ Partnership with EDUC-350W Handed Out"
+        dlink: "Reflections/LINQPartnership"
+        points: 10
+        submission_types: "written"
     readings:
       - rtitle: "Engaging Equity Pedagogies in Computer Science Learning Environments (Madkins, Howard, and Freed)"
         rlink: "https://pdfs.semanticscholar.org/a791/7bf4da958c3968ed95e79fdc602503eddbf6.pdf"
@@ -542,21 +546,37 @@ schedule:
         rlink: "https://k12cs.org/equity-in-computer-science-education/"
   - week: "14"
     date: "0"
-    title: "Review and Workshop"
+    title: "Emerging Topics: Teaching AI in K-12; Review and Workshop"
+    link: "./Activities/AIEducation"
     deliverables:
       - dtitle: "Written Assignment: CS Across the Disciplines Due"
         dlink: "Assignments/UbiquitousCS"
         points: 100
         submission_types: "written"
         rubricpath: "_pages/Assignments/assignment-ubiquitouscs.md"
+    readings:
+      - rtitle: "AI4K12: The Five Big Ideas in Artificial Intelligence"
+        rlink: "https://ai4k12.org/"
+      - rtitle: "MIT Teaching Systems Lab: An Ethics of Artificial Intelligence Curriculum Guidebook"
+        rlink: "http://tsl.mit.edu/ai-guidebook"
   - week: "14"
     date: "1"
-    title: "Review and Workshop"
+    title: "Emerging Topics: Teaching Data Science; Review and Workshop"
+    link: "./Activities/DataScienceEducation"
     deliverables:
       - dtitle: "Service Learning Classroom Project: Project Due"
         dlink: "Projects/ServiceLearning"
         points: 100
         submission_types: "written"
+      - dtitle: "Reflection: LINQ Partnership with EDUC-350W Due"
+        dlink: "Reflections/LINQPartnership"
+        points: 10
+        submission_types: "written"
+    readings:
+      - rtitle: "CODAP: Common Online Data Analysis Platform"
+        rlink: "https://codap.concord.org/"
+      - rtitle: "Tuva: Data Literacy for Grades K-12"
+        rlink: "https://tuvalabs.com/"
           
 university:
   semester: "Fall"
@@ -656,4 +676,4 @@ Students in both education and computing will be encouraged to look beyond their
 
 ### Clearances
 
-Please note that some clearances may be required to visit area schools in Pennsylvania.  Information about those clearances can be found on the [Education department webpage](https://www.ursinus.edu/academics/education/field-experiences-and-clearances/).  Your instructor will advise you if any clearances are needed.
+Please note that some clearances may be required to visit area schools in Pennsylvania.  Information about those clearances can be found on the [Education department webpage](https://www.ursinus.edu/academics/education/field-experiences-and-clearances/) and in the [Education department's clearance requirements document](https://ursinuscollege365.sharepoint.com/:w:/s/UCGroup_Education/EeP0cAR-DGFMpX2cryZQA2sBnelgzvNbqrFn6BWLtvORvg?e=TqQUDy) (Ursinus login required).  Your instructor will advise you if any clearances are needed.  Because clearances can take several weeks to process, please begin early; see the Field Experience Logistics section of the [Service Learning Project](Projects/ServiceLearning) for a checklist covering clearances, visit preparation, and professional etiquette for external school visits.

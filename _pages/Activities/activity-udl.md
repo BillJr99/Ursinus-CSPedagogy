@@ -21,6 +21,8 @@ info:
       link: "https://udlguidelines.cast.org/"    
     - title: "Ryoo. Pedagogy That Supports Computer Science for All"
       link: "https://doi.org/10.1145/3322210"
+    - title: "Ithaca College Center for Faculty Excellence: Anticipating Learner Variability"
+      link: "https://www.ithaca.edu/center-faculty-excellence/teaching-learning-strategies/accessibility-and-universal-design-learning/anticipating-learner-variability"
 tags:
   - udl
 
@@ -58,3 +60,17 @@ Ryoo highlights the importance of addressing stereotypes, biases, and inequities
 
 Ryoo's research underscores the significance of integrating UDL principles into computer science education to promote diversity, equity, and inclusion.
 
+
+### Anticipating Learner Variability
+
+A common misreading of UDL is that it reacts to individual accommodations as they arrive.  The [Ithaca College Center for Faculty Excellence's guide to anticipating learner variability](https://www.ithaca.edu/center-faculty-excellence/teaching-learning-strategies/accessibility-and-universal-design-learning/anticipating-learner-variability) makes the opposite move: because *variability is the norm rather than the exception*, we can predict at design time the dimensions along which any group of learners will differ (background knowledge, language, attention, motivation, physical access, technology access) and build flexibility in before the course ever meets.
+
+**When a teacher would use it**: during lesson and syllabus *design*, as a pre-flight check - before you know who your students are, not after a student struggles.
+
+**Concrete usage idea**: take one lesson you are developing for this course and, for each source of variability the guide names, write one sentence on how your lesson would respond to a student at either end of that dimension; any dimension where you have no answer is your next revision target.
+
+**Discussion prompts**:
+
+1. "Designing for the average student" sounds reasonable but the learner-variability perspective argues there is no average student.  What in your own experience as a student supports or challenges that claim?
+2. How does *anticipating* variability at design time differ, in workload and in equity, from *retrofitting* accommodations one student at a time?
+3. Which sources of learner variability are especially pronounced in a K-12 *computing* classroom, where prior exposure to programming varies enormously?  How would you anticipate that variability in the first week of a CS course?

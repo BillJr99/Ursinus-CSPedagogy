@@ -12,6 +12,11 @@ info:
     - "Take on POGIL roles and follow the example lesson at the bottom of this page."
     - "How does the model provide insight about how to answer each of the guided questions?"
     - "Create a POGIL lesson for converting binary numbers to decimal."
+  additional_reading:
+    - title: "Hello World Magazine (Raspberry Pi Foundation)"
+      link: "https://www.raspberrypi.org/hello-world/"
+    - title: "Image Compression Activity Materials"
+      link: "https://drive.google.com/drive/folders/1KhJsf9mWc-33scob4hzFV_9pUQ7EW2G-"
   models:
     - model: |
         <div align="center">
@@ -119,3 +124,11 @@ Students will understand the concept of data compression, its types (lossy and l
 
 ### Reflection:
 Encourage students to reflect on the process of inquiry and collaboration. Discuss how the POGIL method facilitated their understanding of data compression.
+
+## Building Your Active-Learning Toolkit
+
+Guided inquiry is one member of a larger family of classroom protocols and techniques, and part of becoming a CS teacher is collecting a personal toolkit of them.  Two collections to draw from as you design your own POGIL-style lessons:
+
+* **[Hello World Magazine](https://www.raspberrypi.org/hello-world/)**: the Raspberry Pi Foundation's free magazine for computing educators.  Beyond the two "Big Book" compilations we use as course texts, each regular issue is full of short, classroom-tested protocols and techniques (pedagogy explainers, lesson walk-throughs, and "insider" tips from practicing teachers) - think of it as a running professional-learning community in print.  *When to use it*: as ongoing professional reading once this course ends; it is one of the easiest ways to keep your active-learning repertoire growing.  *Usage idea*: browse a recent issue and extract one classroom technique you have never tried; write it up in one paragraph (what it is, when to use it, how you would run it in a CS lesson) and add it to your teaching portfolio - then repeat each time an issue arrives.
+
+* **[Image Compression Activity Materials](https://drive.google.com/drive/folders/1KhJsf9mWc-33scob4hzFV_9pUQ7EW2G-)**: a folder of supporting materials for the image compression exploration behind the Pixel Pandemonium model above, including handouts you can adapt for a paper-based version of the activity.  *When to use it*: when you want to run the compression inquiry in a classroom without one-to-one devices, or as a kinesthetic companion to the digital canvas.  *Usage idea*: convert the handouts into a POGIL activity sheet by adding role assignments and the guided question sequence from the model above, then pilot it with your group in class.

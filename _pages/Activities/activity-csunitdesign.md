@@ -15,6 +15,12 @@ info:
   additional_reading:
     - title: "Balanced CS Instruction from the CSTA"
       link: "https://docs.google.com/document/d/1rW3_m82FV4F2p1RTixIIUK_P-oysMqGDJ4RU9lO_m8s/edit"
+    - title: "PRIMM: Predict-Run-Investigate-Modify-Make (Sentance)"
+      link: "https://primmportal.com/"
+    - title: "Systems Pedagogy Working Notes"
+      link: "https://docs.google.com/document/d/1tZO0V8_jN6jCslezGtRfCMMsn2_afL7sMDJBXGF3Ets/edit?tab=t.0#heading=h.rt1uaxjz1k7l"
+    - title: "Systems Worksheets (hscompsci/sys-worksheets)"
+      link: "https://github.com/hscompsci/sys-worksheets"
       
 tags:
   - udl
@@ -169,3 +175,70 @@ To reinforce understanding of function declarations and function bodies by worki
 ##### Extension Activity (optional)
 - As an extension, you can assign additional function specifications to pairs of students as homework.
 - Encourage them to continue practicing collaborative function writing and testing independently.
+
+## PRIMM: A Lesson Structure for Reading Code Before Writing It
+
+When sequencing the lessons within a unit, it helps to have a repeatable lesson structure that moves students from *reading* code to *writing* it.  **PRIMM** (Sue Sentance and colleagues; see the [PRIMM portal](https://primmportal.com/)) structures a programming lesson in five phases:
+
+1. **Predict**: Students study a working (or deliberately buggy) program *before running it* and predict what it will do.  Prediction commits students to a mental model that the next phase will confirm or challenge.
+2. **Run**: Students run the program and compare the actual behavior to their prediction.  A wrong prediction is not a failure - it is the moment of learning, and it is low-stakes because the students did not write the code.
+3. **Investigate**: Guided questions direct students' attention to how the code produces its behavior: tracing variables, annotating lines, drawing memory diagrams.  (Notice the kinship with POGIL's explore-a-model phase.)
+4. **Modify**: Students make small, scaffolded changes to the program, transferring ownership of the code gradually to them.
+5. **Make**: Students write a new program that uses the same ideas in a different context.
+
+PRIMM is powerful in a K-12 unit because it separates *comprehension* from *creation* (lower and higher levels of Bloom's taxonomy), and because working from shared starter code reduces the anxiety and blank-page inequity of "write a program from scratch" - students who have never seen code at home start from the same place as those who have.
+
+### Worked Example: A PRIMM Lesson on a Buggy Python Loop
+
+Here is a complete 45-minute PRIMM lesson you can adapt.  The lesson goal (UbD Stage 1): *students will be able to explain and correct an off-by-one error in an accumulator loop*.
+
+**Starter code given to students (do not run it yet!):**
+
+```python
+# This program should add up the numbers 1 through 5
+# and print 15. Does it?
+total = 0
+for i in range(5):
+    total = total + i
+print("The sum is", total)
+```
+
+* **Predict (5 min, pairs)**: "Write down exactly what this program will print."  Collect predictions on the board; most students predict `The sum is 15`.
+* **Run (5 min)**: Students run it and see `The sum is 10`.  The gap between prediction and reality creates the need to know.
+* **Investigate (15 min, pairs with guided questions)**:
+  * Make a table of the values `i` and `total` take on each pass through the loop.  How many times does the loop run?
+  * What values does `range(5)` actually produce?  Try `print(list(range(5)))`.
+  * Which numbers between 1 and 5 were never added?  Which extra number was added?
+  * In one sentence, explain why the answer was 10 and not 15.
+* **Modify (10 min)**: Fix the program so it prints 15 (there are at least two fixes: `range(1, 6)`, or `total = total + (i + 1)`).  Then modify it to sum the numbers 1 through `n` for a user-entered `n`, and to print a running total on each pass.
+* **Make (10 min + homework)**: Write a new program that uses an accumulator loop for a different purpose: total the cost of items in a shopping list, or count how many words in a sentence are longer than four letters.
+
+**Assessment**: the Investigate table is your formative check (can they trace?); the Make program is a summative artifact; an exit ticket ("explain to a friend what an off-by-one error is") assesses transfer.  When designing your own unit below, consider making your *first* lesson in any new construct a PRIMM lesson, and later lessons open-ended Makes.
+
+## Guided Reading Protocols for Code
+
+Reading a program is a literacy act, and elementary educators have decades of **guided reading** protocols that adapt beautifully to code comprehension.  In guided reading, a teacher works with a small group on a text slightly above their independent level, with a predictable before/during/after structure.  These protocols pair naturally with the Predict and Investigate phases of PRIMM, and they give your unit a UDL-friendly way to support students who can decode syntax but cannot yet comprehend a program.  Here are two ready-to-use adaptations:
+
+### Protocol 1: Small-Group Guided Code Reading (15-20 minutes)
+
+Use with a group of 3-5 students and a program slightly above what they could write independently.
+
+1. **Before reading - picture walk**: Without reading line by line, students skim the program's "shape": How long is it?  What is imported?  What functions exist?  What do the names suggest it does?  Each student offers one observation and one prediction.
+2. **During reading - whisper trace**: Each student traces the program aloud quietly at their own pace, annotating: circle every variable the first time it appears, draw an arrow for every function call, and mark a "?" on any line they cannot explain.
+3. **During reading - strategy check**: The teacher listens in and prompts with comprehension strategies rather than answers: "What does the program know at this line?"  "Read that loop again - what changes each time?"
+4. **After reading - retell**: The group co-constructs a one-paragraph plain-language "retelling" of the program, then compares it against the program's actual output.
+5. **After reading - extension**: Each student poses one "what if we changed..." question for the group.
+
+### Protocol 2: Choral Read-Aloud for Notional Machine Vocabulary (5-10 minutes, whole class)
+
+Adapted from shared reading: display a short program and read it aloud *as the computer*, with the class echoing.  "total GETS zero.  FOR EACH i IN zero-one-two-three-four: total GETS total plus i."  This protocol builds a shared, precise oral vocabulary for code (assignment vs. equality, call vs. define) and provides an auditory means of representation for the same model students see on screen.  Use it in the first minutes of a lesson before pair work.
+
+**Usage idea for your unit plan**: schedule Protocol 2 as a warm-up in early lessons and Protocol 1 as a differentiated station during Investigate/Modify time, so that your unit explicitly teaches code *reading* before assessing code *writing*.
+
+## Additional Design Resources: Systems Pedagogy
+
+Most K-12 CS units teach programming, but computing *systems* (operating systems, networks, architecture) deserve units too, and they demand different design choices because students cannot always "run" a system to explore it.  Two resources to draw on when your unit ventures into systems territory:
+
+* **[Systems Pedagogy Working Notes](https://docs.google.com/document/d/1tZO0V8_jN6jCslezGtRfCMMsn2_afL7sMDJBXGF3Ets/edit?tab=t.0#heading=h.rt1uaxjz1k7l)**: a working document collecting pedagogical strategies specific to teaching computer systems topics.  *When to use it*: at UbD Stage 3, when choosing learning activities for a systems unit and programming-centric strategies do not transfer.  *Usage idea*: pick one strategy from the document and adapt it into a lesson for teaching how the internet delivers a web page to a middle-school audience.
+
+* **[Systems Worksheets (hscompsci/sys-worksheets)](https://github.com/hscompsci/sys-worksheets)**: an open GitHub repository of guided worksheets for high-school-level computer systems topics.  *When to use it*: as ready-made Investigate-phase materials - the worksheets play the same role for systems that guided inquiry questions play in a POGIL or PRIMM programming lesson.  *Usage idea*: take one worksheet and annotate it against the UbD template above: what are its implied Stage 1 goals, and what Stage 2 evidence would show students met them?

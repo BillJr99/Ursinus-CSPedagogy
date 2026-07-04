@@ -68,6 +68,8 @@ info:
       link: "http://udlguidelines.cast.org"
     - title: "Project TACTIC - Teaching All Computational Thinking through Inclusion and Collaboration"
       link: "https://ctrl.education.ufl.edu/projects/tactic/"
+    - title: "Inclusive CS Teaching"
+      link: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
       
 tags:
   - cs4all
@@ -186,3 +188,16 @@ Engagement is the "why" of learning, and it's essential to motivate students to 
 #### Goal: Expert Learners who are Purposeful & Motivated, Resourceful & Knowledgeable, Strategic & Goal-Directed
 
 The UDL framework aims to create expert learners who are purposeful, motivated, resourceful, knowledgeable, strategic, and goal-directed. By applying these principles in computing education, educators can create inclusive and effective learning environments that cater to diverse needs and preferences. The integration of UDL in computing education not only enhances accessibility but also fosters creativity, collaboration, and critical thinking, essential skills for the future of technology and innovation.
+
+### Resource Spotlight: Inclusive CS Teaching
+
+The [Inclusive CS Teaching site](https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1) collects concrete, classroom-ready strategies for making computer science instruction inclusive, organized so a busy teacher can find a practice and apply it the same week.  Where the UDL guidelines above tell you *what* dimensions of a lesson to open up, this site provides *worked instances* of doing so in CS specifically.
+
+**When a teacher would use it**: when translating a UDL commitment ("provide multiple means of engagement") into a specific CS move for tomorrow's class, or when auditing an existing CS lesson for inclusion barriers.
+
+**Concrete usage idea**: as you complete the CS4All and UDL written assignment, choose one strategy from the site for each of the three UDL principles and cite how you adapted it in your lesson revision.
+
+**Discussion prompts**:
+
+1. Choose one strategy from the site.  Which UDL checkpoint(s) does it serve, and which of Ryoo's dimensions of inclusive CS pedagogy does it enact?
+2. Many inclusion strategies (like live captioning or offering starter code) benefit *all* students, not just those they were designed for.  Find one example on the site and describe its "curb-cut effect."

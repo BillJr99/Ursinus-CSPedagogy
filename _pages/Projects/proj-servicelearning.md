@@ -92,3 +92,33 @@ Finally, you will present a summary of your project to our class, and summarize 
 ## Unit and Lesson Activities
 
 Your final report will include the complete unit and lesson activities you developed throughout the semester.  Consider this your portfolio!  I encourage you to publish this publicly.  Your design should include a unit of at least 3 lessons that includes (and discusses explicitly) several of the 12 pedagogical principles of computing, along with formative and summative assessments that span Bloom's taxonomy, and whose lesson activities differentiate instruction using scaffolding of multiple entry points according to UDL principles.
+## Field Experience Logistics: Visiting Partner Schools
+
+Your K-12 presentation involves visiting an external school, and a professional visit takes preparation.  This section is your logistics guide; treat it as a checklist to begin **several weeks before** your planned visit, because clearances take time to process.
+
+### Clearances
+
+Pennsylvania requires clearances for adults working with minors in schools.  Before any classroom visit:
+
+1. Review the [Ursinus Education Department's Field Experiences and Clearances page](https://www.ursinus.edu/academics/education/field-experiences-and-clearances/), which describes the required clearances (PA Criminal Record Check, PA Child Abuse History Clearance, and FBI fingerprint-based background check, as applicable) and how to obtain each.
+2. Consult the [Education Department's clearance requirements document](https://ursinuscollege365.sharepoint.com/:w:/s/UCGroup_Education/EeP0cAR-DGFMpX2cryZQA2sBnelgzvNbqrFn6BWLtvORvg?e=TqQUDy) (Ursinus login required) for current step-by-step instructions and timelines.
+3. Confirm with your instructor which clearances your specific placement requires; your partner school or district may have additional paperwork of its own.
+4. Keep copies (paper and digital) of every clearance you obtain: you will need to present them, and future field experiences and student teaching will ask for them again.
+
+**Do not schedule a classroom visit until your instructor has confirmed your clearances are in order.**
+
+### Preparing for Your Visit
+
+* **Coordinate in advance** with your partner teacher: confirm the date, arrival time, parking, sign-in procedure, class period, room technology, and how many students to expect.  Send your lesson materials to the teacher ahead of time and ask what classroom norms and routines you should follow.
+* **Know your learners** as well as you can before you arrive: grade level, prior computing exposure, and any accommodations the teacher can share in general terms - then apply the UDL practice from this course and design for variability you *cannot* see in advance.
+* **Plan for the room you'll actually have**: have an unplugged fallback for any technology-dependent step, and print more handouts than you think you need.
+* **Professional etiquette**: dress professionally, arrive early, sign in at the main office, stay with your supervising teacher (you are a guest, and the teacher remains responsible for the class), use school-appropriate language, and do not photograph students or share identifying details about them - including in your reflection and public portfolio.  Address disciplinary matters by deferring to the classroom teacher.
+* **Afterwards**: thank the teacher (a brief thank-you email is professional practice) and ask for their candid feedback while the visit is fresh - it becomes primary source material for your reflection.
+
+### Curriculum Alignment: The PA Instructional Workbook
+
+As you finalize the lesson you will deliver, consult the [PA Instructional Workbook](https://docs.google.com/document/d/1p9u1ylTO32j-fhS_SWmwmRLJx1mhIAf0HHjkQxCEFow/edit?usp=sharing), which supports planning instruction aligned to Pennsylvania's standards frameworks.  *When to use it*: after your UbD Stage 1 goals are drafted, to verify that your goals and evidence align with the standards your partner teacher is responsible for - alignment is often the first thing a supervising teacher checks.  *Usage idea*: include a short alignment table in your final report mapping each lesson goal to the relevant standard; this both strengthens your portfolio and makes your materials far easier for another teacher to adopt.
+
+### Tying the Visit to Your Reflection
+
+Your individual reflection (see "K-12 Presentation" above) should draw directly on the visit: what the logistics taught you (what would you tell next year's students about preparing for a school visit?), what surprised you about the difference between your planned lesson and the delivered lesson, and how the observation and feedback from your partner teacher will shape your "version 2.0" recommendations.  Students also completing the [LINQ Partnership reflection](../Reflections/LINQPartnership) may reference the same visit in both, through the two different lenses.

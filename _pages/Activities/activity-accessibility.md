@@ -114,6 +114,10 @@ info:
       link: "https://par.nsf.gov/servlets/purl/10356929"      
     - title: "WAVE Toolkit"
       link: "https://wave.webaim.org/"
+    - title: "Ithaca College Center for Faculty Excellence: Anticipating Learner Variability"
+      link: "https://www.ithaca.edu/center-faculty-excellence/teaching-learning-strategies/accessibility-and-universal-design-learning/anticipating-learner-variability"
+    - title: "Inclusive CS Teaching"
+      link: "https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1"
 
 tags:
   - udl
@@ -193,3 +197,13 @@ CS educators can consider the following practices to build inclusive environment
 ## Conclusion
 
 Accessibility in CS educational design is crucial for ensuring equal opportunities and inclusivity for individuals with disabilities. By adopting guidelines and utilizing tools like WCAG and WAVE, CS educators can improve the accessibility of their materials. Practices such as Universal Design for Learning, fostering persistence, and creating inclusive learning environments further support the needs of students with disabilities in CS education.
+
+## Designing Ahead of Need: Two Practical Companions
+
+Two additional resources complement the accessibility guidelines and tools above by moving the work earlier in the design process:
+
+* **[Anticipating Learner Variability (Ithaca College Center for Faculty Excellence)](https://www.ithaca.edu/center-faculty-excellence/teaching-learning-strategies/accessibility-and-universal-design-learning/anticipating-learner-variability)**: a concise guide arguing that learner variability is predictable, so accessible design can happen *before* any accommodation request arrives.  *When to use it*: at design time, alongside your WCAG/WAVE checks - WAVE audits the artifact, this guide audits the lesson design.  *Usage idea*: before deploying your service learning lesson, run both audits and note which barriers each one caught that the other missed.
+
+* **[Inclusive CS Teaching](https://sites.google.com/view/inclusivecsteaching/home?authuser=0&pli=1)**: a collection of concrete inclusive teaching strategies specific to computer science classrooms.  *When to use it*: when a barrier is pedagogical rather than technical - e.g., a student can perceive the materials but cannot enter the activity.  *Usage idea*: pick one strategy and pair it with one WCAG guideline to show how technical accessibility and inclusive pedagogy address different layers of the same lesson.
+
+**Discussion prompt**: WCAG makes *content* perceivable, operable, understandable, and robust; UDL and inclusive teaching make *learning* so.  Give one example from a CS classroom where a lesson could pass a WAVE scan and still exclude a learner - and one strategy from the resources above that would catch it.

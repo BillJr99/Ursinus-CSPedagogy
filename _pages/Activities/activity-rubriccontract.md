@@ -13,6 +13,8 @@ info:
       link: "https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_pubs"
     - title: "Techniques for Using Specifications Grading in Computer Science"
       link: "https://dl.acm.org/doi/abs/10.5555/3205191.3205226"  
+    - title: "TILT Higher Ed: Transparency in Learning and Teaching"
+      link: "https://tilthighered.com/"
   guidingquestions:
     - "What is the benefit of using a rubric to evaluate student work?"
     - "Should a rubric be shared with students prior to completing an assessment?  Why or why not?"
@@ -20,6 +22,7 @@ info:
     - "How might contract grading improve communication of expectations?"
     - "How can Bloom's Taxonomy influence the criteria, classifications, and/or descriptions within a rubric?"
     - "Design a rubric, and a grading contract, for a class activity on binary number encodings."
+    - "How do rubrics, grading contracts, and the TILT framework each answer a student's question: &quot;what do you actually want from me on this assignment?&quot;"
     
 tags:
   - assessment
@@ -96,3 +99,56 @@ Compared to traditional point-based grading, contract grading can reduce student
 | **Code Quality**       | Proper structure, efficiency, readability; no errors.                   | Minor deficiencies; less than 3 minor errors.       | Significant room for improvement; less than 5 minor errors. | Poor structure and readability; more than 5 errors.   | Incoherent, incorrect, or completely lacking; unrunnable code. |
 | **Innovation**         | Highly innovative solution; creative use of technology.                 | Some creative elements; minor innovation.           | Standard solution; limited innovation.                 | Lack of innovation or creativity; follows existing solutions. | No innovation or creativity; copies existing solutions. |
 
+## Transparent Assignment Design: The TILT Framework
+
+Rubrics and contracts make *grading* transparent; the [TILT framework (Transparency in Learning and Teaching)](https://tilthighered.com/) makes the *assignment itself* transparent.  Developed by Mary-Ann Winkelmes and colleagues, TILT research found that when instructors made just two assignments per term transparent, students - and especially first-generation, low-income, and underrepresented students - showed significant gains in academic confidence, sense of belonging, and persistence.  That makes TILT an *equity* practice as much as an assessment practice, and a natural companion to the equitable computing pedagogy at the heart of this course.
+
+A TILTed assignment states three things **before students begin work**:
+
+1. **Purpose**: *Why* am I asking you to do this?  What skills will you practice, what knowledge will you gain, and how does it connect to your longer-term goals (the rest of the course, your career, your life)?
+2. **Task**: *What* exactly will you do, and *how*?  What are the steps, and what pitfalls should you avoid?
+3. **Criteria**: *What does success look like?*  Provide the rubric or contract in advance - and ideally an annotated example of good work.
+
+Notice how the pieces of this activity fit together: the **Criteria** component is precisely where the rubrics and grading contracts above live.  TILT wraps them with the *why* and the *how* that novices - who cannot yet infer our unstated expectations - need most.  (Meta-note: the activity pages in this course practice this framework: the sidebar goals are the purpose, the models and guided questions are the task, and the rubrics and contracts on assignment pages are the criteria.)
+
+### Before and After: TILTing a CS Assignment
+
+**Before (opaque)**:
+
+> **Homework 3.** Write a Python program that reads a file of temperatures and prints the average, minimum, and maximum.  Due Friday.  10 points.
+
+The task is clear to the *instructor*, who knows why file I/O matters, remembers the edge cases, and has an implicit rubric.  The student who has never seen our expectations must guess at all of it.
+
+**After (TILTed)**:
+
+> **Homework 3: Weather Station Statistics.**
+>
+> **Purpose**: Real programs rarely have their data typed into the code; they read it from files.  This assignment gives you practice with file input, accumulator loops (from Unit 2), and defensive programming.  These same patterns appear in every data-processing task you will do this year, including your final project.
+>
+> **Task**: Write a Python program that (1) opens `temps.txt`, (2) reads one temperature per line, (3) computes and prints the average, minimum, and maximum.  Suggested steps: start by printing each line; then convert to numbers; then add the statistics one at a time, testing after each.  *Common pitfalls*: forgetting to convert strings to floats; assuming the file is non-empty; dividing by zero.  You may work with a partner using the pair programming roles we practiced.
+>
+> **Criteria**: Full credit requires: correct statistics on our three test files (6 pts), graceful handling of an empty file (2 pts), and descriptive variable names with a comment per function (2 pts).  See the attached rubric and an annotated example solution to a *similar* problem (word counts) so you can see what "graceful" and "descriptive" mean in practice.
+
+Same assignment, same rigor - but the second version distributes the instructor's insider knowledge to every student, not just those with the background to guess it.
+
+### Checklist: TILTing One of Your Own Assignments
+
+Take an assignment you have written (your UbD lesson plan's performance task, a lab from a class you have taken, or one of mine!) and TILT it using this checklist:
+
+* **Purpose**
+  * [ ] Names the specific skills students will practice
+  * [ ] Names the knowledge/concepts the work will build
+  * [ ] Connects the work to something beyond this assignment (course goals, later units, authentic practice)
+* **Task**
+  * [ ] States what to do and how to begin
+  * [ ] Breaks large work into suggested steps or milestones
+  * [ ] Warns about known pitfalls and clarifies what help/collaboration is allowed
+* **Criteria**
+  * [ ] Includes the rubric or contract *with* the assignment, not after
+  * [ ] Defines success in observable terms (echo your Bloom verbs!)
+  * [ ] Provides or points to an annotated example of quality work
+* **Accessibility check (UDL tie-in)**
+  * [ ] A student who missed class could still understand the assignment from the document alone
+  * [ ] Language is free of unexplained jargon and idioms
+
+Exchange your TILTed assignment with a partner and review each other's work against the checklist: could you complete the assignment, and predict your grade, using only the document in front of you?
