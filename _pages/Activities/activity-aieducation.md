@@ -32,7 +32,7 @@ info:
   models:
     - model: |
         <div align="center">
-        <iframe src="https://ai4k12.org/wp-content/uploads/2020/12/AI4K12_Five_Big_Ideas_Poster.pdf" width="100%" height="500px"></iframe>
+        <iframe title="AI4K12 Five Big Ideas in AI poster (PDF)" src="https://ai4k12.org/wp-content/uploads/2020/12/AI4K12_Five_Big_Ideas_Poster.pdf" width="100%" height="500px"></iframe>
         <br>
         The AI4K12 initiative organizes all of K-12 AI education around Five Big Ideas: (1) Perception, (2) Representation and Reasoning, (3) Learning, (4) Natural Interaction, and (5) Societal Impact.
         </div>
